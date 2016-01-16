@@ -2,9 +2,11 @@
 
 > proposal of the list to for the 1C Enterprise platform (1c-dn.com), will be in Russian right now
 
-```
-todo - TOC
-```
+- [awesome 1c platform ](#)
+	- [Контроль качества разработки](#)
+	- [Библиотеки для работы](#)
+	- [DevOps](#)
+	- [Подсветка синтаксис](#)
 
 перед добавлением своей программы в список пожалуйста изучите
 
