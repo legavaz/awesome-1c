@@ -24,11 +24,18 @@
 
 * [v8unpack]()
 * [oscript-library]()
+* [Tool1cd]()
 
 ## DevOps
 
 * [OScript]()
 
-## Подсветка синтаксис
+## Подсветка синтаксиса
 
 * [1S Syntax Highlights]()
+
+
+## Потенциально интересное (без категорий)
+
+* https://github.com/purtcer/NurseConsole1CServer
+* https://github.com/TeamBIOS/cfg_tools
