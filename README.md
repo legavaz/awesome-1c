@@ -11,31 +11,35 @@
 перед добавлением своей программы в список пожалуйста изучите
 
 * [Инструкцию по добавлению](CONTRIBUTING.md)
-* [Критерии качества добавляемого приложения]()
+* [Критерии качества добавляемого приложения](CONTRIBUTING.md)
 
 > todo - описание
 
 ## Контроль качества разработки
 
-* [Vanessa Behavior]() - аналог Cucumber для 1С
-* [xUnitFor1C]() - TDD для 1С
+* [Vanessa Behavior](https://github.com/silverbulleters/vanessa-behavior) - ADD для 1C
+* [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - TDD для 1С
 
 ## Библиотеки для работы
 
-* [v8unpack]()
-* [oscript-library]()
-* [Tool1cd]()
+* [v8unpack](https://github.com/dmpas/v8unpack/tree/v.3.0)
+* [oscript-library](https://github.com/EvilBeaver/oscript-library)
+* [Tool1cd](https://bitbucket.org/awa15/tool_1cd/)
 
 ## DevOps
 
-* [OScript]()
+* [OScript](https://github.com/EvilBeaver/OneScript)
 
 ## Подсветка синтаксиса
 
-* [1S Syntax Highlights]()
-
+* [1S Syntax Highlights](https://github.com/xDrivenDevelopment/1c-syntax)
 
 ## Потенциально интересное (без категорий)
 
 * https://github.com/purtcer/NurseConsole1CServer
 * https://github.com/TeamBIOS/cfg_tools
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
