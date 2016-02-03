@@ -17,6 +17,7 @@
 
 * [1C и Slack](https://github.com/pbazeliuk/1C-Slack)
 * [1C и HipChat](https://github.com/pbazeliuk/1C-HipChat)
+* [1C и CropIO](https://github.com/cropio/cropio-1c)
 
 ## Контроль качества разработки
 
