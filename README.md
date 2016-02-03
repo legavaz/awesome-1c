@@ -2,7 +2,7 @@
 
 `proposal of the list to for the 1C Enterprise platform (1c-dn.com), will be in Russian right now`
 
-- [Список классных программ для 1С]
+[Список классных программ для 1С]
 
 > todo - сделать оглавление автоматизировано
 
@@ -10,8 +10,6 @@
 
 * [Инструкцию по добавлению](CONTRIBUTING.md)
 * [Критерии качества добавляемого приложения](CONTRIBUTING.md)
-
-> todo - описание
 
 ## Примеры интеграций 1C и <что-то>
 
