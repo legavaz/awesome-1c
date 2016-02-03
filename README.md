@@ -25,7 +25,7 @@
 * [v8unpack](https://github.com/dmpas/v8unpack/tree/v.3.0) - утилита С++ для работы с бинарными файлами 1С
 * [oscript-library](https://github.com/EvilBeaver/oscript-library) - полезные библиотеки на 1Script
 * [Tool1cd](https://bitbucket.org/awa15/tool_1cd/) - консольная и GUI утилита для работы с DT файлами
-* [](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
+* [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
 
 ## DevOps
 
