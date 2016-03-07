@@ -31,6 +31,8 @@
 
 * [OScript](https://github.com/EvilBeaver/OneScript) - интерепретатор 1С языка для написания скриптов
 * [OneWS](https://github.com/crsde/one-ws) - docker контейнер для Web адаптеров (в связи с выходом 8.4 актуальность падает)
+* [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall)
+* [Помошник сборки ]
 
 ## Подсветка синтаксиса
 
@@ -53,6 +55,8 @@
 * https://github.com/alekseybochkov/WebRAS
 * https://github.com/vladon/SocketNative
 * https://github.com/pbazeliuk/V8Commit
+* https://github.com/vadv/1c-build-tmp
+* https://github.com/antioff/afalina
 
 ## License
 
