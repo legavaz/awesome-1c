@@ -32,7 +32,6 @@
 * [OScript](https://github.com/EvilBeaver/OneScript) - интерепретатор 1С языка для написания скриптов
 * [OneWS](https://github.com/crsde/one-ws) - docker контейнер для Web адаптеров (в связи с выходом 8.4 актуальность падает)
 * [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall)
-* [Помошник сборки ]
 
 ## Подсветка синтаксиса
 
