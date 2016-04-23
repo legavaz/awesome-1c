@@ -41,6 +41,7 @@
 ## Утилиты
 
 * [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C)
+* [DT Python Tools](https://github.com/Infactum/onec_dtools)
 
 ## Курсы, книги и примеры
 
