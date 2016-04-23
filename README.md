@@ -56,6 +56,7 @@
 * https://github.com/vladon/SocketNative
 * https://github.com/pbazeliuk/V8Commit
 * https://github.com/antioff/afalina
+* https://github.com/skyksandr/1c-log-to-es
 
 ## License
 
