@@ -22,12 +22,15 @@
 * [Vanessa Behavior](https://github.com/silverbulleters/vanessa-behavior) - ADD для 1C
 * [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - TDD для 1С
 
-## Библиотеки для работы
+## Библиотеки и утилиты для работы
 
 * [v8unpack](https://github.com/dmpas/v8unpack/tree/v.3.0) - утилита С++ для работы с бинарными файлами 1С
 * [oscript-library](https://github.com/EvilBeaver/oscript-library) - полезные библиотеки на 1Script
-* [Tool1cd](https://bitbucket.org/awa15/tool_1cd/) - консольная и GUI утилита для работы с DT файлами
+* [Tool1CD](https://bitbucket.org/awa15/tool_1cd/) - консольная и GUI утилита для работы с DT файлами
+* [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c)
+* [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C)
 * [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
+
 
 ## DevOps
 
@@ -37,24 +40,18 @@
 * [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall)
 * [PostgreSQL для 1С (сборка под Vagrant+Docker)](https://github.com/VanessaDockers/pgsteroids)
 
-## Подсветка синтаксиса
+## Подсветка синтаксиса и пакеты для редакторов
 
-* [1S Syntax Highlights](https://github.com/xDrivenDevelopment/1c-syntax)
-* [GitLab Syntax Highlights](https://github.com/karnilaev/1c-syntax-for-GitLab)
+* [1S Syntax Highlights](https://github.com/xDrivenDevelopment/1c-syntax) - поддержка 1С в редакторах Atom, VSC, Sublime
+* [GitLab Syntax Highlights](https://github.com/karnilaev/1c-syntax-for-GitLab) - подсветка синтаксиса для GitLAb Server
 
 ## Внешние компоненты
 
-* [Small Wrapper AddIn 1C](https://github.com/tapapax/Addin1C)
-
-## Утилиты
-
-* [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c)
-* [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C)
-* [DT Python Tools](https://github.com/Infactum/onec_dtools)
+* [Small Wrapper AddIn 1C](https://github.com/tapapax/Addin1C) - пример работы с Native API
 
 ## Курсы, книги и примеры
 
-* [Управление небольшой фирмой](https://github.com/eetk/1c-management-small-firm)
+* [Управление небольшой фирмой](https://github.com/eetk/1c-management-small-firm) - документация по УНФ
 
 ### Потенциально интересное (без категорий)
 
