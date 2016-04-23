@@ -48,6 +48,7 @@
 
 ## Утилиты
 
+* [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c)
 * [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C)
 * [DT Python Tools](https://github.com/Infactum/onec_dtools)
 
