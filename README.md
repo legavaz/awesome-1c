@@ -24,11 +24,12 @@
 
 ## Библиотеки и утилиты для работы
 
+* [Local Compile Utils](https://github.com/silverbulleters/vanessa-runner) - скрипты для локальной сборки "за один шаг"
 * [v8unpack](https://github.com/dmpas/v8unpack/tree/v.3.0) - утилита С++ для работы с бинарными файлами 1С
 * [oscript-library](https://github.com/EvilBeaver/oscript-library) - полезные библиотеки на 1Script
 * [Tool1CD](https://bitbucket.org/awa15/tool_1cd/) - консольная и GUI утилита для работы с DT файлами
-* [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c)
-* [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C)
+* [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c) - поддержка возможности работы с EPF внутри git репозиториев через "перехваты git"
+* [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C) - утилита для исправления чужих ошибок ;-)
 * [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
 
 
@@ -37,8 +38,8 @@
 * [1C GitLab CI](https://github.com/nixel2007/gitlab-ci-for-1c) - скрипты для работы с GitLab CI и 1С
 * [OScript](https://github.com/EvilBeaver/OneScript) - интерепретатор 1С языка для написания скриптов
 * [OneWS](https://github.com/crsde/one-ws) - docker контейнер для Web адаптеров (в связи с выходом 8.4 актуальность падает)
-* [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall)
-* [PostgreSQL для 1С (сборка под Vagrant+Docker)](https://github.com/VanessaDockers/pgsteroids)
+* [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall) - репозиторий для автоматизированной сборки PostgreSQL для 1С из исходников
+* [PostgreSQL для 1С (сборка под Vagrant+Docker)](https://github.com/VanessaDockers/pgsteroids) - виртуальная машина для использования на разработческих контурах в связке с мини-сервером 1С
 
 ## Подсветка синтаксиса и пакеты для редакторов
 
