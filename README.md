@@ -14,6 +14,8 @@
 * [1C и Slack](https://github.com/pbazeliuk/1C-Slack)
 * [1C и HipChat](https://github.com/pbazeliuk/1C-HipChat)
 * [1C и CropIO](https://github.com/cropio/cropio-1c)
+* [1C и WooCommerce](https://github.com/sgtpep/woocommerce-1c)
+* [1C и Redmine](https://github.com/SmokyAce/integration-1c-redmine)
 
 ## Контроль качества разработки
 
@@ -29,6 +31,7 @@
 
 ## DevOps
 
+* [1C GitLab CI](https://github.com/nixel2007/gitlab-ci-for-1c)
 * [OScript](https://github.com/EvilBeaver/OneScript) - интерепретатор 1С языка для написания скриптов
 * [OneWS](https://github.com/crsde/one-ws) - docker контейнер для Web адаптеров (в связи с выходом 8.4 актуальность падает)
 * [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall)
@@ -37,6 +40,11 @@
 ## Подсветка синтаксиса
 
 * [1S Syntax Highlights](https://github.com/xDrivenDevelopment/1c-syntax)
+* [GitLab Syntax Highlights](https://github.com/karnilaev/1c-syntax-for-GitLab)
+
+## Внешние компоненты
+
+* [Small Wrapper AddIn 1C](https://github.com/tapapax/Addin1C)
 
 ## Утилиты
 
@@ -58,6 +66,9 @@
 * https://github.com/pbazeliuk/V8Commit
 * https://github.com/antioff/afalina
 * https://github.com/skyksandr/1c-log-to-es
+* https://github.com/ANtlord/price-import-1c
+* https://github.com/1CEnterprise/MSQL-for-1C
+* https://github.com/asdaru/postgres_1c
 
 ## License
 
