@@ -43,8 +43,8 @@
 
 ## Подсветка синтаксиса и пакеты для редакторов
 
-* [1S Syntax Highlights](https://github.com/xDrivenDevelopment/1c-syntax) - поддержка 1С в редакторах Atom, VSC, Sublime
-* [GitLab Syntax Highlights](https://github.com/karnilaev/1c-syntax-for-GitLab) - подсветка синтаксиса для GitLAb Server
+* [1C Syntax Highlight](https://github.com/xDrivenDevelopment/1c-syntax) - поддержка 1С в редакторах Atom, VSC, Sublime
+* [GitLab Syntax Highlight](https://github.com/karnilaev/1c-syntax-for-GitLab) - подсветка синтаксиса 1С для GitLab Server
 
 ## Внешние компоненты
 
