@@ -9,6 +9,7 @@
 
 ### Запуск скриптов
 
+* установите переменные окружения на время запуска `GITHUB_USER` и `GITHUB_PASSWORD`
 * `Ctrl+Shift+B` - в Visual Studio Code
 
 или напрямую из консоли - например `ruby github-search.rb`
