@@ -9,6 +9,13 @@
 * [Инструкцию по добавлению](CONTRIBUTING.md)
 * [Критерии качества добавляемого приложения](CONTRIBUTING.md)
 
+## Официальные репозитории компании 1С
+
+* [DirectBank (прямой обмен с банком) – технология системы "1С:Предприятие 8"](https://github.com/1C-Company/DirectBank) - 
+* [Пример конфигурации для EDT](https://github.com/1C-Company/dt-demo-configuration)
+* [Пример плагина для EDT](https://github.com/1C-Company/dt-example-plugins)
+
+
 ## Примеры интеграций 1C и <что-то>
 
 * [1C и Slack](https://github.com/pbazeliuk/1C-Slack)
