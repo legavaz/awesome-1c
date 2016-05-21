@@ -50,6 +50,10 @@
 
 * [Small Wrapper AddIn 1C](https://github.com/tapapax/Addin1C) - пример работы с Native API
 
+## Фреймворки для интеграции с 1С
+
+* [Metadata.JS](https://github.com/oknosoft/metadata.js)
+
 ## Курсы, книги и примеры
 
 * [Управление небольшой фирмой](https://github.com/eetk/1c-management-small-firm) - документация по УНФ
@@ -68,7 +72,6 @@
 * https://github.com/ANtlord/price-import-1c
 * https://github.com/1CEnterprise/MSQL-for-1C
 * https://github.com/asdaru/postgres_1c
-* https://github.com/oknosoft/metadata.js
 
 ## License
 

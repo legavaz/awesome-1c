@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 19.05.2016 21:22:56
+Актуальность: 21.05.2016 12:11:49
 
 ## Пользователи
 
-Общее количество пользователей: 51
-Всего репозиториев: 86
+Общее количество пользователей: 52
+Всего репозиториев: 87
 
 | Пользователь | Акаунт |
 ---|---|
@@ -46,8 +46,8 @@
 | stop-time | https://github.com/stop-time |
 | Uralchem-ssc | https://github.com/Uralchem-ssc |
 | mishatre | https://github.com/mishatre |
-| carlosthebest | https://github.com/carlosthebest |
 | vpozdnyakov | https://github.com/vpozdnyakov |
+| carlosthebest | https://github.com/carlosthebest |
 | SmokyAce | https://github.com/SmokyAce |
 | ilgizvip | https://github.com/ilgizvip |
 | antowski | https://github.com/antowski |
@@ -59,13 +59,14 @@
 | alehinsasha | https://github.com/alehinsasha |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
+| verter4sb | https://github.com/verter4sb |
 | xmentosx | https://github.com/xmentosx |
 
 
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 48
+Общее количество репозиториев: 49
 
 | Репозиторий | URL |
 |---|---|
@@ -92,8 +93,8 @@
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
-| carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
+| carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
@@ -107,12 +108,13 @@
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
-| vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
+| vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | alehinsasha/test | https://github.com/alehinsasha/test |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
+| verter4sb/all1c | https://github.com/verter4sb/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
@@ -133,14 +135,14 @@
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
-| vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
+| vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
-| silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
+| silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | artbear/1bdd | https://github.com/artbear/1bdd |
