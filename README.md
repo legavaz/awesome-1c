@@ -67,6 +67,8 @@
 
 ### Потенциально интересное (без категорий)
 
+**Ручной поиск**
+
 * https://github.com/purtcer/NurseConsole1CServer
 * https://github.com/TeamBIOS/cfg_tools
 * https://github.com/EnterraInc/1C-.Net-Adapter
@@ -80,7 +82,12 @@
 * https://github.com/1CEnterprise/MSQL-for-1C
 * https://github.com/asdaru/postgres_1c
 
+**Автоматический поиск**
+
+[Данные согласно поиску GitHub](data/README.md)
+
+[Инструкция по скриптам поиска](tools/README.md)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
