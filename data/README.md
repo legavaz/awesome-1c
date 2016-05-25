@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 24.05.2016 5:14:18
+Актуальность: 25.05.2016 5:14:16
 
 ## Пользователи
 
-Общее количество пользователей: 52
-Всего репозиториев: 87
+Общее количество пользователей: 53
+Всего репозиториев: 89
 
 | Пользователь | Акаунт |
 ---|---|
@@ -24,6 +24,7 @@
 | otdel | https://github.com/otdel |
 | nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
+| oscript-library | https://github.com/oscript-library |
 | test4web | https://github.com/test4web |
 | Petr28 | https://github.com/Petr28 |
 | kseniyaloza | https://github.com/kseniyaloza |
@@ -54,9 +55,9 @@
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
 | BigHotey | https://github.com/BigHotey |
+| alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
 | Georgich88 | https://github.com/Georgich88 |
-| alehinsasha | https://github.com/alehinsasha |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
 | verter4sb | https://github.com/verter4sb |
@@ -66,7 +67,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 49
+Общее количество репозиториев: 50
 
 | Репозиторий | URL |
 |---|---|
@@ -103,6 +104,7 @@
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
+| alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | silverbulleters/vanessa-dbaqa | https://github.com/silverbulleters/vanessa-dbaqa |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
@@ -111,9 +113,9 @@
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
 | vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
-| alehinsasha/test | https://github.com/alehinsasha/test |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | verter4sb/all1c | https://github.com/verter4sb/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
@@ -124,7 +126,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 39
+Общее количество репозиториев: 40
 
 | Репозиторий | URL |
 |---|---|
@@ -156,6 +158,7 @@
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
+| oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
 | vsuh/ini_parse | https://github.com/vsuh/ini_parse |
 | allustin/note-checker | https://github.com/allustin/note-checker |
