@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 26.05.2016 5:14:15
+Актуальность: 27.05.2016 5:14:13
 
 ## Пользователи
 
 Общее количество пользователей: 53
-Всего репозиториев: 89
+Всего репозиториев: 90
 
 | Пользователь | Акаунт |
 ---|---|
@@ -67,7 +67,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 50
+Общее количество репозиториев: 51
 
 | Репозиторий | URL |
 |---|---|
@@ -97,6 +97,7 @@
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
+| smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
