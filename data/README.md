@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 27.05.2016 5:14:13
+Актуальность: 28.05.2016 5:14:02
 
 ## Пользователи
 
@@ -22,10 +22,11 @@
 | artbear | https://github.com/artbear |
 | pumbaEO | https://github.com/pumbaEO |
 | otdel | https://github.com/otdel |
-| nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
+| nextkmv | https://github.com/nextkmv |
 | oscript-library | https://github.com/oscript-library |
 | test4web | https://github.com/test4web |
+| verter4sb | https://github.com/verter4sb |
 | Petr28 | https://github.com/Petr28 |
 | kseniyaloza | https://github.com/kseniyaloza |
 | asheichenko | https://github.com/asheichenko |
@@ -60,14 +61,13 @@
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
-| verter4sb | https://github.com/verter4sb |
 | xmentosx | https://github.com/xmentosx |
 
 
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 51
+Общее количество репозиториев: 50
 
 | Репозиторий | URL |
 |---|---|
@@ -117,17 +117,16 @@
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
-| verter4sb/all1c | https://github.com/verter4sb/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 40
+Общее количество репозиториев: 41
 
 | Репозиторий | URL |
 |---|---|
@@ -156,8 +155,8 @@
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | otdel/OneScript | https://github.com/otdel/OneScript |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
-| nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
+| nextkmv/vServer | https://github.com/nextkmv/vServer |
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
 | oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
@@ -165,6 +164,7 @@
 | allustin/note-checker | https://github.com/allustin/note-checker |
 | kuntashov/oscript-yadisk-uploader | https://github.com/kuntashov/oscript-yadisk-uploader |
 | test4web/all1c | https://github.com/test4web/all1c |
+| verter4sb/all1c | https://github.com/verter4sb/all1c |
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
