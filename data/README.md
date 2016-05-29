@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 28.05.2016 5:14:02
+Актуальность: 29.05.2016 5:14:05
 
 ## Пользователи
 
@@ -118,8 +118,8 @@
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
