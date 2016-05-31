@@ -1,16 +1,17 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 30.05.2016 5:14:06
+Актуальность: 31.05.2016 5:14:10
 
 ## Пользователи
 
-Общее количество пользователей: 53
-Всего репозиториев: 90
+Общее количество пользователей: 54
+Всего репозиториев: 93
 
 | Пользователь | Акаунт |
 ---|---|
 |  | https://github.com/ |
 | kuntashov | https://github.com/kuntashov |
+| SergeFocus | https://github.com/SergeFocus |
 | EvilBeaver | https://github.com/EvilBeaver |
 | allustin | https://github.com/allustin |
 | silverbulleters | https://github.com/silverbulleters |
@@ -28,10 +29,10 @@
 | test4web | https://github.com/test4web |
 | verter4sb | https://github.com/verter4sb |
 | Petr28 | https://github.com/Petr28 |
+| VanessaDockers | https://github.com/VanessaDockers |
 | kseniyaloza | https://github.com/kseniyaloza |
 | asheichenko | https://github.com/asheichenko |
 | raevsky66 | https://github.com/raevsky66 |
-| SergeFocus | https://github.com/SergeFocus |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
 | po4ta56 | https://github.com/po4ta56 |
@@ -118,20 +119,21 @@
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 41
+Общее количество репозиториев: 44
 
 | Репозиторий | URL |
 |---|---|
 | / | https://github.com// |
 | kuntashov/oscript-bsl-github-stats | https://github.com/kuntashov/oscript-bsl-github-stats |
+| SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
@@ -140,6 +142,7 @@
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
+| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
@@ -167,6 +170,7 @@
 | verter4sb/all1c | https://github.com/verter4sb/all1c |
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
+| VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
