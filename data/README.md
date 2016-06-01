@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 31.05.2016 5:14:10
+Актуальность: 01.06.2016 5:14:13
 
 ## Пользователи
 
-Общее количество пользователей: 54
-Всего репозиториев: 93
+Общее количество пользователей: 56
+Всего репозиториев: 95
 
 | Пользователь | Акаунт |
 ---|---|
@@ -63,12 +63,14 @@
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
 | xmentosx | https://github.com/xmentosx |
+| PiskunovSS | https://github.com/PiskunovSS |
+| s6s | https://github.com/s6s |
 
 
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 50
+Общее количество репозиториев: 52
 
 | Репозиторий | URL |
 |---|---|
@@ -119,8 +121,10 @@
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
+| s6s/all1c | https://github.com/s6s/all1c |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
@@ -142,7 +146,6 @@
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
-| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
@@ -151,6 +154,7 @@
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | artbear/1bdd | https://github.com/artbear/1bdd |
+| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
