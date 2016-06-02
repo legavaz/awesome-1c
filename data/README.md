@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 01.06.2016 5:14:13
+Актуальность: 02.06.2016 5:14:10
 
 ## Пользователи
 
 Общее количество пользователей: 56
-Всего репозиториев: 95
+Всего репозиториев: 96
 
 | Пользователь | Акаунт |
 ---|---|
@@ -22,7 +22,7 @@
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | artbear | https://github.com/artbear |
 | pumbaEO | https://github.com/pumbaEO |
-| otdel | https://github.com/otdel |
+| isa-1 | https://github.com/isa-1 |
 | nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
 | oscript-library | https://github.com/oscript-library |
@@ -40,8 +40,8 @@
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
-| temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
+| temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
@@ -70,7 +70,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 52
+Общее количество репозиториев: 53
 
 | Репозиторий | URL |
 |---|---|
@@ -85,8 +85,8 @@
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
-| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
@@ -119,12 +119,13 @@
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
+| isa-1/all1c | https://github.com/isa-1/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
@@ -151,16 +152,16 @@
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
+| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | artbear/1bdd | https://github.com/artbear/1bdd |
-| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
-| otdel/OneScript | https://github.com/otdel/OneScript |
+| isa-1/OneScript | https://github.com/isa-1/OneScript |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
