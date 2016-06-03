@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 02.06.2016 5:14:10
+Актуальность: 03.06.2016 5:14:10
 
 ## Пользователи
 
-Общее количество пользователей: 56
-Всего репозиториев: 96
+Общее количество пользователей: 57
+Всего репозиториев: 97
 
 | Пользователь | Акаунт |
 ---|---|
@@ -14,8 +14,8 @@
 | SergeFocus | https://github.com/SergeFocus |
 | EvilBeaver | https://github.com/EvilBeaver |
 | allustin | https://github.com/allustin |
-| silverbulleters | https://github.com/silverbulleters |
 | vsuh | https://github.com/vsuh |
+| silverbulleters | https://github.com/silverbulleters |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | nixel2007 | https://github.com/nixel2007 |
@@ -39,8 +39,8 @@
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
-| 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
+| 1C-Company | https://github.com/1C-Company |
 | temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
@@ -62,6 +62,7 @@
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
+| Bazil1c | https://github.com/Bazil1c |
 | xmentosx | https://github.com/xmentosx |
 | PiskunovSS | https://github.com/PiskunovSS |
 | s6s | https://github.com/s6s |
@@ -70,7 +71,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 53
+Общее количество репозиториев: 54
 
 | Репозиторий | URL |
 |---|---|
@@ -84,8 +85,8 @@
 | progromaking/magic | https://github.com/progromaking/magic |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
@@ -121,11 +122,12 @@
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
+| Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
@@ -142,8 +144,8 @@
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
-| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
+| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
@@ -176,8 +178,8 @@
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
+| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
