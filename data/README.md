@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 04.06.2016 5:14:09
+Актуальность: 05.06.2016 5:14:03
 
 ## Пользователи
 
-Общее количество пользователей: 57
-Всего репозиториев: 97
+Общее количество пользователей: 60
+Всего репозиториев: 100
 
 | Пользователь | Акаунт |
 ---|---|
@@ -39,8 +39,8 @@
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
-| SINAPTeam | https://github.com/SINAPTeam |
 | 1C-Company | https://github.com/1C-Company |
+| SINAPTeam | https://github.com/SINAPTeam |
 | temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
@@ -58,10 +58,13 @@
 | michaelbag | https://github.com/michaelbag |
 | BigHotey | https://github.com/BigHotey |
 | alehinsasha | https://github.com/alehinsasha |
+| silverbulleters-research | https://github.com/silverbulleters-research |
 | DmZhDNK | https://github.com/DmZhDNK |
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
+| KokotovAlexandr | https://github.com/KokotovAlexandr |
+| gidrest | https://github.com/gidrest |
 | Bazil1c | https://github.com/Bazil1c |
 | xmentosx | https://github.com/xmentosx |
 | PiskunovSS | https://github.com/PiskunovSS |
@@ -71,7 +74,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 54
+Общее количество репозиториев: 57
 
 | Репозиторий | URL |
 |---|---|
@@ -84,10 +87,10 @@
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | progromaking/magic | https://github.com/progromaking/magic |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
-| xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
+| SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
+| xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
@@ -111,7 +114,7 @@
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
-| silverbulleters/vanessa-dbaqa | https://github.com/silverbulleters/vanessa-dbaqa |
+| silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
@@ -120,9 +123,12 @@
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
+| KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | isa-1/all1c | https://github.com/isa-1/all1c |
+| gidrest/my | https://github.com/gidrest/my |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
+| stop-time/all1c | https://github.com/stop-time/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
