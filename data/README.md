@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 05.06.2016 5:14:03
+Актуальность: 06.06.2016 5:14:03
 
 ## Пользователи
 
-Общее количество пользователей: 60
-Всего репозиториев: 100
+Общее количество пользователей: 63
+Всего репозиториев: 103
 
 | Пользователь | Акаунт |
 ---|---|
@@ -46,6 +46,7 @@
 | 1c-expert | https://github.com/1c-expert |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | StanislavDementev | https://github.com/StanislavDementev |
+| YPermitin | https://github.com/YPermitin |
 | stop-time | https://github.com/stop-time |
 | Uralchem-ssc | https://github.com/Uralchem-ssc |
 | mishatre | https://github.com/mishatre |
@@ -66,15 +67,17 @@
 | KokotovAlexandr | https://github.com/KokotovAlexandr |
 | gidrest | https://github.com/gidrest |
 | Bazil1c | https://github.com/Bazil1c |
+| yasan222 | https://github.com/yasan222 |
 | xmentosx | https://github.com/xmentosx |
 | PiskunovSS | https://github.com/PiskunovSS |
 | s6s | https://github.com/s6s |
+| bitlz | https://github.com/bitlz |
 
 
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 57
+Общее количество репозиториев: 60
 
 | Репозиторий | URL |
 |---|---|
@@ -95,6 +98,7 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
+| YPermitin/Event-log-analyzer-1C-Enterprise-8.x | https://github.com/YPermitin/Event-log-analyzer-1C-Enterprise-8.x |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
@@ -128,12 +132,14 @@
 | gidrest/my | https://github.com/gidrest/my |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
+| yasan222/all1c | https://github.com/yasan222/all1c |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 
 
