@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 06.06.2016 5:14:03
+Актуальность: 07.06.2016 5:14:06
 
 ## Пользователи
 
-Общее количество пользователей: 63
-Всего репозиториев: 103
+Общее количество пользователей: 65
+Всего репозиториев: 105
 
 | Пользователь | Акаунт |
 ---|---|
@@ -19,8 +19,8 @@
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | nixel2007 | https://github.com/nixel2007 |
-| xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | artbear | https://github.com/artbear |
+| xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | pumbaEO | https://github.com/pumbaEO |
 | isa-1 | https://github.com/isa-1 |
 | nextkmv | https://github.com/nextkmv |
@@ -30,8 +30,8 @@
 | verter4sb | https://github.com/verter4sb |
 | Petr28 | https://github.com/Petr28 |
 | VanessaDockers | https://github.com/VanessaDockers |
-| kseniyaloza | https://github.com/kseniyaloza |
 | asheichenko | https://github.com/asheichenko |
+| kseniyaloza | https://github.com/kseniyaloza |
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
@@ -39,8 +39,8 @@
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
-| 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
+| 1C-Company | https://github.com/1C-Company |
 | temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
@@ -64,20 +64,22 @@
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
-| KokotovAlexandr | https://github.com/KokotovAlexandr |
 | gidrest | https://github.com/gidrest |
 | Bazil1c | https://github.com/Bazil1c |
 | yasan222 | https://github.com/yasan222 |
 | xmentosx | https://github.com/xmentosx |
 | PiskunovSS | https://github.com/PiskunovSS |
+| alexeyshumaev | https://github.com/alexeyshumaev |
+| KokotovAlexandr | https://github.com/KokotovAlexandr |
 | s6s | https://github.com/s6s |
 | bitlz | https://github.com/bitlz |
+| verterforsb | https://github.com/verterforsb |
 
 
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 60
+Общее количество репозиториев: 62
 
 | Репозиторий | URL |
 |---|---|
@@ -90,8 +92,8 @@
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | progromaking/magic | https://github.com/progromaking/magic |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
-| 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
@@ -127,20 +129,22 @@
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
-| KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | isa-1/all1c | https://github.com/isa-1/all1c |
-| gidrest/my | https://github.com/gidrest/my |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
+| gidrest/my | https://github.com/gidrest/my |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | yasan222/all1c | https://github.com/yasan222/all1c |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
+| alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
+| KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | s6s/all1c | https://github.com/s6s/all1c |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
+| verterforsb/proverka | https://github.com/verterforsb/proverka |
 
 
 
@@ -153,8 +157,8 @@
 | / | https://github.com// |
 | kuntashov/oscript-bsl-github-stats | https://github.com/kuntashov/oscript-bsl-github-stats |
 | SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
-| EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
+| EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
@@ -165,11 +169,11 @@
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
-| silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
+| silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
@@ -191,8 +195,8 @@
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
-| kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
+| kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
 
