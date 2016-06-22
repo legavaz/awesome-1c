@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 21.06.2016 5:15:53
+Актуальность: 22.06.2016 5:15:52
 
 ## Пользователи
 
-Общее количество пользователей: 72
-Всего репозиториев: 118
+Общее количество пользователей: 73
+Всего репозиториев: 119
 
 | Пользователь | Акаунт |
 ---|---|
@@ -14,12 +14,12 @@
 | SergeFocus | https://github.com/SergeFocus |
 | ret-Phoenix | https://github.com/ret-Phoenix |
 | EvilBeaver | https://github.com/EvilBeaver |
-| allustin | https://github.com/allustin |
 | silverbulleters | https://github.com/silverbulleters |
 | vsuh | https://github.com/vsuh |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | nixel2007 | https://github.com/nixel2007 |
+| allustin | https://github.com/allustin |
 | artbear | https://github.com/artbear |
 | pumbaEO | https://github.com/pumbaEO |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
@@ -31,12 +31,13 @@
 | verter4sb | https://github.com/verter4sb |
 | Petr28 | https://github.com/Petr28 |
 | VanessaDockers | https://github.com/VanessaDockers |
-| asheichenko | https://github.com/asheichenko |
 | kseniyaloza | https://github.com/kseniyaloza |
+| asheichenko | https://github.com/asheichenko |
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
 | po4ta56 | https://github.com/po4ta56 |
+| tkalinvladimir | https://github.com/tkalinvladimir |
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
@@ -86,7 +87,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 74
+Общее количество репозиториев: 75
 
 | Репозиторий | URL |
 |---|---|
@@ -95,6 +96,7 @@
 | progromaking/testing | https://github.com/progromaking/testing |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
+| tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
@@ -104,6 +106,7 @@
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
+| progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
@@ -115,7 +118,6 @@
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
-| progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
@@ -158,8 +160,8 @@
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -179,7 +181,6 @@
 | ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
-| allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
@@ -189,6 +190,7 @@
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
+| allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
@@ -214,9 +216,9 @@
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
+| asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
 
