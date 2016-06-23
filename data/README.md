@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 22.06.2016 5:15:52
+Актуальность: 23.06.2016 5:15:51
 
 ## Пользователи
 
@@ -18,8 +18,8 @@
 | vsuh | https://github.com/vsuh |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
-| nixel2007 | https://github.com/nixel2007 |
 | allustin | https://github.com/allustin |
+| nixel2007 | https://github.com/nixel2007 |
 | artbear | https://github.com/artbear |
 | pumbaEO | https://github.com/pumbaEO |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
@@ -42,8 +42,8 @@
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
-| temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
+| temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
 | YPermitin | https://github.com/YPermitin |
@@ -102,8 +102,8 @@
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
-| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
@@ -147,8 +147,8 @@
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
 | isa-1/all1c | https://github.com/isa-1/all1c |
-| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | yasan222/all1c | https://github.com/yasan222/all1c |
@@ -160,8 +160,8 @@
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -189,8 +189,8 @@
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
-| nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
+| nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
