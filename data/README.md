@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 23.06.2016 5:15:51
+Актуальность: 24.06.2016 5:15:49
 
 ## Пользователи
 
-Общее количество пользователей: 73
-Всего репозиториев: 119
+Общее количество пользователей: 74
+Всего репозиториев: 121
 
 | Пользователь | Акаунт |
 ---|---|
@@ -14,12 +14,12 @@
 | SergeFocus | https://github.com/SergeFocus |
 | ret-Phoenix | https://github.com/ret-Phoenix |
 | EvilBeaver | https://github.com/EvilBeaver |
-| silverbulleters | https://github.com/silverbulleters |
 | vsuh | https://github.com/vsuh |
+| silverbulleters | https://github.com/silverbulleters |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
-| allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
+| allustin | https://github.com/allustin |
 | artbear | https://github.com/artbear |
 | pumbaEO | https://github.com/pumbaEO |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
@@ -36,6 +36,7 @@
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
+| YPermitin | https://github.com/YPermitin |
 | po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
 | a-sitnikov | https://github.com/a-sitnikov |
@@ -46,7 +47,6 @@
 | temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
-| YPermitin | https://github.com/YPermitin |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | StanislavDementev | https://github.com/StanislavDementev |
 | stop-time | https://github.com/stop-time |
@@ -67,6 +67,7 @@
 | silverbulleters-research | https://github.com/silverbulleters-research |
 | verterforsb | https://github.com/verterforsb |
 | DmZhDNK | https://github.com/DmZhDNK |
+| MaximPL | https://github.com/MaximPL |
 | PiskunovSS | https://github.com/PiskunovSS |
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
@@ -87,7 +88,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 75
+Общее количество репозиториев: 76
 
 | Репозиторий | URL |
 |---|---|
@@ -95,6 +96,7 @@
 | SergeFocus/1C-Functin-to-yEd | https://github.com/SergeFocus/1C-Functin-to-yEd |
 | progromaking/testing | https://github.com/progromaking/testing |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
+| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
@@ -122,7 +124,6 @@
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
-| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
@@ -139,6 +140,7 @@
 | verterforsb/proverka | https://github.com/verterforsb/proverka |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
+| MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
@@ -160,8 +162,8 @@
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -171,7 +173,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 45
+Общее количество репозиториев: 46
 
 | Репозиторий | URL |
 |---|---|
@@ -181,16 +183,17 @@
 | ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
-| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
-| vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
+| vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
+| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
+| ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
-| allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
+| allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
