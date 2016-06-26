@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 25.06.2016 5:15:54
+Актуальность: 26.06.2016 5:15:42
 
 ## Пользователи
 
@@ -36,11 +36,11 @@
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
-| YPermitin | https://github.com/YPermitin |
-| tkalinvladimir | https://github.com/tkalinvladimir |
 | po4ta56 | https://github.com/po4ta56 |
-| a-sitnikov | https://github.com/a-sitnikov |
+| tkalinvladimir | https://github.com/tkalinvladimir |
+| YPermitin | https://github.com/YPermitin |
 | Nikiforov001 | https://github.com/Nikiforov001 |
+| a-sitnikov | https://github.com/a-sitnikov |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
@@ -96,11 +96,11 @@
 | SergeFocus/1C-Functin-to-yEd | https://github.com/SergeFocus/1C-Functin-to-yEd |
 | progromaking/testing | https://github.com/progromaking/testing |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
-| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
-| tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
+| tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
+| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
@@ -115,8 +115,8 @@
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
+| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
@@ -162,8 +162,8 @@
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
-| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -184,9 +184,9 @@
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
-| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
+| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
