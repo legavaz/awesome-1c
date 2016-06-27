@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 26.06.2016 5:15:42
+Актуальность: 27.06.2016 5:15:46
 
 ## Пользователи
 
 Общее количество пользователей: 74
-Всего репозиториев: 121
+Всего репозиториев: 123
 
 | Пользователь | Акаунт |
 ---|---|
@@ -18,10 +18,10 @@
 | silverbulleters | https://github.com/silverbulleters |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
+| pumbaEO | https://github.com/pumbaEO |
 | nixel2007 | https://github.com/nixel2007 |
 | allustin | https://github.com/allustin |
 | artbear | https://github.com/artbear |
-| pumbaEO | https://github.com/pumbaEO |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | isa-1 | https://github.com/isa-1 |
 | nextkmv | https://github.com/nextkmv |
@@ -36,11 +36,11 @@
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
+| YPermitin | https://github.com/YPermitin |
 | po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
-| YPermitin | https://github.com/YPermitin |
-| Nikiforov001 | https://github.com/Nikiforov001 |
 | a-sitnikov | https://github.com/a-sitnikov |
+| Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
@@ -88,7 +88,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 76
+Общее количество репозиториев: 77
 
 | Репозиторий | URL |
 |---|---|
@@ -96,11 +96,11 @@
 | SergeFocus/1C-Functin-to-yEd | https://github.com/SergeFocus/1C-Functin-to-yEd |
 | progromaking/testing | https://github.com/progromaking/testing |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
+| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
-| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
-| Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
+| Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
@@ -139,14 +139,15 @@
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | verterforsb/proverka | https://github.com/verterforsb/proverka |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
+| BigHotey/Test_conf | https://github.com/BigHotey/Test_conf |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
 | vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
-| nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
+| nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
@@ -173,7 +174,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 46
+Общее количество репозиториев: 47
 
 | Репозиторий | URL |
 |---|---|
@@ -184,13 +185,14 @@
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
+| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
-| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
+| pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
