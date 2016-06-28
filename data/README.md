@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 27.06.2016 5:15:46
+Актуальность: 28.06.2016 5:15:48
 
 ## Пользователи
 
 Общее количество пользователей: 74
-Всего репозиториев: 123
+Всего репозиториев: 122
 
 | Пользователь | Акаунт |
 ---|---|
@@ -37,8 +37,8 @@
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
 | YPermitin | https://github.com/YPermitin |
-| po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
+| po4ta56 | https://github.com/po4ta56 |
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
@@ -88,7 +88,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 77
+Общее количество репозиториев: 76
 
 | Репозиторий | URL |
 |---|---|
@@ -97,8 +97,8 @@
 | progromaking/testing | https://github.com/progromaking/testing |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
-| po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
+| po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
@@ -115,8 +115,8 @@
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
+| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
@@ -139,7 +139,6 @@
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | verterforsb/proverka | https://github.com/verterforsb/proverka |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
-| BigHotey/Test_conf | https://github.com/BigHotey/Test_conf |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
@@ -163,8 +162,8 @@
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
