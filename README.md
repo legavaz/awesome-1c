@@ -9,6 +9,13 @@
 * [Инструкцию по добавлению](CONTRIBUTING.md)
 * [Критерии качества добавляемого приложения](CONTRIBUTING.md)
 
+## Официальные репозитории компании 1С
+
+* [DirectBank (прямой обмен с банком) – технология системы "1С:Предприятие 8"](https://github.com/1C-Company/DirectBank) - 
+* [Пример конфигурации для EDT](https://github.com/1C-Company/dt-demo-configuration)
+* [Пример плагина для EDT](https://github.com/1C-Company/dt-example-plugins)
+
+
 ## Примеры интеграций 1C и <что-то>
 
 * [1C и Slack](https://github.com/pbazeliuk/1C-Slack)
@@ -50,11 +57,17 @@
 
 * [Small Wrapper AddIn 1C](https://github.com/tapapax/Addin1C) - пример работы с Native API
 
+## Фреймворки для интеграции с 1С
+
+* [Metadata.JS](https://github.com/oknosoft/metadata.js)
+
 ## Курсы, книги и примеры
 
 * [Управление небольшой фирмой](https://github.com/eetk/1c-management-small-firm) - документация по УНФ
 
 ### Потенциально интересное (без категорий)
+
+**Ручной поиск**
 
 * https://github.com/purtcer/NurseConsole1CServer
 * https://github.com/TeamBIOS/cfg_tools
@@ -68,9 +81,13 @@
 * https://github.com/ANtlord/price-import-1c
 * https://github.com/1CEnterprise/MSQL-for-1C
 * https://github.com/asdaru/postgres_1c
-* https://github.com/oknosoft/metadata.js
+
+**Автоматический поиск**
+
+[Данные согласно поиску GitHub](data/README.md)
+
+[Инструкция по скриптам поиска](tools/README.md)
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-

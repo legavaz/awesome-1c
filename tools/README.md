@@ -1,17 +1,19 @@
-## Скрипты помошники актуализации списка
+# Скрипты помошники актуализации списка
 
-Требования:
+## Требования
 
-* установленный `VSC` с пакетом `ruby`
-* собственно сам `ruby` с пакетами `octokit, faraday-http-cache, mechanize, nokogiri`
-* зарегистрированный аккаунт на GItHub
-* etc ;-)
+* установленный `VSC` с пакетом `1C (BSL)`
+* `oscript` - http://oscript.io
 
-### Запуск скриптов
+## Запуск скриптов
 
-* установите переменные окружения на время запуска `GITHUB_USER` и `GITHUB_PASSWORD`
-* `Ctrl+Shift+B` - в Visual Studio Code
+* `git submodule update --init --recursive` - обновление подмодулей скриптов
+* `search-start.cmd` - запуск поиска
 
-или напрямую из консоли - например `ruby github-search.rb`
+или напрямую из консоли:
 
-> Gemfile специально не создавался, чтобы враги не догадались как делать 'gem install mechanize`
+`oscript ./tools/github-stats/bsl-github-stats.os generate-markdown --markdown-path data\\README.md`
+
+## Просмотр данных
+
+* смотрите каталог `data/README.md` - результатом работы скрипта является файл Markdown с текущей статистикой
