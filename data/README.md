@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 30.06.2016 5:15:48
+Актуальность: 01.07.2016 5:15:45
 
 ## Пользователи
 
-Общее количество пользователей: 76
-Всего репозиториев: 127
+Общее количество пользователей: 77
+Всего репозиториев: 128
 
 | Пользователь | Акаунт |
 ---|---|
@@ -38,14 +38,14 @@
 | wizi4d | https://github.com/wizi4d |
 | po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
-| YPermitin | https://github.com/YPermitin |
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
+| YPermitin | https://github.com/YPermitin |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
-| KrapivinAndrey | https://github.com/KrapivinAndrey |
 | temsan | https://github.com/temsan |
+| KrapivinAndrey | https://github.com/KrapivinAndrey |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
@@ -59,6 +59,7 @@
 | SmokyAce | https://github.com/SmokyAce |
 | ilgizvip | https://github.com/ilgizvip |
 | gidrest | https://github.com/gidrest |
+| Andrefan85 | https://github.com/Andrefan85 |
 | antowski | https://github.com/antowski |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
@@ -90,7 +91,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 81
+Общее количество репозиториев: 82
 
 | Репозиторий | URL |
 |---|---|
@@ -100,20 +101,20 @@
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
-| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
+| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
-| KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
+| KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
-| 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
+| 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
@@ -130,11 +131,12 @@
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
-| ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
+| ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | gidrest/1C | https://github.com/gidrest/1C |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
+| Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
@@ -169,8 +171,8 @@
 | yasan222/all1c | https://github.com/yasan222/all1c |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
