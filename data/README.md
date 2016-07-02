@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 01.07.2016 5:15:45
+Актуальность: 02.07.2016 5:15:39
 
 ## Пользователи
 
@@ -19,8 +19,8 @@
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | pumbaEO | https://github.com/pumbaEO |
-| nixel2007 | https://github.com/nixel2007 |
 | allustin | https://github.com/allustin |
+| nixel2007 | https://github.com/nixel2007 |
 | artbear | https://github.com/artbear |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | isa-1 | https://github.com/isa-1 |
@@ -38,14 +38,14 @@
 | wizi4d | https://github.com/wizi4d |
 | po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
+| YPermitin | https://github.com/YPermitin |
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
-| YPermitin | https://github.com/YPermitin |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
-| temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
+| temsan | https://github.com/temsan |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
@@ -58,8 +58,8 @@
 | vpozdnyakov | https://github.com/vpozdnyakov |
 | SmokyAce | https://github.com/SmokyAce |
 | ilgizvip | https://github.com/ilgizvip |
-| gidrest | https://github.com/gidrest |
 | Andrefan85 | https://github.com/Andrefan85 |
+| gidrest | https://github.com/gidrest |
 | antowski | https://github.com/antowski |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
@@ -101,20 +101,20 @@
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
+| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
-| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
-| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
+| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
-| YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
+| YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
@@ -131,12 +131,12 @@
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
-| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
+| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
+| Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | gidrest/1C | https://github.com/gidrest/1C |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
-| Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
@@ -202,8 +202,8 @@
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
-| nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
+| nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | artbear/1bdd | https://github.com/artbear/1bdd |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
