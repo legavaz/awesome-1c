@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 02.07.2016 5:15:39
+Актуальность: 03.07.2016 5:15:37
 
 ## Пользователи
 
@@ -36,16 +36,16 @@
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | wizi4d | https://github.com/wizi4d |
+| YPermitin | https://github.com/YPermitin |
 | po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
-| YPermitin | https://github.com/YPermitin |
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | SINAPTeam | https://github.com/SINAPTeam |
-| KrapivinAndrey | https://github.com/KrapivinAndrey |
 | temsan | https://github.com/temsan |
+| KrapivinAndrey | https://github.com/KrapivinAndrey |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
@@ -99,22 +99,22 @@
 | SergeFocus/1C-Functin-to-yEd | https://github.com/SergeFocus/1C-Functin-to-yEd |
 | progromaking/testing | https://github.com/progromaking/testing |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
+| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
-| YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
-| KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
+| KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
+| YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
-| YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
