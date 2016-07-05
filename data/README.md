@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 04.07.2016 5:15:37
+Актуальность: 05.07.2016 5:15:37
 
 ## Пользователи
 
 Общее количество пользователей: 78
-Всего репозиториев: 129
+Всего репозиториев: 130
 
 | Пользователь | Акаунт |
 ---|---|
@@ -117,8 +117,8 @@
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
@@ -183,7 +183,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 48
+Общее количество репозиториев: 49
 
 | Репозиторий | URL |
 |---|---|
@@ -230,6 +230,7 @@
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
+| anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
 | kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
