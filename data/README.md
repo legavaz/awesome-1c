@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 05.07.2016 5:15:37
+Актуальность: 07.07.2016 5:15:37
 
 ## Пользователи
 
-Общее количество пользователей: 78
-Всего репозиториев: 130
+Общее количество пользователей: 79
+Всего репозиториев: 133
 
 | Пользователь | Акаунт |
 ---|---|
@@ -59,12 +59,14 @@
 | vpozdnyakov | https://github.com/vpozdnyakov |
 | SmokyAce | https://github.com/SmokyAce |
 | ilgizvip | https://github.com/ilgizvip |
+| SmileDDD | https://github.com/SmileDDD |
 | Andrefan85 | https://github.com/Andrefan85 |
 | gidrest | https://github.com/gidrest |
 | antowski | https://github.com/antowski |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
 | BigHotey | https://github.com/BigHotey |
+| Uglickiy | https://github.com/Uglickiy |
 | ulyannikov1C | https://github.com/ulyannikov1C |
 | alehinsasha | https://github.com/alehinsasha |
 | silverbulleters-research | https://github.com/silverbulleters-research |
@@ -79,7 +81,6 @@
 | 1C-Romania | https://github.com/1C-Romania |
 | xmentosx | https://github.com/xmentosx |
 | unlstu22 | https://github.com/unlstu22 |
-| SmileDDD | https://github.com/SmileDDD |
 | alexeyshumaev | https://github.com/alexeyshumaev |
 | yasan222 | https://github.com/yasan222 |
 | s6s | https://github.com/s6s |
@@ -92,7 +93,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 82
+Общее количество репозиториев: 84
 
 | Репозиторий | URL |
 |---|---|
@@ -133,15 +134,17 @@
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
+| SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
+| KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | gidrest/1C | https://github.com/gidrest/1C |
-| KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
+| Uglickiy/TUI | https://github.com/Uglickiy/TUI |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
@@ -158,8 +161,8 @@
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
 | isa-1/all1c | https://github.com/isa-1/all1c |
-| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | stop-time/all1c | https://github.com/stop-time/all1c |
@@ -167,9 +170,9 @@
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | unlstu22/test_1 | https://github.com/unlstu22/test_1 |
-| SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | yasan222/all1c | https://github.com/yasan222/all1c |
+| KrapivinAndrey/Pivo_FillForms | https://github.com/KrapivinAndrey/Pivo_FillForms |
 | s6s/all1c | https://github.com/s6s/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
@@ -183,7 +186,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 49
+Общее количество репозиториев: 50
 
 | Репозиторий | URL |
 |---|---|
@@ -217,6 +220,7 @@
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
+| ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
