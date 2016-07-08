@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 07.07.2016 5:15:37
+Актуальность: 08.07.2016 5:15:35
 
 ## Пользователи
 
-Общее количество пользователей: 79
-Всего репозиториев: 133
+Общее количество пользователей: 80
+Всего репозиториев: 134
 
 | Пользователь | Акаунт |
 ---|---|
@@ -77,6 +77,7 @@
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
+| Doom2w | https://github.com/Doom2w |
 | Bazil1c | https://github.com/Bazil1c |
 | 1C-Romania | https://github.com/1C-Romania |
 | xmentosx | https://github.com/xmentosx |
@@ -93,7 +94,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 84
+Общее количество репозиториев: 85
 
 | Репозиторий | URL |
 |---|---|
@@ -160,6 +161,7 @@
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
+| Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
