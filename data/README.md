@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 09.07.2016 5:15:48
+Актуальность: 10.07.2016 5:15:33
 
 ## Пользователи
 
 Общее количество пользователей: 80
-Всего репозиториев: 134
+Всего репозиториев: 135
 
 | Пользователь | Акаунт |
 ---|---|
@@ -32,18 +32,18 @@
 | Petr28 | https://github.com/Petr28 |
 | anatolean | https://github.com/anatolean |
 | VanessaDockers | https://github.com/VanessaDockers |
+| kseniyaloza | https://github.com/kseniyaloza |
 | asheichenko | https://github.com/asheichenko |
 | raevsky66 | https://github.com/raevsky66 |
-| kseniyaloza | https://github.com/kseniyaloza |
 | progromaking | https://github.com/progromaking |
-| wizi4d | https://github.com/wizi4d |
 | YPermitin | https://github.com/YPermitin |
-| po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
+| po4ta56 | https://github.com/po4ta56 |
 | a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
+| wizi4d | https://github.com/wizi4d |
 | SINAPTeam | https://github.com/SINAPTeam |
 | temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
@@ -101,15 +101,15 @@
 | / | https://github.com// |
 | SergeFocus/1C-Functin-to-yEd | https://github.com/SergeFocus/1C-Functin-to-yEd |
 | progromaking/testing | https://github.com/progromaking/testing |
-| wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
-| po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
+| po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
+| wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
@@ -188,7 +188,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 50
+Общее количество репозиториев: 51
 
 | Репозиторий | URL |
 |---|---|
@@ -204,8 +204,8 @@
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
-| ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
+| ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
@@ -221,6 +221,7 @@
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
+| pumbaEO/xUnitfor1Csrc | https://github.com/pumbaEO/xUnitfor1Csrc |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
@@ -238,10 +239,10 @@
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
+| kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
-| kseniyaloza/note-checker2 | https://github.com/kseniyaloza/note-checker2 |
 
 
 
