@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 11.07.2016 5:15:29
+Актуальность: 12.07.2016 5:15:35
 
 ## Пользователи
 
 Общее количество пользователей: 80
-Всего репозиториев: 135
+Всего репозиториев: 136
 
 | Пользователь | Акаунт |
 ---|---|
@@ -39,8 +39,8 @@
 | YPermitin | https://github.com/YPermitin |
 | tkalinvladimir | https://github.com/tkalinvladimir |
 | po4ta56 | https://github.com/po4ta56 |
-| a-sitnikov | https://github.com/a-sitnikov |
 | Nikiforov001 | https://github.com/Nikiforov001 |
+| a-sitnikov | https://github.com/a-sitnikov |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
@@ -104,8 +104,8 @@
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
@@ -188,7 +188,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 51
+Общее количество репозиториев: 52
 
 | Репозиторий | URL |
 |---|---|
@@ -198,13 +198,14 @@
 | ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
+| ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
+| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
-| ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
