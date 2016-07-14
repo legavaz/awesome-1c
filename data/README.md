@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 13.07.2016 5:15:34
+Актуальность: 14.07.2016 5:15:36
 
 ## Пользователи
 
 Общее количество пользователей: 80
-Всего репозиториев: 137
+Всего репозиториев: 138
 
 | Пользователь | Акаунт |
 ---|---|
@@ -40,13 +40,13 @@
 | po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
 | Nikiforov001 | https://github.com/Nikiforov001 |
-| a-sitnikov | https://github.com/a-sitnikov |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
 | SINAPTeam | https://github.com/SINAPTeam |
 | temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
+| a-sitnikov | https://github.com/a-sitnikov |
 | srvoland | https://github.com/srvoland |
 | 1c-expert | https://github.com/1c-expert |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
@@ -105,7 +105,6 @@
 | po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
@@ -113,6 +112,7 @@
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
@@ -124,8 +124,8 @@
 | KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
+| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
@@ -137,8 +137,8 @@
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
-| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
+| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | gidrest/1C | https://github.com/gidrest/1C |
@@ -189,7 +189,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 52
+Общее количество репозиториев: 53
 
 | Репозиторий | URL |
 |---|---|
@@ -204,8 +204,8 @@
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
-| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
+| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
@@ -229,6 +229,7 @@
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
+| ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
 | oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
 | vsuh/ini_parse | https://github.com/vsuh/ini_parse |
