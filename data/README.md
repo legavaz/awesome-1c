@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 14.07.2016 5:15:36
+Актуальность: 15.07.2016 5:15:38
 
 ## Пользователи
 
-Общее количество пользователей: 80
-Всего репозиториев: 138
+Общее количество пользователей: 81
+Всего репозиториев: 139
 
 | Пользователь | Акаунт |
 ---|---|
@@ -24,6 +24,7 @@
 | artbear | https://github.com/artbear |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | isa-1 | https://github.com/isa-1 |
+| realMaxA | https://github.com/realMaxA |
 | nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
 | oscript-library | https://github.com/oscript-library |
@@ -121,7 +122,6 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
@@ -137,12 +137,13 @@
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
-| Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
+| Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | gidrest/1C | https://github.com/gidrest/1C |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
@@ -189,7 +190,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 53
+Общее количество репозиториев: 54
 
 | Репозиторий | URL |
 |---|---|
@@ -204,8 +205,8 @@
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
-| bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
+| bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
@@ -213,8 +214,8 @@
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
@@ -223,6 +224,7 @@
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
+| realMaxA/1CServiceTools | https://github.com/realMaxA/1CServiceTools |
 | pumbaEO/xUnitfor1Csrc | https://github.com/pumbaEO/xUnitfor1Csrc |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
