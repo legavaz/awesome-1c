@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 15.07.2016 5:15:38
+Актуальность: 16.07.2016 5:15:22
 
 ## Пользователи
 
@@ -21,8 +21,8 @@
 | pumbaEO | https://github.com/pumbaEO |
 | allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
-| artbear | https://github.com/artbear |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
+| artbear | https://github.com/artbear |
 | isa-1 | https://github.com/isa-1 |
 | realMaxA | https://github.com/realMaxA |
 | nextkmv | https://github.com/nextkmv |
@@ -124,8 +124,8 @@
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
+| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
@@ -215,8 +215,8 @@
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
