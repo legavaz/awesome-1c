@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 16.07.2016 5:15:22
+Актуальность: 19.07.2016 5:15:28
 
 ## Пользователи
 
@@ -38,8 +38,8 @@
 | raevsky66 | https://github.com/raevsky66 |
 | progromaking | https://github.com/progromaking |
 | YPermitin | https://github.com/YPermitin |
-| po4ta56 | https://github.com/po4ta56 |
 | tkalinvladimir | https://github.com/tkalinvladimir |
+| po4ta56 | https://github.com/po4ta56 |
 | Nikiforov001 | https://github.com/Nikiforov001 |
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
@@ -103,8 +103,8 @@
 | SergeFocus/1C-Functin-to-yEd | https://github.com/SergeFocus/1C-Functin-to-yEd |
 | progromaking/testing | https://github.com/progromaking/testing |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x |
-| po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
+| po4ta56/conf_mkp | https://github.com/po4ta56/conf_mkp |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
 | progromaking/magic | https://github.com/progromaking/magic |
@@ -124,8 +124,8 @@
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
+| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
@@ -137,8 +137,8 @@
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
-| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
+| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | gidrest/1C | https://github.com/gidrest/1C |
@@ -166,8 +166,8 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| gidrest/my | https://github.com/gidrest/my |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
+| gidrest/my | https://github.com/gidrest/my |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
@@ -216,10 +216,10 @@
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
