@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 19.07.2016 5:15:28
+Актуальность: 20.07.2016 5:15:29
 
 ## Пользователи
 
-Общее количество пользователей: 81
-Всего репозиториев: 139
+Общее количество пользователей: 80
+Всего репозиториев: 138
 
 | Пользователь | Акаунт |
 ---|---|
@@ -22,9 +22,9 @@
 | allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
-| artbear | https://github.com/artbear |
 | isa-1 | https://github.com/isa-1 |
 | realMaxA | https://github.com/realMaxA |
+| artbear | https://github.com/artbear |
 | nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
 | oscript-library | https://github.com/oscript-library |
@@ -69,9 +69,8 @@
 | BigHotey | https://github.com/BigHotey |
 | Uglickiy | https://github.com/Uglickiy |
 | ulyannikov1C | https://github.com/ulyannikov1C |
-| alehinsasha | https://github.com/alehinsasha |
 | silverbulleters-research | https://github.com/silverbulleters-research |
-| verterforsb | https://github.com/verterforsb |
+| alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
 | MaximPL | https://github.com/MaximPL |
 | PiskunovSS | https://github.com/PiskunovSS |
@@ -95,7 +94,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 86
+Общее количество репозиториев: 85
 
 | Репозиторий | URL |
 |---|---|
@@ -135,10 +134,10 @@
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
+| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
-| purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | gidrest/1C | https://github.com/gidrest/1C |
@@ -150,9 +149,8 @@
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
-| alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
-| verterforsb/proverka | https://github.com/verterforsb/proverka |
+| alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
@@ -166,8 +164,8 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
@@ -204,9 +202,9 @@
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
-| vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
+| vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
@@ -219,13 +217,13 @@
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
 | realMaxA/1CServiceTools | https://github.com/realMaxA/1CServiceTools |
 | pumbaEO/xUnitfor1Csrc | https://github.com/pumbaEO/xUnitfor1Csrc |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
