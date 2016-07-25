@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 24.07.2016 5:15:21
+Актуальность: 25.07.2016 5:15:20
 
 ## Пользователи
 
@@ -70,8 +70,8 @@
 | BigHotey | https://github.com/BigHotey |
 | Uglickiy | https://github.com/Uglickiy |
 | ulyannikov1C | https://github.com/ulyannikov1C |
-| alehinsasha | https://github.com/alehinsasha |
 | silverbulleters-research | https://github.com/silverbulleters-research |
+| alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
 | PiskunovSS | https://github.com/PiskunovSS |
 | MaximPL | https://github.com/MaximPL |
@@ -151,8 +151,8 @@
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
-| alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
+| alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
