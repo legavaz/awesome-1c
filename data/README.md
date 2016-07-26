@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 25.07.2016 5:15:20
+Актуальность: 26.07.2016 5:15:15
 
 ## Пользователи
 
-Общее количество пользователей: 81
-Всего репозиториев: 141
+Общее количество пользователей: 82
+Всего репозиториев: 142
 
 | Пользователь | Акаунт |
 ---|---|
@@ -21,8 +21,8 @@
 | pumbaEO | https://github.com/pumbaEO |
 | allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
-| demidych | https://github.com/demidych |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
+| demidych | https://github.com/demidych |
 | isa-1 | https://github.com/isa-1 |
 | realMaxA | https://github.com/realMaxA |
 | artbear | https://github.com/artbear |
@@ -60,6 +60,7 @@
 | carlosthebest | https://github.com/carlosthebest |
 | vpozdnyakov | https://github.com/vpozdnyakov |
 | SmokyAce | https://github.com/SmokyAce |
+| LeonellaH | https://github.com/LeonellaH |
 | ilgizvip | https://github.com/ilgizvip |
 | SmileDDD | https://github.com/SmileDDD |
 | Andrefan85 | https://github.com/Andrefan85 |
@@ -70,8 +71,8 @@
 | BigHotey | https://github.com/BigHotey |
 | Uglickiy | https://github.com/Uglickiy |
 | ulyannikov1C | https://github.com/ulyannikov1C |
-| silverbulleters-research | https://github.com/silverbulleters-research |
 | alehinsasha | https://github.com/alehinsasha |
+| silverbulleters-research | https://github.com/silverbulleters-research |
 | DmZhDNK | https://github.com/DmZhDNK |
 | PiskunovSS | https://github.com/PiskunovSS |
 | MaximPL | https://github.com/MaximPL |
@@ -95,7 +96,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 87
+Общее количество репозиториев: 88
 
 | Репозиторий | URL |
 |---|---|
@@ -124,8 +125,8 @@
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
+| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
@@ -134,6 +135,7 @@
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
+| LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
@@ -142,17 +144,17 @@
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | gidrest/1C | https://github.com/gidrest/1C |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
-| silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
+| silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
@@ -216,8 +218,8 @@
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
-| demidych/oscript-library-demidych | https://github.com/demidych/oscript-library-demidych |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
+| demidych/oscript-library-demidych | https://github.com/demidych/oscript-library-demidych |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
