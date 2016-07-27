@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 26.07.2016 5:15:15
+Актуальность: 27.07.2016 5:15:19
 
 ## Пользователи
 
-Общее количество пользователей: 82
-Всего репозиториев: 142
+Общее количество пользователей: 83
+Всего репозиториев: 144
 
 | Пользователь | Акаунт |
 ---|---|
@@ -29,6 +29,7 @@
 | nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
 | oscript-library | https://github.com/oscript-library |
+| SmokyAce | https://github.com/SmokyAce |
 | test4web | https://github.com/test4web |
 | verter4sb | https://github.com/verter4sb |
 | Petr28 | https://github.com/Petr28 |
@@ -59,7 +60,6 @@
 | purtcer | https://github.com/purtcer |
 | carlosthebest | https://github.com/carlosthebest |
 | vpozdnyakov | https://github.com/vpozdnyakov |
-| SmokyAce | https://github.com/SmokyAce |
 | LeonellaH | https://github.com/LeonellaH |
 | ilgizvip | https://github.com/ilgizvip |
 | SmileDDD | https://github.com/SmileDDD |
@@ -70,6 +70,7 @@
 | michaelbag | https://github.com/michaelbag |
 | BigHotey | https://github.com/BigHotey |
 | Uglickiy | https://github.com/Uglickiy |
+| KonstantinErmolenko | https://github.com/KonstantinErmolenko |
 | ulyannikov1C | https://github.com/ulyannikov1C |
 | alehinsasha | https://github.com/alehinsasha |
 | silverbulleters-research | https://github.com/silverbulleters-research |
@@ -123,10 +124,11 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
-| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
+| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
@@ -134,7 +136,6 @@
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
-| SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
@@ -144,13 +145,13 @@
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | gidrest/1C | https://github.com/gidrest/1C |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
+| KonstantinErmolenko/KantDev | https://github.com/KonstantinErmolenko/KantDev |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
@@ -169,8 +170,8 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
@@ -193,7 +194,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 55
+Общее количество репозиториев: 57
 
 | Репозиторий | URL |
 |---|---|
@@ -238,6 +239,7 @@
 | ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
 | oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
+| SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | vsuh/ini_parse | https://github.com/vsuh/ini_parse |
 | allustin/note-checker | https://github.com/allustin/note-checker |
 | kuntashov/oscript-yadisk-uploader | https://github.com/kuntashov/oscript-yadisk-uploader |
@@ -247,6 +249,7 @@
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
+| ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
