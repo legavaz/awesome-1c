@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 04.08.2016 5:15:08
+Актуальность: 05.08.2016 5:15:04
 
 ## Пользователи
 
 Общее количество пользователей: 89
-Всего репозиториев: 150
+Всего репозиториев: 151
 
 | Пользователь | Акаунт |
 ---|---|
@@ -19,8 +19,8 @@
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | pumbaEO | https://github.com/pumbaEO |
-| artbear | https://github.com/artbear |
 | allustin | https://github.com/allustin |
+| artbear | https://github.com/artbear |
 | nixel2007 | https://github.com/nixel2007 |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | demidych | https://github.com/demidych |
@@ -67,10 +67,10 @@
 | stop-time | https://github.com/stop-time |
 | ilgizvip | https://github.com/ilgizvip |
 | SmileDDD | https://github.com/SmileDDD |
+| Oxotka | https://github.com/Oxotka |
 | gidrest | https://github.com/gidrest |
 | antowski | https://github.com/antowski |
 | eSTau | https://github.com/eSTau |
-| Oxotka | https://github.com/Oxotka |
 | michaelbag | https://github.com/michaelbag |
 | GenioCattivo | https://github.com/GenioCattivo |
 | BigHotey | https://github.com/BigHotey |
@@ -103,7 +103,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 93
+Общее количество репозиториев: 94
 
 | Репозиторий | URL |
 |---|---|
@@ -125,20 +125,20 @@
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
-| a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
+| a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
-| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
+| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
@@ -153,6 +153,7 @@
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
+| Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
 | gidrest/1C | https://github.com/gidrest/1C |
 | antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
@@ -223,8 +224,8 @@
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
@@ -263,8 +264,8 @@
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
+| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
