@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 06.08.2016 5:14:57
+Актуальность: 07.08.2016 5:15:00
 
 ## Пользователи
 
@@ -50,8 +50,8 @@
 | SINAPTeam | https://github.com/SINAPTeam |
 | temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| a-sitnikov | https://github.com/a-sitnikov |
 | srvoland | https://github.com/srvoland |
+| a-sitnikov | https://github.com/a-sitnikov |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | Andrefan85 | https://github.com/Andrefan85 |
@@ -122,8 +122,8 @@
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
@@ -131,14 +131,14 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
-| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
+| nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
@@ -183,8 +183,8 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| gidrest/my | https://github.com/gidrest/my |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
+| gidrest/my | https://github.com/gidrest/my |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
