@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 07.08.2016 5:15:00
+Актуальность: 08.08.2016 5:14:59
 
 ## Пользователи
 
@@ -19,8 +19,8 @@
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | pumbaEO | https://github.com/pumbaEO |
-| artbear | https://github.com/artbear |
 | allustin | https://github.com/allustin |
+| artbear | https://github.com/artbear |
 | nixel2007 | https://github.com/nixel2007 |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | demidych | https://github.com/demidych |
@@ -68,8 +68,8 @@
 | ilgizvip | https://github.com/ilgizvip |
 | Oxotka | https://github.com/Oxotka |
 | SmileDDD | https://github.com/SmileDDD |
+| a-kunilov | https://github.com/a-kunilov |
 | gidrest | https://github.com/gidrest |
-| antowski | https://github.com/antowski |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
 | GenioCattivo | https://github.com/GenioCattivo |
@@ -153,9 +153,9 @@
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
+| a-kunilov/my1c | https://github.com/a-kunilov/my1c |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | gidrest/1C | https://github.com/gidrest/1C |
-| antowski/pbh_pallet_layout | https://github.com/antowski/pbh_pallet_layout |
 | KrapivinAndrey/Pivo_FillForms | https://github.com/KrapivinAndrey/Pivo_FillForms |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | Oxotka/MoveDocumentsTrade | https://github.com/Oxotka/MoveDocumentsTrade |
@@ -224,8 +224,8 @@
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
