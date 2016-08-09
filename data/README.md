@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 08.08.2016 5:14:59
+Актуальность: 09.08.2016 5:15:02
 
 ## Пользователи
 
@@ -13,6 +13,7 @@
 | kuntashov | https://github.com/kuntashov |
 | ret-Phoenix | https://github.com/ret-Phoenix |
 | SergeFocus | https://github.com/SergeFocus |
+| artbear | https://github.com/artbear |
 | EvilBeaver | https://github.com/EvilBeaver |
 | vsuh | https://github.com/vsuh |
 | silverbulleters | https://github.com/silverbulleters |
@@ -20,7 +21,6 @@
 | dmpas | https://github.com/dmpas |
 | pumbaEO | https://github.com/pumbaEO |
 | allustin | https://github.com/allustin |
-| artbear | https://github.com/artbear |
 | nixel2007 | https://github.com/nixel2007 |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | demidych | https://github.com/demidych |
@@ -47,11 +47,11 @@
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
-| SINAPTeam | https://github.com/SINAPTeam |
 | temsan | https://github.com/temsan |
+| SINAPTeam | https://github.com/SINAPTeam |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| srvoland | https://github.com/srvoland |
 | a-sitnikov | https://github.com/a-sitnikov |
+| srvoland | https://github.com/srvoland |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | Andrefan85 | https://github.com/Andrefan85 |
@@ -118,12 +118,12 @@
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
-| SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
+| SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
+| srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
@@ -133,22 +133,22 @@
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
-| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
+| vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
+| KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
-| KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
@@ -195,8 +195,8 @@
 | pboykov69/all1c | https://github.com/pboykov69/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -214,6 +214,7 @@
 | kuntashov/oscript-bsl-github-stats | https://github.com/kuntashov/oscript-bsl-github-stats |
 | ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
 | SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
+| artbear/1bdd | https://github.com/artbear/1bdd |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
@@ -225,7 +226,6 @@
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
-| artbear/1bdd | https://github.com/artbear/1bdd |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
