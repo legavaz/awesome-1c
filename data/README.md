@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 09.08.2016 5:15:02
+Актуальность: 10.08.2016 5:15:02
 
 ## Пользователи
 
-Общее количество пользователей: 89
-Всего репозиториев: 151
+Общее количество пользователей: 90
+Всего репозиториев: 152
 
 | Пользователь | Акаунт |
 ---|---|
@@ -15,15 +15,15 @@
 | SergeFocus | https://github.com/SergeFocus |
 | artbear | https://github.com/artbear |
 | EvilBeaver | https://github.com/EvilBeaver |
-| vsuh | https://github.com/vsuh |
 | silverbulleters | https://github.com/silverbulleters |
+| vsuh | https://github.com/vsuh |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | pumbaEO | https://github.com/pumbaEO |
 | allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
-| xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | demidych | https://github.com/demidych |
+| xDrivenDevelopment | https://github.com/xDrivenDevelopment |
 | realMaxA | https://github.com/realMaxA |
 | nextkmv | https://github.com/nextkmv |
 | 1cto | https://github.com/1cto |
@@ -47,11 +47,11 @@
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
-| temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
+| temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| a-sitnikov | https://github.com/a-sitnikov |
 | srvoland | https://github.com/srvoland |
+| a-sitnikov | https://github.com/a-sitnikov |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | Andrefan85 | https://github.com/Andrefan85 |
@@ -65,6 +65,7 @@
 | vpozdnyakov | https://github.com/vpozdnyakov |
 | kostya-nsk | https://github.com/kostya-nsk |
 | stop-time | https://github.com/stop-time |
+| NatalyaTseytlina | https://github.com/NatalyaTseytlina |
 | ilgizvip | https://github.com/ilgizvip |
 | Oxotka | https://github.com/Oxotka |
 | SmileDDD | https://github.com/SmileDDD |
@@ -80,8 +81,8 @@
 | silverbulleters-research | https://github.com/silverbulleters-research |
 | alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
-| MaximPL | https://github.com/MaximPL |
 | PiskunovSS | https://github.com/PiskunovSS |
+| MaximPL | https://github.com/MaximPL |
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
@@ -103,7 +104,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 94
+Общее количество репозиториев: 95
 
 | Репозиторий | URL |
 |---|---|
@@ -118,12 +119,12 @@
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
-| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
@@ -138,6 +139,7 @@
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
@@ -145,10 +147,10 @@
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
+| NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
@@ -165,27 +167,27 @@
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
 | KonstantinErmolenko/KantDev | https://github.com/KonstantinErmolenko/KantDev |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
-| temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | vpozdnyakov/YandexDiskExchange | https://github.com/vpozdnyakov/YandexDiskExchange |
+| temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
-| MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
+| MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
 | vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
-| AlmazNasibullin/GitTestProject | https://github.com/AlmazNasibullin/GitTestProject |
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
 | stop-time/all1c | https://github.com/stop-time/all1c |
+| Oxotka/ReportProductsWithConteragent | https://github.com/Oxotka/ReportProductsWithConteragent |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | unlstu22/test_1 | https://github.com/unlstu22/test_1 |
@@ -219,8 +221,8 @@
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
-| vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
+| vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
@@ -230,8 +232,8 @@
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
-| xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | demidych/oscript-library-demidych | https://github.com/demidych/oscript-library-demidych |
+| xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
@@ -247,6 +249,7 @@
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
 | Diversus23/uni_script | https://github.com/Diversus23/uni_script |
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
+| ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
 | ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
@@ -255,7 +258,6 @@
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | vsuh/ini_parse | https://github.com/vsuh/ini_parse |
 | allustin/note-checker | https://github.com/allustin/note-checker |
-| ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
 | kuntashov/oscript-yadisk-uploader | https://github.com/kuntashov/oscript-yadisk-uploader |
 | test4web/all1c | https://github.com/test4web/all1c |
 | verter4sb/all1c | https://github.com/verter4sb/all1c |
@@ -264,8 +266,8 @@
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
+| kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
