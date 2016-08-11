@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 10.08.2016 5:15:02
+Актуальность: 11.08.2016 5:15:10
 
 ## Пользователи
 
 Общее количество пользователей: 90
-Всего репозиториев: 152
+Всего репозиториев: 153
 
 | Пользователь | Акаунт |
 ---|---|
@@ -62,8 +62,8 @@
 | mishatre | https://github.com/mishatre |
 | purtcer | https://github.com/purtcer |
 | carlosthebest | https://github.com/carlosthebest |
-| vpozdnyakov | https://github.com/vpozdnyakov |
 | kostya-nsk | https://github.com/kostya-nsk |
+| vpozdnyakov | https://github.com/vpozdnyakov |
 | stop-time | https://github.com/stop-time |
 | NatalyaTseytlina | https://github.com/NatalyaTseytlina |
 | ilgizvip | https://github.com/ilgizvip |
@@ -132,6 +132,7 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
@@ -139,14 +140,13 @@
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
-| vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
+| vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | carlosthebest/test | https://github.com/carlosthebest/test |
@@ -177,6 +177,7 @@
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
+| Oxotka/ReportProductsWithConteragent | https://github.com/Oxotka/ReportProductsWithConteragent |
 | vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
@@ -187,7 +188,6 @@
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
 | stop-time/all1c | https://github.com/stop-time/all1c |
-| Oxotka/ReportProductsWithConteragent | https://github.com/Oxotka/ReportProductsWithConteragent |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | unlstu22/test_1 | https://github.com/unlstu22/test_1 |
@@ -208,7 +208,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 58
+Общее количество репозиториев: 59
 
 | Репозиторий | URL |
 |---|---|
@@ -236,6 +236,7 @@
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
+| artbear/1adminka | https://github.com/artbear/1adminka |
 | xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
@@ -266,8 +267,8 @@
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
+| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
