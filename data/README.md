@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 11.08.2016 5:15:10
+Актуальность: 12.08.2016 5:17:51
 
 ## Пользователи
 
-Общее количество пользователей: 90
-Всего репозиториев: 153
+Общее количество пользователей: 91
+Всего репозиториев: 154
 
 | Пользователь | Акаунт |
 ---|---|
@@ -47,15 +47,16 @@
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
-| SINAPTeam | https://github.com/SINAPTeam |
 | temsan | https://github.com/temsan |
+| SINAPTeam | https://github.com/SINAPTeam |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| srvoland | https://github.com/srvoland |
 | a-sitnikov | https://github.com/a-sitnikov |
+| srvoland | https://github.com/srvoland |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | Andrefan85 | https://github.com/Andrefan85 |
 | StanislavDementev | https://github.com/StanislavDementev |
+| LieOff | https://github.com/LieOff |
 | LeonellaH | https://github.com/LeonellaH |
 | alexandro32 | https://github.com/alexandro32 |
 | Uralchem-ssc | https://github.com/Uralchem-ssc |
@@ -68,8 +69,8 @@
 | NatalyaTseytlina | https://github.com/NatalyaTseytlina |
 | ilgizvip | https://github.com/ilgizvip |
 | Oxotka | https://github.com/Oxotka |
-| SmileDDD | https://github.com/SmileDDD |
 | a-kunilov | https://github.com/a-kunilov |
+| SmileDDD | https://github.com/SmileDDD |
 | gidrest | https://github.com/gidrest |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
@@ -104,7 +105,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 95
+Общее количество репозиториев: 96
 
 | Репозиторий | URL |
 |---|---|
@@ -119,12 +120,12 @@
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
-| SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
+| SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
+| srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
@@ -132,7 +133,7 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
+| LieOff/ForClient | https://github.com/LieOff/ForClient |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
@@ -140,6 +141,7 @@
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
@@ -154,9 +156,9 @@
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
-| SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | a-kunilov/my1c | https://github.com/a-kunilov/my1c |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
+| SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | gidrest/1C | https://github.com/gidrest/1C |
 | KrapivinAndrey/Pivo_FillForms | https://github.com/KrapivinAndrey/Pivo_FillForms |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
@@ -185,8 +187,8 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
@@ -267,8 +269,8 @@
 | anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
+| kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
