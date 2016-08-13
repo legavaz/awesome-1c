@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 12.08.2016 5:17:51
+Актуальность: 13.08.2016 5:15:08
 
 ## Пользователи
 
 Общее количество пользователей: 91
-Всего репозиториев: 154
+Всего репозиториев: 156
 
 | Пользователь | Акаунт |
 ---|---|
@@ -20,6 +20,7 @@
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
 | pumbaEO | https://github.com/pumbaEO |
+| oscript-library | https://github.com/oscript-library |
 | allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
 | demidych | https://github.com/demidych |
@@ -29,7 +30,6 @@
 | 1cto | https://github.com/1cto |
 | Diversus23 | https://github.com/Diversus23 |
 | isa-1 | https://github.com/isa-1 |
-| oscript-library | https://github.com/oscript-library |
 | SmokyAce | https://github.com/SmokyAce |
 | test4web | https://github.com/test4web |
 | verter4sb | https://github.com/verter4sb |
@@ -63,14 +63,14 @@
 | mishatre | https://github.com/mishatre |
 | purtcer | https://github.com/purtcer |
 | carlosthebest | https://github.com/carlosthebest |
-| kostya-nsk | https://github.com/kostya-nsk |
 | vpozdnyakov | https://github.com/vpozdnyakov |
+| kostya-nsk | https://github.com/kostya-nsk |
 | stop-time | https://github.com/stop-time |
+| SmileDDD | https://github.com/SmileDDD |
 | NatalyaTseytlina | https://github.com/NatalyaTseytlina |
 | ilgizvip | https://github.com/ilgizvip |
 | Oxotka | https://github.com/Oxotka |
 | a-kunilov | https://github.com/a-kunilov |
-| SmileDDD | https://github.com/SmileDDD |
 | gidrest | https://github.com/gidrest |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
@@ -134,6 +134,7 @@
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
@@ -141,16 +142,16 @@
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
 | progromaking/automatization | https://github.com/progromaking/automatization |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
-| kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
+| kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
+| SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
@@ -158,7 +159,6 @@
 | Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
 | a-kunilov/my1c | https://github.com/a-kunilov/my1c |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
-| SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | gidrest/1C | https://github.com/gidrest/1C |
 | KrapivinAndrey/Pivo_FillForms | https://github.com/KrapivinAndrey/Pivo_FillForms |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
@@ -210,7 +210,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 59
+Общее количество репозиториев: 61
 
 | Репозиторий | URL |
 |---|---|
@@ -228,7 +228,9 @@
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
+| artbear/1testrunner | https://github.com/artbear/1testrunner |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
+| oscript-library/cmdline | https://github.com/oscript-library/cmdline |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
@@ -254,8 +256,8 @@
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
 | ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
-| vsuh/suhOne | https://github.com/vsuh/suhOne |
 | ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
+| vsuh/suhOne | https://github.com/vsuh/suhOne |
 | oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
