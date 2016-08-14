@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 13.08.2016 5:15:08
+Актуальность: 14.08.2016 5:15:06
 
 ## Пользователи
 
@@ -47,17 +47,18 @@
 | smykalovaa | https://github.com/smykalovaa |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
-| temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
+| temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| a-sitnikov | https://github.com/a-sitnikov |
 | srvoland | https://github.com/srvoland |
+| a-sitnikov | https://github.com/a-sitnikov |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | Andrefan85 | https://github.com/Andrefan85 |
 | StanislavDementev | https://github.com/StanislavDementev |
 | LieOff | https://github.com/LieOff |
 | LeonellaH | https://github.com/LeonellaH |
+| NatalyaTseytlina | https://github.com/NatalyaTseytlina |
 | alexandro32 | https://github.com/alexandro32 |
 | Uralchem-ssc | https://github.com/Uralchem-ssc |
 | mishatre | https://github.com/mishatre |
@@ -67,7 +68,6 @@
 | kostya-nsk | https://github.com/kostya-nsk |
 | stop-time | https://github.com/stop-time |
 | SmileDDD | https://github.com/SmileDDD |
-| NatalyaTseytlina | https://github.com/NatalyaTseytlina |
 | ilgizvip | https://github.com/ilgizvip |
 | Oxotka | https://github.com/Oxotka |
 | a-kunilov | https://github.com/a-kunilov |
@@ -120,22 +120,23 @@
 | progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
-| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
-| progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
+| progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
 | KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
+| NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
@@ -153,7 +154,6 @@
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | carlosthebest/test | https://github.com/carlosthebest/test |
-| NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
@@ -187,8 +187,8 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| gidrest/my | https://github.com/gidrest/my |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
+| gidrest/my | https://github.com/gidrest/my |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
@@ -199,8 +199,8 @@
 | pboykov69/all1c | https://github.com/pboykov69/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
-| bitlz/all1c | https://github.com/bitlz/all1c |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -220,8 +220,8 @@
 | SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | artbear/1bdd | https://github.com/artbear/1bdd |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
-| kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
+| kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
@@ -241,8 +241,8 @@
 | EvilBeaver/oscript-app-template | https://github.com/EvilBeaver/oscript-app-template |
 | silverbulleters/vanessa-behavior | https://github.com/silverbulleters/vanessa-behavior |
 | artbear/1adminka | https://github.com/artbear/1adminka |
-| xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
 | xDrivenDevelopment/1c-syntax | https://github.com/xDrivenDevelopment/1c-syntax |
+| xDrivenDevelopment/v83unpack | https://github.com/xDrivenDevelopment/v83unpack |
 | xDrivenDevelopment/precommit1c | https://github.com/xDrivenDevelopment/precommit1c |
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | realMaxA/1CServiceTools | https://github.com/realMaxA/1CServiceTools |
@@ -256,8 +256,8 @@
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
 | ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
-| ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
 | vsuh/suhOne | https://github.com/vsuh/suhOne |
+| ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
 | oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
