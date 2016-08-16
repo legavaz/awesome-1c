@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 15.08.2016 5:15:19
+Актуальность: 16.08.2016 5:15:21
 
 ## Пользователи
 
 Общее количество пользователей: 92
-Всего репозиториев: 165
+Всего репозиториев: 170
 
 | Пользователь | Акаунт |
 ---|---|
@@ -33,8 +33,8 @@
 | SmokyAce | https://github.com/SmokyAce |
 | test4web | https://github.com/test4web |
 | verter4sb | https://github.com/verter4sb |
-| Petr28 | https://github.com/Petr28 |
 | anatolean | https://github.com/anatolean |
+| Petr28 | https://github.com/Petr28 |
 | VanessaDockers | https://github.com/VanessaDockers |
 | kseniyaloza | https://github.com/kseniyaloza |
 | asheichenko | https://github.com/asheichenko |
@@ -57,8 +57,8 @@
 | Andrefan85 | https://github.com/Andrefan85 |
 | StanislavDementev | https://github.com/StanislavDementev |
 | LieOff | https://github.com/LieOff |
-| LeonellaH | https://github.com/LeonellaH |
 | NatalyaTseytlina | https://github.com/NatalyaTseytlina |
+| LeonellaH | https://github.com/LeonellaH |
 | alexandro32 | https://github.com/alexandro32 |
 | Uralchem-ssc | https://github.com/Uralchem-ssc |
 | mishatre | https://github.com/mishatre |
@@ -70,9 +70,9 @@
 | alexkmbk | https://github.com/alexkmbk |
 | SmileDDD | https://github.com/SmileDDD |
 | ilgizvip | https://github.com/ilgizvip |
-| Oxotka | https://github.com/Oxotka |
 | a-kunilov | https://github.com/a-kunilov |
 | gidrest | https://github.com/gidrest |
+| Oxotka | https://github.com/Oxotka |
 | eSTau | https://github.com/eSTau |
 | michaelbag | https://github.com/michaelbag |
 | BigHotey | https://github.com/BigHotey |
@@ -106,7 +106,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 103
+Общее количество репозиториев: 106
 
 | Репозиторий | URL |
 |---|---|
@@ -135,17 +135,17 @@
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
-| LeonellaH/all1c | https://github.com/LeonellaH/all1c |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
+| LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | alexandro32/rep | https://github.com/alexandro32/rep |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | progromaking/automatization | https://github.com/progromaking/automatization |
-| mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
+| mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
@@ -158,7 +158,6 @@
 | carlosthebest/test | https://github.com/carlosthebest/test |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
-| Oxotka/FormingTestDataForConteragent | https://github.com/Oxotka/FormingTestDataForConteragent |
 | a-kunilov/my1c | https://github.com/a-kunilov/my1c |
 | Uralchem-ssc/Klever | https://github.com/Uralchem-ssc/Klever |
 | gidrest/1C | https://github.com/gidrest/1C |
@@ -169,6 +168,7 @@
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | Oxotka/MoveDocumentsTrade | https://github.com/Oxotka/MoveDocumentsTrade |
 | michaelbag/1ctest | https://github.com/michaelbag/1ctest |
+| Oxotka/NomenclatureEnchancedAcc | https://github.com/Oxotka/NomenclatureEnchancedAcc |
 | BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
 | GenioCattivo/test1 | https://github.com/GenioCattivo/test1 |
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
@@ -181,7 +181,10 @@
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
+| Oxotka/SendToSupportTrade | https://github.com/Oxotka/SendToSupportTrade |
+| Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
+| Oxotka/ContractsEnchanced | https://github.com/Oxotka/ContractsEnchanced |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
@@ -207,8 +210,8 @@
 | pboykov69/all1c | https://github.com/pboykov69/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
-| bitlz/all1c | https://github.com/bitlz/all1c |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
+| bitlz/all1c | https://github.com/bitlz/all1c |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
@@ -218,7 +221,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 63
+Общее количество репозиториев: 65
 
 | Репозиторий | URL |
 |---|---|
@@ -228,12 +231,13 @@
 | SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | artbear/1bdd | https://github.com/artbear/1bdd |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
-| kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
+| kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
 | ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
+| silverbulleters/deployka | https://github.com/silverbulleters/deployka |
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | artbear/1testrunner | https://github.com/artbear/1testrunner |
@@ -255,6 +259,7 @@
 | nixel2007/gitlab-ci-for-1c | https://github.com/nixel2007/gitlab-ci-for-1c |
 | realMaxA/1CServiceTools | https://github.com/realMaxA/1CServiceTools |
 | pumbaEO/xUnitfor1Csrc | https://github.com/pumbaEO/xUnitfor1Csrc |
+| oscript-library/deployka | https://github.com/oscript-library/deployka |
 | silverbulleters/vanessa-agiler | https://github.com/silverbulleters/vanessa-agiler |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
@@ -276,9 +281,9 @@
 | kuntashov/oscript-yadisk-uploader | https://github.com/kuntashov/oscript-yadisk-uploader |
 | test4web/all1c | https://github.com/test4web/all1c |
 | verter4sb/all1c | https://github.com/verter4sb/all1c |
+| anatolean/info | https://github.com/anatolean/info |
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
-| anatolean/brand-new-project | https://github.com/anatolean/brand-new-project |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
