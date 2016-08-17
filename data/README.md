@@ -1,19 +1,19 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 16.08.2016 5:15:21
+Актуальность: 17.08.2016 5:15:19
 
 ## Пользователи
 
 Общее количество пользователей: 92
-Всего репозиториев: 170
+Всего репозиториев: 171
 
 | Пользователь | Акаунт |
 ---|---|
 |  | https://github.com/ |
 | kuntashov | https://github.com/kuntashov |
 | ret-Phoenix | https://github.com/ret-Phoenix |
-| SergeFocus | https://github.com/SergeFocus |
 | artbear | https://github.com/artbear |
+| SergeFocus | https://github.com/SergeFocus |
 | EvilBeaver | https://github.com/EvilBeaver |
 | silverbulleters | https://github.com/silverbulleters |
 | vsuh | https://github.com/vsuh |
@@ -50,8 +50,8 @@
 | temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| srvoland | https://github.com/srvoland |
 | a-sitnikov | https://github.com/a-sitnikov |
+| srvoland | https://github.com/srvoland |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | Andrefan85 | https://github.com/Andrefan85 |
@@ -64,8 +64,8 @@
 | mishatre | https://github.com/mishatre |
 | purtcer | https://github.com/purtcer |
 | carlosthebest | https://github.com/carlosthebest |
-| kostya-nsk | https://github.com/kostya-nsk |
 | vpozdnyakov | https://github.com/vpozdnyakov |
+| kostya-nsk | https://github.com/kostya-nsk |
 | stop-time | https://github.com/stop-time |
 | alexkmbk | https://github.com/alexkmbk |
 | SmileDDD | https://github.com/SmileDDD |
@@ -106,7 +106,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 106
+Общее количество репозиториев: 107
 
 | Репозиторий | URL |
 |---|---|
@@ -125,8 +125,8 @@
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
+| srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
@@ -149,8 +149,8 @@
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
-| kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
+| kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | alexkmbk/techlogqueryviewer | https://github.com/alexkmbk/techlogqueryviewer |
@@ -164,6 +164,7 @@
 | Oxotka/CheckTheMutualSettlements | https://github.com/Oxotka/CheckTheMutualSettlements |
 | KrapivinAndrey/Pivo_FillForms | https://github.com/KrapivinAndrey/Pivo_FillForms |
 | Oxotka/NomenclatureEnchancedTrade | https://github.com/Oxotka/NomenclatureEnchancedTrade |
+| Oxotka/Notes | https://github.com/Oxotka/Notes |
 | Oxotka/StopExpiredContract | https://github.com/Oxotka/StopExpiredContract |
 | eSTau/SystemMotivations | https://github.com/eSTau/SystemMotivations |
 | Oxotka/MoveDocumentsTrade | https://github.com/Oxotka/MoveDocumentsTrade |
@@ -228,13 +229,13 @@
 | / | https://github.com// |
 | kuntashov/oscript-bsl-github-stats | https://github.com/kuntashov/oscript-bsl-github-stats |
 | ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
-| SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | artbear/1bdd | https://github.com/artbear/1bdd |
+| SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
-| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
+| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | silverbulleters/deployka | https://github.com/silverbulleters/deployka |
