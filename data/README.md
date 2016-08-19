@@ -1,19 +1,19 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 18.08.2016 20:44:49
+Актуальность: 19.08.2016 5:15:33
 
 ## Пользователи
 
-Общее количество пользователей: 99
-Всего репозиториев: 179
+Общее количество пользователей: 101
+Всего репозиториев: 182
 
 | Пользователь | Акаунт |
 ---|---|
 |  | https://github.com/ |
 | kuntashov | https://github.com/kuntashov |
 | ret-Phoenix | https://github.com/ret-Phoenix |
-| SergeFocus | https://github.com/SergeFocus |
 | artbear | https://github.com/artbear |
+| SergeFocus | https://github.com/SergeFocus |
 | EvilBeaver | https://github.com/EvilBeaver |
 | silverbulleters | https://github.com/silverbulleters |
 | vsuh | https://github.com/vsuh |
@@ -64,8 +64,8 @@
 | mishatre | https://github.com/mishatre |
 | purtcer | https://github.com/purtcer |
 | carlosthebest | https://github.com/carlosthebest |
-| kostya-nsk | https://github.com/kostya-nsk |
 | vpozdnyakov | https://github.com/vpozdnyakov |
+| kostya-nsk | https://github.com/kostya-nsk |
 | stop-time | https://github.com/stop-time |
 | alexkmbk | https://github.com/alexkmbk |
 | SmileDDD | https://github.com/SmileDDD |
@@ -84,12 +84,13 @@
 | silverbulleters-research | https://github.com/silverbulleters-research |
 | alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
-| PiskunovSS | https://github.com/PiskunovSS |
 | MaximPL | https://github.com/MaximPL |
+| PiskunovSS | https://github.com/PiskunovSS |
 | Georgich88 | https://github.com/Georgich88 |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
 | Doom2w | https://github.com/Doom2w |
+| int-it | https://github.com/int-it |
 | programmer1c7and8 | https://github.com/programmer1c7and8 |
 | Bazil1c | https://github.com/Bazil1c |
 | 1C-Romania | https://github.com/1C-Romania |
@@ -105,6 +106,7 @@
 | bitlz | https://github.com/bitlz |
 | popiksergey | https://github.com/popiksergey |
 | AleksandrAkhunov | https://github.com/AleksandrAkhunov |
+| sergpogo | https://github.com/sergpogo |
 | Oleghost | https://github.com/Oleghost |
 | zeegin | https://github.com/zeegin |
 | Pahich | https://github.com/Pahich |
@@ -113,7 +115,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 114
+Общее количество репозиториев: 116
 
 | Репозиторий | URL |
 |---|---|
@@ -142,6 +144,7 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
@@ -155,14 +158,13 @@
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
-| kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
+| kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | stop-time/pm_ut11 | https://github.com/stop-time/pm_ut11 |
 | smykalovaa/rcuo-testing-first | https://github.com/smykalovaa/rcuo-testing-first |
 | alexkmbk/techlogqueryviewer | https://github.com/alexkmbk/techlogqueryviewer |
 | SmileDDD/-1- | https://github.com/SmileDDD/-1- |
 | carlosthebest/test | https://github.com/carlosthebest/test |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | purtcer/SerialNumberLoad | https://github.com/purtcer/SerialNumberLoad |
 | ilgizvip/git-city | https://github.com/ilgizvip/git-city |
 | a-kunilov/my1c | https://github.com/a-kunilov/my1c |
@@ -190,12 +192,12 @@
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
-| Oxotka/SendToSupportTrade | https://github.com/Oxotka/SendToSupportTrade |
 | Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
+| Oxotka/SendToSupportTrade | https://github.com/Oxotka/SendToSupportTrade |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | Oxotka/ContractsEnchanced | https://github.com/Oxotka/ContractsEnchanced |
-| PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
+| PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
 | Oxotka/NotADouble | https://github.com/Oxotka/NotADouble |
@@ -206,6 +208,7 @@
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
+| int-it/bdd-midule1 | https://github.com/int-it/bdd-midule1 |
 | programmer1c7and8/all1C | https://github.com/programmer1c7and8/all1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
@@ -227,6 +230,7 @@
 | popiksergey/work2 | https://github.com/popiksergey/work2 |
 | AleksandrAkhunov/Work3 | https://github.com/AleksandrAkhunov/Work3 |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
+| sergpogo/HomeWork_Part1 | https://github.com/sergpogo/HomeWork_Part1 |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
 | Oleghost/all1C | https://github.com/Oleghost/all1C |
 | zeegin/DejkstraFor1C | https://github.com/zeegin/DejkstraFor1C |
@@ -236,20 +240,20 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 66
+Общее количество репозиториев: 67
 
 | Репозиторий | URL |
 |---|---|
 | / | https://github.com// |
 | kuntashov/oscript-bsl-github-stats | https://github.com/kuntashov/oscript-bsl-github-stats |
 | ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
-| SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | artbear/1bdd | https://github.com/artbear/1bdd |
+| SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
-| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
+| ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | silverbulleters/deployka | https://github.com/silverbulleters/deployka |
@@ -258,8 +262,8 @@
 | artbear/1testrunner | https://github.com/artbear/1testrunner |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | oscript-library/cmdline | https://github.com/oscript-library/cmdline |
-| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
+| SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
@@ -281,6 +285,7 @@
 | ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
+| dmpas/oscript-component-example | https://github.com/dmpas/oscript-component-example |
 | Diversus23/uni_script | https://github.com/Diversus23/uni_script |
 | xDrivenDevelopment/AutoAdmin1C | https://github.com/xDrivenDevelopment/AutoAdmin1C |
 | ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
@@ -301,8 +306,8 @@
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
+| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | ret-Phoenix/oscript-sqlite | https://github.com/ret-Phoenix/oscript-sqlite |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
