@@ -1,18 +1,18 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 19.08.2016 5:15:33
+Актуальность: 20.08.2016 5:17:39
 
 ## Пользователи
 
-Общее количество пользователей: 101
-Всего репозиториев: 182
+Общее количество пользователей: 108
+Всего репозиториев: 189
 
 | Пользователь | Акаунт |
 ---|---|
 |  | https://github.com/ |
 | kuntashov | https://github.com/kuntashov |
-| ret-Phoenix | https://github.com/ret-Phoenix |
 | artbear | https://github.com/artbear |
+| ret-Phoenix | https://github.com/ret-Phoenix |
 | SergeFocus | https://github.com/SergeFocus |
 | EvilBeaver | https://github.com/EvilBeaver |
 | silverbulleters | https://github.com/silverbulleters |
@@ -31,6 +31,7 @@
 | Diversus23 | https://github.com/Diversus23 |
 | isa-1 | https://github.com/isa-1 |
 | SmokyAce | https://github.com/SmokyAce |
+| github | https://github.com/github |
 | test4web | https://github.com/test4web |
 | verter4sb | https://github.com/verter4sb |
 | anatolean | https://github.com/anatolean |
@@ -51,8 +52,8 @@
 | temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
-| a-sitnikov | https://github.com/a-sitnikov |
 | srvoland | https://github.com/srvoland |
+| a-sitnikov | https://github.com/a-sitnikov |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
 | 1c-expert | https://github.com/1c-expert |
 | StanislavDementev | https://github.com/StanislavDementev |
@@ -87,15 +88,20 @@
 | MaximPL | https://github.com/MaximPL |
 | PiskunovSS | https://github.com/PiskunovSS |
 | Georgich88 | https://github.com/Georgich88 |
+| cybjavax | https://github.com/cybjavax |
+| fff0N0off | https://github.com/fff0N0off |
+| SpaceHead1C | https://github.com/SpaceHead1C |
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
+| Simon250388 | https://github.com/Simon250388 |
 | Doom2w | https://github.com/Doom2w |
 | int-it | https://github.com/int-it |
-| programmer1c7and8 | https://github.com/programmer1c7and8 |
 | Bazil1c | https://github.com/Bazil1c |
+| programmer1c7and8 | https://github.com/programmer1c7and8 |
 | 1C-Romania | https://github.com/1C-Romania |
 | Vovqa412 | https://github.com/Vovqa412 |
-| cybjavax | https://github.com/cybjavax |
+| nocamad | https://github.com/nocamad |
+| ivan-kovtun | https://github.com/ivan-kovtun |
 | xmentosx | https://github.com/xmentosx |
 | unlstu22 | https://github.com/unlstu22 |
 | alexeyshumaev | https://github.com/alexeyshumaev |
@@ -103,9 +109,10 @@
 | s6s | https://github.com/s6s |
 | pboykov69 | https://github.com/pboykov69 |
 | KokotovAlexandr | https://github.com/KokotovAlexandr |
+| lightvdv | https://github.com/lightvdv |
 | bitlz | https://github.com/bitlz |
-| popiksergey | https://github.com/popiksergey |
 | AleksandrAkhunov | https://github.com/AleksandrAkhunov |
+| popiksergey | https://github.com/popiksergey |
 | sergpogo | https://github.com/sergpogo |
 | Oleghost | https://github.com/Oleghost |
 | zeegin | https://github.com/zeegin |
@@ -115,7 +122,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 116
+Общее количество репозиториев: 122
 
 | Репозиторий | URL |
 |---|---|
@@ -135,20 +142,20 @@
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | alexandro32/rep | https://github.com/alexandro32/rep |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
@@ -192,31 +199,36 @@
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
-| Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
 | Oxotka/SendToSupportTrade | https://github.com/Oxotka/SendToSupportTrade |
+| Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | Oxotka/ContractsEnchanced | https://github.com/Oxotka/ContractsEnchanced |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
+| cybjavax/lesson_bdd_1c_01 | https://github.com/cybjavax/lesson_bdd_1c_01 |
 | Oxotka/NotADouble | https://github.com/Oxotka/NotADouble |
 | Oxotka/ReportProductsWithConteragent | https://github.com/Oxotka/ReportProductsWithConteragent |
+| fff0N0off/professional-development-1C.-Solutions | https://github.com/fff0N0off/professional-development-1C.-Solutions |
+| SpaceHead1C/hw2 | https://github.com/SpaceHead1C/hw2 |
 | vsuh/bsl.cron | https://github.com/vsuh/bsl.cron |
 | skyksandr/ext-netlenka | https://github.com/skyksandr/ext-netlenka |
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
+| Simon250388/Storage | https://github.com/Simon250388/Storage |
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | int-it/bdd-midule1 | https://github.com/int-it/bdd-midule1 |
-| programmer1c7and8/all1C | https://github.com/programmer1c7and8/all1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
+| programmer1c7and8/all1C | https://github.com/programmer1c7and8/all1C |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
 | Vovqa412/DebugTools | https://github.com/Vovqa412/DebugTools |
-| cybjavax/lesson_bdd_1c_01 | https://github.com/cybjavax/lesson_bdd_1c_01 |
+| nocamad/work-ext | https://github.com/nocamad/work-ext |
+| ivan-kovtun/indust_dev | https://github.com/ivan-kovtun/indust_dev |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | unlstu22/test_1 | https://github.com/unlstu22/test_1 |
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
@@ -225,10 +237,11 @@
 | pboykov69/all1c | https://github.com/pboykov69/all1c |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
+| lightvdv/education | https://github.com/lightvdv/education |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
-| popiksergey/work2 | https://github.com/popiksergey/work2 |
 | AleksandrAkhunov/Work3 | https://github.com/AleksandrAkhunov/Work3 |
+| popiksergey/work2 | https://github.com/popiksergey/work2 |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | sergpogo/HomeWork_Part1 | https://github.com/sergpogo/HomeWork_Part1 |
 | ulyannikov1C/All1C | https://github.com/ulyannikov1C/All1C |
@@ -240,20 +253,20 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 67
+Общее количество репозиториев: 68
 
 | Репозиторий | URL |
 |---|---|
 | / | https://github.com// |
 | kuntashov/oscript-bsl-github-stats | https://github.com/kuntashov/oscript-bsl-github-stats |
-| ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
 | artbear/1bdd | https://github.com/artbear/1bdd |
+| ret-Phoenix/v8CfgAddsAhk | https://github.com/ret-Phoenix/v8CfgAddsAhk |
 | SergeFocus/bootstrap_for_erf_epf | https://github.com/SergeFocus/bootstrap_for_erf_epf |
 | EvilBeaver/oscript-library | https://github.com/EvilBeaver/oscript-library |
 | ret-Phoenix/parserV8i | https://github.com/ret-Phoenix/parserV8i |
 | kuntashov/oscript-yadisk | https://github.com/kuntashov/oscript-yadisk |
-| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | ret-Phoenix/scripts | https://github.com/ret-Phoenix/scripts |
+| silverbulleters/oscript-epf-merge | https://github.com/silverbulleters/oscript-epf-merge |
 | vsuh/parallelFZ | https://github.com/vsuh/parallelFZ |
 | bytemdfab/OneLauncher | https://github.com/bytemdfab/OneLauncher |
 | silverbulleters/deployka | https://github.com/silverbulleters/deployka |
@@ -291,14 +304,16 @@
 | ret-Phoenix/oscript-simple-gui | https://github.com/ret-Phoenix/oscript-simple-gui |
 | isa-1/OneScript | https://github.com/isa-1/OneScript |
 | oscript-library/json | https://github.com/oscript-library/json |
-| vsuh/suhOne | https://github.com/vsuh/suhOne |
 | ret-Phoenix/1CAutotestGenerator | https://github.com/ret-Phoenix/1CAutotestGenerator |
+| vsuh/suhOne | https://github.com/vsuh/suhOne |
 | oscript-library/files-common | https://github.com/oscript-library/files-common |
 | silverbulleters/vanessa-runner | https://github.com/silverbulleters/vanessa-runner |
 | SmokyAce/integration-1c-redmine | https://github.com/SmokyAce/integration-1c-redmine |
 | vsuh/ini_parse | https://github.com/vsuh/ini_parse |
 | allustin/note-checker | https://github.com/allustin/note-checker |
+| ret-Phoenix/oscript-sql | https://github.com/ret-Phoenix/oscript-sql |
 | kuntashov/oscript-yadisk-uploader | https://github.com/kuntashov/oscript-yadisk-uploader |
+| github/linguist | https://github.com/github/linguist |
 | test4web/all1c | https://github.com/test4web/all1c |
 | verter4sb/all1c | https://github.com/verter4sb/all1c |
 | anatolean/info | https://github.com/anatolean/info |
@@ -306,10 +321,9 @@
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
 | vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
+| kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
-| ret-Phoenix/oscript-sqlite | https://github.com/ret-Phoenix/oscript-sqlite |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
 
