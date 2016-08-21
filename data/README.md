@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 20.08.2016 5:17:39
+Актуальность: 21.08.2016 5:15:32
 
 ## Пользователи
 
-Общее количество пользователей: 108
-Всего репозиториев: 189
+Общее количество пользователей: 110
+Всего репозиториев: 191
 
 | Пользователь | Акаунт |
 ---|---|
@@ -82,11 +82,12 @@
 | Uglickiy | https://github.com/Uglickiy |
 | KonstantinErmolenko | https://github.com/KonstantinErmolenko |
 | ulyannikov1C | https://github.com/ulyannikov1C |
+| ivan-kovtun | https://github.com/ivan-kovtun |
 | silverbulleters-research | https://github.com/silverbulleters-research |
 | alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
-| MaximPL | https://github.com/MaximPL |
 | PiskunovSS | https://github.com/PiskunovSS |
+| MaximPL | https://github.com/MaximPL |
 | Georgich88 | https://github.com/Georgich88 |
 | cybjavax | https://github.com/cybjavax |
 | fff0N0off | https://github.com/fff0N0off |
@@ -94,14 +95,15 @@
 | skyksandr | https://github.com/skyksandr |
 | AlmazNasibullin | https://github.com/AlmazNasibullin |
 | Simon250388 | https://github.com/Simon250388 |
+| binexekb | https://github.com/binexekb |
 | Doom2w | https://github.com/Doom2w |
 | int-it | https://github.com/int-it |
+| EShchavleva | https://github.com/EShchavleva |
 | Bazil1c | https://github.com/Bazil1c |
 | programmer1c7and8 | https://github.com/programmer1c7and8 |
 | 1C-Romania | https://github.com/1C-Romania |
-| Vovqa412 | https://github.com/Vovqa412 |
 | nocamad | https://github.com/nocamad |
-| ivan-kovtun | https://github.com/ivan-kovtun |
+| Vovqa412 | https://github.com/Vovqa412 |
 | xmentosx | https://github.com/xmentosx |
 | unlstu22 | https://github.com/unlstu22 |
 | alexeyshumaev | https://github.com/alexeyshumaev |
@@ -122,7 +124,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 122
+Общее количество репозиториев: 124
 
 | Репозиторий | URL |
 |---|---|
@@ -151,11 +153,11 @@
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | silverbulleters/vanessa-stack-commons | https://github.com/silverbulleters/vanessa-stack-commons |
 | alexandro32/rep | https://github.com/alexandro32/rep |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | nixel2007/mtgcm | https://github.com/nixel2007/mtgcm |
 | vsuh/denyFZ | https://github.com/vsuh/denyFZ |
 | Uralchem-ssc/Klever_old | https://github.com/Uralchem-ssc/Klever_old |
@@ -195,6 +197,7 @@
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | vpozdnyakov/YandexDiskExchange | https://github.com/vpozdnyakov/YandexDiskExchange |
 | Oxotka/CounteragentsEnchanced | https://github.com/Oxotka/CounteragentsEnchanced |
+| ivan-kovtun/indust_dev | https://github.com/ivan-kovtun/indust_dev |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
 | alehinsasha/planning-time | https://github.com/alehinsasha/planning-time |
@@ -203,8 +206,8 @@
 | Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | Oxotka/ContractsEnchanced | https://github.com/Oxotka/ContractsEnchanced |
-| MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
+| MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
 | xDrivenDevelopment/atom-language-1c-bsl | https://github.com/xDrivenDevelopment/atom-language-1c-bsl |
 | cybjavax/lesson_bdd_1c_01 | https://github.com/cybjavax/lesson_bdd_1c_01 |
@@ -217,18 +220,19 @@
 | nixel2007/atom-language-1c-bsl | https://github.com/nixel2007/atom-language-1c-bsl |
 | AlmazNasibullin/testDT | https://github.com/AlmazNasibullin/testDT |
 | Simon250388/Storage | https://github.com/Simon250388/Storage |
+| binexekb/HomeWork | https://github.com/binexekb/HomeWork |
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | isa-1/all1c | https://github.com/isa-1/all1c |
 | int-it/bdd-midule1 | https://github.com/int-it/bdd-midule1 |
+| EShchavleva/Test-repository | https://github.com/EShchavleva/Test-repository |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | programmer1c7and8/all1C | https://github.com/programmer1c7and8/all1C |
-| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | gidrest/my | https://github.com/gidrest/my |
+| alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | stop-time/all1c | https://github.com/stop-time/all1c |
 | 1C-Romania/all1c | https://github.com/1C-Romania/all1c |
-| Vovqa412/DebugTools | https://github.com/Vovqa412/DebugTools |
 | nocamad/work-ext | https://github.com/nocamad/work-ext |
-| ivan-kovtun/indust_dev | https://github.com/ivan-kovtun/indust_dev |
+| Vovqa412/DebugTools | https://github.com/Vovqa412/DebugTools |
 | xmentosx/test2 | https://github.com/xmentosx/test2 |
 | unlstu22/test_1 | https://github.com/unlstu22/test_1 |
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
@@ -238,8 +242,8 @@
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | lightvdv/education | https://github.com/lightvdv/education |
-| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
+| Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | AleksandrAkhunov/Work3 | https://github.com/AleksandrAkhunov/Work3 |
 | popiksergey/work2 | https://github.com/popiksergey/work2 |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
@@ -321,8 +325,8 @@
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
 | VanessaDockers/pgsteroids | https://github.com/VanessaDockers/pgsteroids |
-| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | kseniyaloza/note-cheker | https://github.com/kseniyaloza/note-cheker |
+| vsuh/ctrPhones | https://github.com/vsuh/ctrPhones |
 | asheichenko/note-checker | https://github.com/asheichenko/note-checker |
 | raevsky66/1cTest | https://github.com/raevsky66/1cTest |
 
