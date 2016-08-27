@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 26.08.2016 5:17:51
+Актуальность: 27.08.2016 5:17:46
 
 ## Пользователи
 
-Общее количество пользователей: 131
-Всего репозиториев: 218
+Общее количество пользователей: 132
+Всего репозиториев: 220
 
 | Пользователь | Акаунт |
 ---|---|
@@ -19,8 +19,8 @@
 | vsuh | https://github.com/vsuh |
 | bytemdfab | https://github.com/bytemdfab |
 | dmpas | https://github.com/dmpas |
-| pumbaEO | https://github.com/pumbaEO |
 | oscript-library | https://github.com/oscript-library |
+| pumbaEO | https://github.com/pumbaEO |
 | allustin | https://github.com/allustin |
 | nixel2007 | https://github.com/nixel2007 |
 | xDrivenDevelopment | https://github.com/xDrivenDevelopment |
@@ -127,6 +127,7 @@
 | alexeyshumaev | https://github.com/alexeyshumaev |
 | yasan222 | https://github.com/yasan222 |
 | IvanScrobot | https://github.com/IvanScrobot |
+| MihailovAlexander | https://github.com/MihailovAlexander |
 | s6s | https://github.com/s6s |
 | RomaBlaSo | https://github.com/RomaBlaSo |
 | KokotovAlexandr | https://github.com/KokotovAlexandr |
@@ -145,7 +146,7 @@
 
 ## Репозитории BSL (1C)
 
-Общее количество репозиториев: 145
+Общее количество репозиториев: 146
 
 | Репозиторий | URL |
 |---|---|
@@ -157,8 +158,8 @@
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
-| Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | progromaking/magic | https://github.com/progromaking/magic |
+| Andrefan85/all1c | https://github.com/Andrefan85/all1c |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
 | temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
@@ -187,7 +188,6 @@
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
 | vpozdnyakov/DesktopServiceDesk | https://github.com/vpozdnyakov/DesktopServiceDesk |
@@ -205,6 +205,7 @@
 | RoxyRedFlame/HomeWork1 | https://github.com/RoxyRedFlame/HomeWork1 |
 | gidrest/1C | https://github.com/gidrest/1C |
 | stop-time/homeWork1 | https://github.com/stop-time/homeWork1 |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | Oxotka/CheckTheMutualSettlements | https://github.com/Oxotka/CheckTheMutualSettlements |
 | KrapivinAndrey/Pivo_FillForms | https://github.com/KrapivinAndrey/Pivo_FillForms |
 | Oxotka/NomenclatureEnchancedTrade | https://github.com/Oxotka/NomenclatureEnchancedTrade |
@@ -240,8 +241,8 @@
 | Oxotka/SendToSupportTrade | https://github.com/Oxotka/SendToSupportTrade |
 | Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
 | AleksandrAkhunov/Work3 | https://github.com/AleksandrAkhunov/Work3 |
-| SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | Oxotka/ContractsEnchanced | https://github.com/Oxotka/ContractsEnchanced |
+| SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
 | PiskunovSS/all1c | https://github.com/PiskunovSS/all1c |
 | Georgich88/ITCapitalDemo | https://github.com/Georgich88/ITCapitalDemo |
@@ -260,9 +261,9 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | git22ura/dz1 | https://github.com/git22ura/dz1 |
 | cobern1976/MyFirstRepository | https://github.com/cobern1976/MyFirstRepository |
+| isa-1/all1c | https://github.com/isa-1/all1c |
 | int-it/bdd-midule1 | https://github.com/int-it/bdd-midule1 |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
-| isa-1/all1c | https://github.com/isa-1/all1c |
 | programmer1c7and8/all1C | https://github.com/programmer1c7and8/all1C |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
 | AntonSm2006/testrepo | https://github.com/AntonSm2006/testrepo |
@@ -276,6 +277,7 @@
 | alexeyshumaev/all1c | https://github.com/alexeyshumaev/all1c |
 | yasan222/all1c | https://github.com/yasan222/all1c |
 | IvanScrobot/OneCStudy | https://github.com/IvanScrobot/OneCStudy |
+| MihailovAlexander/HomeWork1 | https://github.com/MihailovAlexander/HomeWork1 |
 | s6s/all1c | https://github.com/s6s/all1c |
 | RomaBlaSo/Study1C_IndustStandarts | https://github.com/RomaBlaSo/Study1C_IndustStandarts |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
@@ -299,7 +301,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 74
+Общее количество репозиториев: 75
 
 | Репозиторий | URL |
 |---|---|
@@ -319,6 +321,7 @@
 | vsuh/1S_EpfErf | https://github.com/vsuh/1S_EpfErf |
 | dmpas/XmlMetaCreator | https://github.com/dmpas/XmlMetaCreator |
 | artbear/1testrunner | https://github.com/artbear/1testrunner |
+| oscript-library/1testrunner | https://github.com/oscript-library/1testrunner |
 | pumbaEO/vanessa-behavior-tets | https://github.com/pumbaEO/vanessa-behavior-tets |
 | oscript-library/cmdline | https://github.com/oscript-library/cmdline |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
@@ -339,8 +342,8 @@
 | pumbaEO/xUnitfor1Csrc | https://github.com/pumbaEO/xUnitfor1Csrc |
 | oscript-library/deployka | https://github.com/oscript-library/deployka |
 | silverbulleters/vanessa-agiler | https://github.com/silverbulleters/vanessa-agiler |
-| vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
+| vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
 | ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
