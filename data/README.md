@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 28.08.2016 5:17:40
+Актуальность: 29.08.2016 5:17:48
 
 ## Пользователи
 
@@ -103,6 +103,7 @@
 | binexekb | https://github.com/binexekb |
 | ulyannikov1C | https://github.com/ulyannikov1C |
 | ivan-kovtun | https://github.com/ivan-kovtun |
+| Laddy2016 | https://github.com/Laddy2016 |
 | rasswett | https://github.com/rasswett |
 | silverbulleters-research | https://github.com/silverbulleters-research |
 | alehinsasha | https://github.com/alehinsasha |
@@ -131,11 +132,10 @@
 | yasan222 | https://github.com/yasan222 |
 | MihailovAlexander | https://github.com/MihailovAlexander |
 | s6s | https://github.com/s6s |
-| RomaBlaSo | https://github.com/RomaBlaSo |
 | KokotovAlexandr | https://github.com/KokotovAlexandr |
+| RomaBlaSo | https://github.com/RomaBlaSo |
 | harisov-r | https://github.com/harisov-r |
 | bitlz | https://github.com/bitlz |
-| Laddy2016 | https://github.com/Laddy2016 |
 | popiksergey | https://github.com/popiksergey |
 | hri75 | https://github.com/hri75 |
 | shpinderworka | https://github.com/shpinderworka |
@@ -170,8 +170,8 @@
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
@@ -236,6 +236,7 @@
 | vpozdnyakov/YandexDiskExchange | https://github.com/vpozdnyakov/YandexDiskExchange |
 | ivan-kovtun/indust_dev | https://github.com/ivan-kovtun/indust_dev |
 | Oxotka/CounteragentsEnchanced | https://github.com/Oxotka/CounteragentsEnchanced |
+| Laddy2016/DevStudy1C | https://github.com/Laddy2016/DevStudy1C |
 | rasswett/dbor | https://github.com/rasswett/dbor |
 | temsan/ATIDocsClient.BP20 | https://github.com/temsan/ATIDocsClient.BP20 |
 | silverbulleters-research/vanessa-dbaqa | https://github.com/silverbulleters-research/vanessa-dbaqa |
@@ -282,13 +283,12 @@
 | yasan222/all1c | https://github.com/yasan222/all1c |
 | MihailovAlexander/HomeWork1 | https://github.com/MihailovAlexander/HomeWork1 |
 | s6s/all1c | https://github.com/s6s/all1c |
-| RomaBlaSo/Study1C_IndustStandarts | https://github.com/RomaBlaSo/Study1C_IndustStandarts |
 | KokotovAlexandr/Test | https://github.com/KokotovAlexandr/Test |
+| RomaBlaSo/Study1C_IndustStandarts | https://github.com/RomaBlaSo/Study1C_IndustStandarts |
 | harisov-r/homework-kurs | https://github.com/harisov-r/homework-kurs |
 | nixel2007/test_epf | https://github.com/nixel2007/test_epf |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
 | bitlz/all1c | https://github.com/bitlz/all1c |
-| Laddy2016/DevStudy1C | https://github.com/Laddy2016/DevStudy1C |
 | popiksergey/work2 | https://github.com/popiksergey/work2 |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | hri75/hri75-homework | https://github.com/hri75/hri75-homework |
@@ -328,8 +328,8 @@
 | oscript-library/cmdline | https://github.com/oscript-library/cmdline |
 | SergeFocus/1C_ET | https://github.com/SergeFocus/1C_ET |
 | allustin/json-onescript-lib | https://github.com/allustin/json-onescript-lib |
-| nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | pumbaEO/precommit1c | https://github.com/pumbaEO/precommit1c |
+| nixel2007/1c-syntax | https://github.com/nixel2007/1c-syntax |
 | silverbulleters/vanessa-unpack | https://github.com/silverbulleters/vanessa-unpack |
 | xDrivenDevelopment/1script | https://github.com/xDrivenDevelopment/1script |
 | demidych/oscript-library-demidych | https://github.com/demidych/oscript-library-demidych |
