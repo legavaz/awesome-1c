@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 30.08.2016 5:17:49
+Актуальность: 31.08.2016 5:16:05
 
 ## Пользователи
 
-Общее количество пользователей: 133
-Всего репозиториев: 222
+Общее количество пользователей: 134
+Всего репозиториев: 223
 
 | Пользователь | Акаунт |
 ---|---|
@@ -38,6 +38,7 @@
 | ValerijBel | https://github.com/ValerijBel |
 | test4web | https://github.com/test4web |
 | verter4sb | https://github.com/verter4sb |
+| Kashkarov | https://github.com/Kashkarov |
 | Petr28 | https://github.com/Petr28 |
 | anatolean | https://github.com/anatolean |
 | git22ura | https://github.com/git22ura |
@@ -58,8 +59,8 @@
 | Andrefan85 | https://github.com/Andrefan85 |
 | 1C-Company | https://github.com/1C-Company |
 | wizi4d | https://github.com/wizi4d |
-| temsan | https://github.com/temsan |
 | SINAPTeam | https://github.com/SINAPTeam |
+| temsan | https://github.com/temsan |
 | KrapivinAndrey | https://github.com/KrapivinAndrey |
 | srvoland | https://github.com/srvoland |
 | poleznieglup0sti | https://github.com/poleznieglup0sti |
@@ -93,24 +94,24 @@
 | monwig | https://github.com/monwig |
 | EShchavleva | https://github.com/EShchavleva |
 | GenioCattivo | https://github.com/GenioCattivo |
-| BigHotey | https://github.com/BigHotey |
 | qwertnetman | https://github.com/qwertnetman |
+| BigHotey | https://github.com/BigHotey |
 | antdanshin | https://github.com/antdanshin |
 | lightvdv | https://github.com/lightvdv |
 | PiskunovSS | https://github.com/PiskunovSS |
-| Kashkarov | https://github.com/Kashkarov |
+| Vovqa412 | https://github.com/Vovqa412 |
 | BorisKem | https://github.com/BorisKem |
 | Uglickiy | https://github.com/Uglickiy |
 | KonstantinErmolenko | https://github.com/KonstantinErmolenko |
 | binexekb | https://github.com/binexekb |
 | ulyannikov1C | https://github.com/ulyannikov1C |
-| Vovqa412 | https://github.com/Vovqa412 |
 | ivan-kovtun | https://github.com/ivan-kovtun |
 | Laddy2016 | https://github.com/Laddy2016 |
 | rasswett | https://github.com/rasswett |
 | silverbulleters-research | https://github.com/silverbulleters-research |
 | alehinsasha | https://github.com/alehinsasha |
 | DmZhDNK | https://github.com/DmZhDNK |
+| popiksergey | https://github.com/popiksergey |
 | MaximPL | https://github.com/MaximPL |
 | Georgich88 | https://github.com/Georgich88 |
 | cybjavax | https://github.com/cybjavax |
@@ -119,6 +120,7 @@
 | Schtass | https://github.com/Schtass |
 | Doom2w | https://github.com/Doom2w |
 | cobern1976 | https://github.com/cobern1976 |
+| AlexGrishanov | https://github.com/AlexGrishanov |
 | int-it | https://github.com/int-it |
 | programmer1c7and8 | https://github.com/programmer1c7and8 |
 | Bazil1c | https://github.com/Bazil1c |
@@ -136,7 +138,6 @@
 | RomaBlaSo | https://github.com/RomaBlaSo |
 | harisov-r | https://github.com/harisov-r |
 | bitlz | https://github.com/bitlz |
-| popiksergey | https://github.com/popiksergey |
 | hri75 | https://github.com/hri75 |
 | shpinderworka | https://github.com/shpinderworka |
 | Oleghost | https://github.com/Oleghost |
@@ -159,24 +160,23 @@
 | tkalinvladimir/1C-epf-ecm | https://github.com/tkalinvladimir/1C-epf-ecm |
 | Nikiforov001/EDT_1.0 | https://github.com/Nikiforov001/EDT_1.0 |
 | smykalovaa/xUnitTesting_rcuo | https://github.com/smykalovaa/xUnitTesting_rcuo |
-| progromaking/magic | https://github.com/progromaking/magic |
 | Andrefan85/all1c | https://github.com/Andrefan85/all1c |
+| progromaking/magic | https://github.com/progromaking/magic |
 | 1C-Company/dt-demo-configuration | https://github.com/1C-Company/dt-demo-configuration |
 | wizi4d/TaskManagerFor1C | https://github.com/wizi4d/TaskManagerFor1C |
-| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | SINAPTeam/sinap | https://github.com/SINAPTeam/sinap |
+| temsan/ATIDocsClient.BP30 | https://github.com/temsan/ATIDocsClient.BP30 |
 | KrapivinAndrey/Pivo_ExtForms | https://github.com/KrapivinAndrey/Pivo_ExtForms |
 | xDrivenDevelopment/xUnitFor1C | https://github.com/xDrivenDevelopment/xUnitFor1C |
 | srvoland/babyserviceGH | https://github.com/srvoland/babyserviceGH |
 | YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher | https://github.com/YPermitin/DataAnalysisHH.ru-for-1C-Enterprise-8.3-and-higher |
 | poleznieglup0sti/perfect-nutrition-1C | https://github.com/poleznieglup0sti/perfect-nutrition-1C |
-| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | a-sitnikov/ExtForms-grdok | https://github.com/a-sitnikov/ExtForms-grdok |
+| a-sitnikov/erp2_xtests | https://github.com/a-sitnikov/erp2_xtests |
 | 1c-expert/TrainingManagement | https://github.com/1c-expert/TrainingManagement |
 | progromaking/data_generator_for_1C | https://github.com/progromaking/data_generator_for_1C |
 | StanislavDementev/TestRepo | https://github.com/StanislavDementev/TestRepo |
 | LieOff/ForClient | https://github.com/LieOff/ForClient |
-| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | zulus100/zulus100 | https://github.com/zulus100/zulus100 |
 | LeonellaH/all1c | https://github.com/LeonellaH/all1c |
 | NatalyaTseytlina/config1c | https://github.com/NatalyaTseytlina/config1c |
@@ -189,6 +189,7 @@
 | xDrivenDevelopment/v8Reader | https://github.com/xDrivenDevelopment/v8Reader |
 | mishatre/UnitedDB | https://github.com/mishatre/UnitedDB |
 | KrapivinAndrey/Pivo_PrnForms | https://github.com/KrapivinAndrey/Pivo_PrnForms |
+| KrapivinAndrey/Pivo_Reports | https://github.com/KrapivinAndrey/Pivo_Reports |
 | purtcer/Algoritms | https://github.com/purtcer/Algoritms |
 | carlosthebest/test_2 | https://github.com/carlosthebest/test_2 |
 | kostya-nsk/com.smarts.demodriver1c | https://github.com/kostya-nsk/com.smarts.demodriver1c |
@@ -221,12 +222,12 @@
 | EShchavleva/Test-repository | https://github.com/EShchavleva/Test-repository |
 | Oxotka/NomenclatureEnchancedAcc | https://github.com/Oxotka/NomenclatureEnchancedAcc |
 | GenioCattivo/test1 | https://github.com/GenioCattivo/test1 |
-| BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
 | qwertnetman/homework1 | https://github.com/qwertnetman/homework1 |
+| BigHotey/bbg_test | https://github.com/BigHotey/bbg_test |
 | antdanshin/DevelopmentTraining | https://github.com/antdanshin/DevelopmentTraining |
 | lightvdv/education | https://github.com/lightvdv/education |
 | PiskunovSS/1C-BDD-study | https://github.com/PiskunovSS/1C-BDD-study |
-| Kashkarov/testhw1 | https://github.com/Kashkarov/testhw1 |
+| Vovqa412/DebugTools | https://github.com/Vovqa412/DebugTools |
 | BorisKem/Work1 | https://github.com/BorisKem/Work1 |
 | Uglickiy/TUI | https://github.com/Uglickiy/TUI |
 | KonstantinErmolenko/KantDev | https://github.com/KonstantinErmolenko/KantDev |
@@ -234,7 +235,6 @@
 | Oxotka/Faximile | https://github.com/Oxotka/Faximile |
 | ulyannikov1C/Pays | https://github.com/ulyannikov1C/Pays |
 | vpozdnyakov/YandexDiskExchange | https://github.com/vpozdnyakov/YandexDiskExchange |
-| Vovqa412/DebugTools | https://github.com/Vovqa412/DebugTools |
 | ivan-kovtun/indust_dev | https://github.com/ivan-kovtun/indust_dev |
 | Oxotka/CounteragentsEnchanced | https://github.com/Oxotka/CounteragentsEnchanced |
 | Laddy2016/DevStudy1C | https://github.com/Laddy2016/DevStudy1C |
@@ -245,6 +245,7 @@
 | DmZhDNK/Home_Bookkeeping | https://github.com/DmZhDNK/Home_Bookkeeping |
 | Oxotka/SendToSupportTrade | https://github.com/Oxotka/SendToSupportTrade |
 | Oxotka/SendToSupportAcc | https://github.com/Oxotka/SendToSupportAcc |
+| popiksergey/work2 | https://github.com/popiksergey/work2 |
 | Oxotka/ContractsEnchanced | https://github.com/Oxotka/ContractsEnchanced |
 | SergeFocus/VedomostAmortizNMA | https://github.com/SergeFocus/VedomostAmortizNMA |
 | MaximPL/repo1c | https://github.com/MaximPL/repo1c |
@@ -264,8 +265,9 @@
 | Doom2w/All1C | https://github.com/Doom2w/All1C |
 | git22ura/dz1 | https://github.com/git22ura/dz1 |
 | cobern1976/MyFirstRepository | https://github.com/cobern1976/MyFirstRepository |
-| isa-1/all1c | https://github.com/isa-1/all1c |
+| AlexGrishanov/ForTrainings | https://github.com/AlexGrishanov/ForTrainings |
 | int-it/bdd-midule1 | https://github.com/int-it/bdd-midule1 |
+| isa-1/all1c | https://github.com/isa-1/all1c |
 | programmer1c7and8/all1C | https://github.com/programmer1c7and8/all1C |
 | Bazil1c/all1c | https://github.com/Bazil1c/all1c |
 | alehinsasha/external-files-1C | https://github.com/alehinsasha/external-files-1C |
@@ -288,7 +290,6 @@
 | harisov-r/homework-kurs | https://github.com/harisov-r/homework-kurs |
 | bitlz/all1c | https://github.com/bitlz/all1c |
 | Petr28/EDT_Test | https://github.com/Petr28/EDT_Test |
-| popiksergey/work2 | https://github.com/popiksergey/work2 |
 | Nikiforov001/Seminar-062015 | https://github.com/Nikiforov001/Seminar-062015 |
 | hri75/hri75-homework | https://github.com/hri75/hri75-homework |
 | shpinderworka/rep_pav_1C | https://github.com/shpinderworka/rep_pav_1C |
@@ -302,7 +303,7 @@
 
 ## Репозитории OS (1Script)
 
-Общее количество репозиториев: 77
+Общее количество репозиториев: 78
 
 | Репозиторий | URL |
 |---|---|
@@ -343,8 +344,8 @@
 | pumbaEO/xUnitfor1Csrc | https://github.com/pumbaEO/xUnitfor1Csrc |
 | oscript-library/deployka | https://github.com/oscript-library/deployka |
 | silverbulleters/vanessa-agiler | https://github.com/silverbulleters/vanessa-agiler |
-| EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
 | vsuh/1S_unloads | https://github.com/vsuh/1S_unloads |
+| EvilBeaver/OneScript | https://github.com/EvilBeaver/OneScript |
 | ret-Phoenix/autoupdatecfg | https://github.com/ret-Phoenix/autoupdatecfg |
 | nextkmv/vServer | https://github.com/nextkmv/vServer |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |
@@ -370,6 +371,7 @@
 | ValerijBel/Infostart_1199_HomeWork | https://github.com/ValerijBel/Infostart_1199_HomeWork |
 | test4web/all1c | https://github.com/test4web/all1c |
 | verter4sb/all1c | https://github.com/verter4sb/all1c |
+| Kashkarov/testhw1 | https://github.com/Kashkarov/testhw1 |
 | pumbaEO/onec-syntaxparser | https://github.com/pumbaEO/onec-syntaxparser |
 | Petr28/test-atom | https://github.com/Petr28/test-atom |
 | anatolean/lib_1c | https://github.com/anatolean/lib_1c |
