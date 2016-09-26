@@ -23,6 +23,7 @@
 * [1C и CropIO](https://github.com/cropio/cropio-1c)
 * [1C и WooCommerce](https://github.com/sgtpep/woocommerce-1c)
 * [1C и Redmine](https://github.com/SmokyAce/integration-1c-redmine)
+* [1C и PricePlan](https://github.com/linskiy/priceplan_1C/) 
 
 ## Контроль качества разработки
 
