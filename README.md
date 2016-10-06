@@ -53,6 +53,7 @@
 
 * [1C Syntax Highlight](https://github.com/xDrivenDevelopment/1c-syntax) - поддержка 1С в редакторах Atom, VSC, Sublime
 * [GitLab Syntax Highlight](https://github.com/karnilaev/1c-syntax-for-GitLab) - подсветка синтаксиса 1С для GitLab Server
+* [Vim Syntax Highlight](https://github.com/andreevlex/vim-language-1c-bsl) - поддержка 1С в редакторе Vim
 
 ## Внешние компоненты
 
