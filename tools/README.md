@@ -7,12 +7,10 @@
 
 ## Запуск скриптов
 
-* `git submodule update --init --recursive` - обновление подмодулей скриптов
-* `search-start.cmd` - запуск поиска
+* установить переменную окружения `GHAUTH` в значение для подстановик в HTTP авторизацию - обычно `Basic <МногоСтранныхБукв>`
+* и запустить
 
-или напрямую из консоли:
-
-`oscript ./tools/github-stats/bsl-github-stats.os generate-markdown --markdown-path data\\README.md`
+`oscript ./tools/github-stats-api.os generate-markdown --markdown-path data\\README.md`
 
 ## Просмотр данных
 
