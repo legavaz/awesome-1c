@@ -184,7 +184,7 @@
 Общее количество репозиториев: 241
 
 | Репозиторий | URL | Важный | Популярный | Завлекательный |
-|---|---|
+|---|---|---|---|---|
 | 1823244/CF | https://github.com/1823244/CF | 0 | 0 | 0 |
 | 1823244/CF3 | https://github.com/1823244/CF3 | 0 | 0 | 0 |
 | 1823244/DealsViewer | https://github.com/1823244/DealsViewer | 1 | 1 | 0 |
@@ -434,7 +434,7 @@
 Общее количество репозиториев: 143
 
 | Репозиторий | URL | Важный | Популярный | Завлекательный |
-|---|---|
+|---|---|---|---|---|
 | 1C-Romania/SmB15_Smoke | https://github.com/1C-Romania/SmB15_Smoke |  |  |  |
 | 1cto/Test_8.3.7 | https://github.com/1cto/Test_8.3.7 |  |  |  |
 | AdnreyGranenkin/tvb8 | https://github.com/AdnreyGranenkin/tvb8 |  |  |  |
