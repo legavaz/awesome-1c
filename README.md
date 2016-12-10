@@ -63,6 +63,7 @@
 ## Фреймворки для интеграции с 1С
 
 * [Metadata.JS](https://github.com/oknosoft/metadata.js)
+* [Транслятор запросов и Linq-провайдер для 1С](https://github.com/gusev-p/simple-1c)
 
 ## Курсы, книги и примеры
 
