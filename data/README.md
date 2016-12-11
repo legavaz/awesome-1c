@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 10.12.2016 19:21:52
+Актуальность: 11.12.2016 5:10:08
 
 ## Пользователи
 
-Общее количество пользователей: 167
-Всего репозиториев: 304
+Общее количество пользователей: 169
+Всего репозиториев: 305
 
 | Пользователь | Акаунт |
 ---|---|
@@ -55,6 +55,7 @@
 | dchernykhss | [link](https://github.com/dchernykhss) |
 | demidych | [link](https://github.com/demidych) |
 | deputatov | [link](https://github.com/deputatov) |
+| DitriXNew | [link](https://github.com/DitriXNew) |
 | Diversus23 | [link](https://github.com/Diversus23) |
 | dlebedev | [link](https://github.com/dlebedev) |
 | DmitriyShevchenko | [link](https://github.com/DmitriyShevchenko) |
@@ -68,6 +69,7 @@
 | EvilBeaver | [link](https://github.com/EvilBeaver) |
 | farukshin | [link](https://github.com/farukshin) |
 | flex81 | [link](https://github.com/flex81) |
+| Fox-trot | [link](https://github.com/Fox-trot) |
 | Freeman391 | [link](https://github.com/Freeman391) |
 | Gadjik | [link](https://github.com/Gadjik) |
 | git22ura | [link](https://github.com/git22ura) |
@@ -181,7 +183,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 241
+Общее количество репозиториев: 242
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -217,7 +219,7 @@
 | artbear/1bdd | [link](https://github.com/artbear/1bdd) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | artyusmirnov/courseFinalTask | [link](https://github.com/artyusmirnov/courseFinalTask) | 0 | 0 | 0 |
-| a-sitnikov/erp2_xtests | [link](https://github.com/a-sitnikov/erp2_xtests) | 19 | 19 | 7 |
+| a-sitnikov/erp2_xtests | [link](https://github.com/a-sitnikov/erp2_xtests) | 20 | 20 | 7 |
 | a-sitnikov/ExtForms-grdok | [link](https://github.com/a-sitnikov/ExtForms-grdok) | 2 | 2 | 0 |
 | asosnoviy/bdd-final1 | [link](https://github.com/asosnoviy/bdd-final1) | 0 | 0 | 0 |
 | AStepashkin/astepashkinrep | [link](https://github.com/AStepashkin/astepashkinrep) | 0 | 0 | 0 |
@@ -232,7 +234,7 @@
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
 | BlizD/BPS | [link](https://github.com/BlizD/BPS) | 2 | 2 | 1 |
 | BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 0 | 0 | 0 |
-| BlizD/Tasks | [link](https://github.com/BlizD/Tasks) | 12 | 12 | 4 |
+| BlizD/Tasks | [link](https://github.com/BlizD/Tasks) | 13 | 13 | 4 |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
 | bwire/BigFinalTask | [link](https://github.com/bwire/BigFinalTask) | 0 | 0 | 0 |
@@ -247,9 +249,9 @@
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
+| DitriXNew/BelMob | [link](https://github.com/DitriXNew/BelMob) | 0 | 0 | 0 |
 | Diversus23/uni_script | [link](https://github.com/Diversus23/uni_script) |  |  |  |
 | dlebedev/all1c | [link](https://github.com/dlebedev/all1c) | 0 | 0 | 0 |
-| DmitriyShevchenko/GitRep | [link](https://github.com/DmitriyShevchenko/GitRep) | 0 | 0 | 0 |
 | DmitriyShevchenko/testrep | [link](https://github.com/DmitriyShevchenko/testrep) | 0 | 0 | 0 |
 | dmnblg/contracts | [link](https://github.com/dmnblg/contracts) | 0 | 0 | 0 |
 | dmpas/odnoskobka | [link](https://github.com/dmpas/odnoskobka) |  |  |  |
@@ -263,6 +265,7 @@
 | farukshin/test_github | [link](https://github.com/farukshin/test_github) | 0 | 0 | 0 |
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
 | flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) | 1 | 1 | 1 |
+| Fox-trot/kg | [link](https://github.com/Fox-trot/kg) | 1 | 1 | 0 |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
 | Gadjik/XDD-trainingcourse-finaltask | [link](https://github.com/Gadjik/XDD-trainingcourse-finaltask) | 0 | 0 | 0 |
 | Gadjik/XDD-trainingcourse-homework | [link](https://github.com/Gadjik/XDD-trainingcourse-homework) |  |  |  |
@@ -403,7 +406,7 @@
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 0 |
-| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 4 | 4 | 2 |
+| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 11 | 11 | 2 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | UpdateExpress/OutputProcessorExtension | [link](https://github.com/UpdateExpress/OutputProcessorExtension) | 8 | 8 | 3 |
 | vadimitr/FinalTask | [link](https://github.com/vadimitr/FinalTask) | 0 | 0 | 0 |
