@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 11.12.2016 5:10:08
+Актуальность: 12.12.2016 5:10:11
 
 ## Пользователи
 
 Общее количество пользователей: 169
-Всего репозиториев: 305
+Всего репозиториев: 306
 
 | Пользователь | Акаунт |
 ---|---|
@@ -183,7 +183,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 242
+Общее количество репозиториев: 243
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -217,6 +217,7 @@
 | arkuznetsov/NewRepo | [link](https://github.com/arkuznetsov/NewRepo) |  |  |  |
 | arkuznetsov/study_temp | [link](https://github.com/arkuznetsov/study_temp) |  |  |  |
 | artbear/1bdd | [link](https://github.com/artbear/1bdd) |  |  |  |
+| artbear/1commands | [link](https://github.com/artbear/1commands) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | artyusmirnov/courseFinalTask | [link](https://github.com/artyusmirnov/courseFinalTask) | 0 | 0 | 0 |
 | a-sitnikov/erp2_xtests | [link](https://github.com/a-sitnikov/erp2_xtests) | 20 | 20 | 7 |
@@ -232,9 +233,9 @@
 | binexekb/DADATA | [link](https://github.com/binexekb/DADATA) | 0 | 0 | 0 |
 | binexekb/HomeWork | [link](https://github.com/binexekb/HomeWork) | 1 | 1 | 0 |
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
-| BlizD/BPS | [link](https://github.com/BlizD/BPS) | 2 | 2 | 1 |
+| BlizD/BPS | [link](https://github.com/BlizD/BPS) | 3 | 3 | 1 |
 | BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 0 | 0 | 0 |
-| BlizD/Tasks | [link](https://github.com/BlizD/Tasks) | 13 | 13 | 4 |
+| BlizD/Tasks | [link](https://github.com/BlizD/Tasks) | 15 | 15 | 4 |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
 | bwire/BigFinalTask | [link](https://github.com/bwire/BigFinalTask) | 0 | 0 | 0 |
@@ -406,9 +407,9 @@
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 0 |
-| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 11 | 11 | 2 |
+| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 16 | 16 | 2 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
-| UpdateExpress/OutputProcessorExtension | [link](https://github.com/UpdateExpress/OutputProcessorExtension) | 8 | 8 | 3 |
+| UpdateExpress/OutputProcessorExtension | [link](https://github.com/UpdateExpress/OutputProcessorExtension) | 9 | 9 | 3 |
 | vadimitr/FinalTask | [link](https://github.com/vadimitr/FinalTask) | 0 | 0 | 0 |
 | ValerijBel/Infostart_1199_FinalTask | [link](https://github.com/ValerijBel/Infostart_1199_FinalTask) | 0 | 0 | 0 |
 | ValerijBel/Infostart_1199_HomeWork | [link](https://github.com/ValerijBel/Infostart_1199_HomeWork) |  |  |  |
@@ -420,7 +421,7 @@
 | Vovqa412/DebugTools | [link](https://github.com/Vovqa412/DebugTools) | 0 | 0 | 0 |
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 170 | 170 | 59 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 171 | 171 | 59 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
@@ -434,7 +435,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 143
+Общее количество репозиториев: 144
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -455,6 +456,7 @@
 | arkuznetsov/study_temp | [link](https://github.com/arkuznetsov/study_temp) |  |  |  |
 | artbear/1adminka | [link](https://github.com/artbear/1adminka) |  |  |  |
 | artbear/1bdd | [link](https://github.com/artbear/1bdd) |  |  |  |
+| artbear/1commands | [link](https://github.com/artbear/1commands) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | asheichenko/note-checker | [link](https://github.com/asheichenko/note-checker) |  |  |  |
 | Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
