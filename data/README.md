@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 18.12.2016 5:10:16
+Актуальность: 19.12.2016 5:10:12
 
 ## Пользователи
 
-Общее количество пользователей: 172
-Всего репозиториев: 310
+Общее количество пользователей: 173
+Всего репозиториев: 312
 
 | Пользователь | Акаунт |
 ---|---|
@@ -93,6 +93,7 @@
 | latestalexey | [link](https://github.com/latestalexey) |
 | lightvdv | [link](https://github.com/lightvdv) |
 | linskiy | [link](https://github.com/linskiy) |
+| locta66 | [link](https://github.com/locta66) |
 | maxstarkov | [link](https://github.com/maxstarkov) |
 | mdzm | [link](https://github.com/mdzm) |
 | MiaoYuJia | [link](https://github.com/MiaoYuJia) |
@@ -186,7 +187,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 245
+Общее количество репозиториев: 246
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -270,6 +271,7 @@
 | farukshin/test_github | [link](https://github.com/farukshin/test_github) | 0 | 0 | 0 |
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
 | flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) | 1 | 1 | 1 |
+| Fox-trot/Enigma | [link](https://github.com/Fox-trot/Enigma) | 0 | 0 | 0 |
 | Fox-trot/scuola | [link](https://github.com/Fox-trot/scuola) | 0 | 0 | 0 |
 | Fox-trot/testing | [link](https://github.com/Fox-trot/testing) | 0 | 0 | 0 |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
@@ -411,7 +413,7 @@
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 0 |
-| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 18 | 18 | 3 |
+| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 19 | 19 | 3 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
 | UpdateExpress/OutputProcessorExtension | [link](https://github.com/UpdateExpress/OutputProcessorExtension) | 9 | 9 | 3 |
@@ -440,7 +442,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 147
+Общее количество репозиториев: 148
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -507,6 +509,7 @@
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
 | latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
+| locta66/PL_recognizer | [link](https://github.com/locta66/PL_recognizer) |  |  |  |
 | maxstarkov/DevPro | [link](https://github.com/maxstarkov/DevPro) |  |  |  |
 | mikhah/HomeWork3 | [link](https://github.com/mikhah/HomeWork3) |  |  |  |
 | mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) |  |  |  |
