@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 21.12.2016 5:10:19
+Актуальность: 22.12.2016 5:10:12
 
 ## Пользователи
 
-Общее количество пользователей: 178
-Всего репозиториев: 314
+Общее количество пользователей: 179
+Всего репозиториев: 316
 
 | Пользователь | Акаунт |
 ---|---|
@@ -76,6 +76,7 @@
 | Freeman391 | [link](https://github.com/Freeman391) |
 | git22ura | [link](https://github.com/git22ura) |
 | github | [link](https://github.com/github) |
+| haleevra | [link](https://github.com/haleevra) |
 | harisov-r | [link](https://github.com/harisov-r) |
 | IamNuke | [link](https://github.com/IamNuke) |
 | ilgizvip | [link](https://github.com/ilgizvip) |
@@ -85,7 +86,6 @@
 | kasperiks | [link](https://github.com/kasperiks) |
 | KazaxLooksAtYou | [link](https://github.com/KazaxLooksAtYou) |
 | Kegearr | [link](https://github.com/Kegearr) |
-| KonstantinErmolenko | [link](https://github.com/KonstantinErmolenko) |
 | korzhishe | [link](https://github.com/korzhishe) |
 | KrapivinAndrey | [link](https://github.com/KrapivinAndrey) |
 | kseniyaloza | [link](https://github.com/kseniyaloza) |
@@ -148,6 +148,7 @@
 | sikuda | [link](https://github.com/sikuda) |
 | silverbulleters | [link](https://github.com/silverbulleters) |
 | Simon250388 | [link](https://github.com/Simon250388) |
+| slaxxals | [link](https://github.com/slaxxals) |
 | Smilebringer | [link](https://github.com/Smilebringer) |
 | SmileDDD | [link](https://github.com/SmileDDD) |
 | SmokyAce | [link](https://github.com/SmokyAce) |
@@ -192,7 +193,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 248
+Общее количество репозиториев: 250
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -200,7 +201,7 @@
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
-| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 52 | 52 | 32 |
+| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 53 | 53 | 32 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | AAGavrilov/All1C | [link](https://github.com/AAGavrilov/All1C) | 0 | 0 | 0 |
@@ -252,6 +253,7 @@
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 1 | 1 | 1 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 0 | 0 | 1 |
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 31 | 31 | 0 |
+| cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
@@ -282,6 +284,7 @@
 | Fox-trot/testing | [link](https://github.com/Fox-trot/testing) | 0 | 0 | 1 |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
+| haleevra/SiteExchangeProfITCoffeeStudio | [link](https://github.com/haleevra/SiteExchangeProfITCoffeeStudio) | 0 | 0 | 0 |
 | harisov-r/homework-kurs | [link](https://github.com/harisov-r/homework-kurs) | 0 | 0 | 0 |
 | IamNuke/BSP | [link](https://github.com/IamNuke/BSP) | 0 | 0 | 0 |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
@@ -290,7 +293,6 @@
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) | 0 | 0 | 0 |
 | Kegearr/597340-bdd | [link](https://github.com/Kegearr/597340-bdd) | 0 | 0 | 0 |
-| KonstantinErmolenko/empty1 | [link](https://github.com/KonstantinErmolenko/empty1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
 | KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
@@ -404,6 +406,7 @@
 | silverbulleters/vanessa-runner | [link](https://github.com/silverbulleters/vanessa-runner) |  |  |  |
 | silverbulleters/vanessa-unpack | [link](https://github.com/silverbulleters/vanessa-unpack) |  |  |  |
 | Simon250388/Storage | [link](https://github.com/Simon250388/Storage) | 0 | 0 | 0 |
+| slaxxals/all1c | [link](https://github.com/slaxxals/all1c) | 0 | 0 | 0 |
 | Smilebringer/itsk | [link](https://github.com/Smilebringer/itsk) | 0 | 0 | 0 |
 | SmileDDD/-1- | [link](https://github.com/SmileDDD/-1-) | 0 | 0 | 0 |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
@@ -449,7 +452,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 147
+Общее количество репозиториев: 148
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -481,6 +484,7 @@
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | bytemdfab/OneLauncher | [link](https://github.com/bytemdfab/OneLauncher) |  |  |  |
 | chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
+| cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | demidych/oscript-library-demidych | [link](https://github.com/demidych/oscript-library-demidych) |  |  |  |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
