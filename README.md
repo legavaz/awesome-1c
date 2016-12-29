@@ -32,6 +32,7 @@
 
 ## Библиотеки и утилиты для работы
 
+* [Инструменты разработчика от tormozIT](https://github.com/tormozit/1C-Runtime-Developer-Tools) - инструменты разработчика (дай бог здоровья автору)
 * [Local Compile Utils](https://github.com/silverbulleters/vanessa-runner) - скрипты для локальной сборки "за один шаг"
 * [v8unpack](https://github.com/dmpas/v8unpack/tree/v.3.0) - утилита С++ для работы с бинарными файлами 1С
 * [oscript-library](https://github.com/EvilBeaver/oscript-library) - полезные библиотеки на 1Script
@@ -39,6 +40,7 @@
 * [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c) - поддержка возможности работы с EPF внутри git репозиториев через "перехваты git"
 * [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C) - утилита для исправления чужих ошибок ;-)
 * [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
+* [Консоль запросов + БИТ:Финанс](https://github.com/CryptedSky/QueryConsolePBF) - работа с источниками данных БИТ:Финанс
 
 
 ## DevOps
@@ -65,6 +67,10 @@
 
 * [Metadata.JS](https://github.com/oknosoft/metadata.js)
 * [Транслятор запросов и Linq-провайдер для 1С](https://github.com/gusev-p/simple-1c)
+
+## OScript интересное
+
+* [SQL запросы на OScript](https://github.com/ret-Phoenix/oscript-sql) - внешняя компонента реализующая возможность работы с базами данных из onescript.
 
 ## Курсы, книги и примеры
 
