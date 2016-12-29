@@ -1,1 +1,1 @@
- oscript tools/github-stats/bsl-github-stats.os generate-markdown --markdown-path .\\data\\README.md
+ oscript tools/github-stats-api.os generate-markdown --markdown-path .\\data\\README.md
