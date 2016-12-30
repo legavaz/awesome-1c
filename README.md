@@ -93,6 +93,7 @@
 * https://github.com/1CEnterprise/MSQL-for-1C
 * https://github.com/asdaru/postgres_1c
 * https://github.com/SergeFocus/1C-Functin-to-yEd
+* https://github.com/Zawullon/fpnativeapi
 
 **Автоматический поиск**
 
