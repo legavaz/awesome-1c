@@ -62,6 +62,7 @@
 ## Внешние компоненты
 
 * [Small Wrapper AddIn 1C](https://github.com/tapapax/Addin1C) - пример работы с Native API
+* [BROM-Asterisk-Native](https://github.com/shachneff/BROM-Asterisk-Native) - Открытая, работающая в 1С >= 8.3.6 версия компоненты ROM-Asterisk-Native от Simplit
 
 ## Фреймворки для интеграции с 1С
 
