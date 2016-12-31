@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 30.12.2016 5:14:07
+Актуальность: 31.12.2016 5:14:02
 
 ## Пользователи
 
-Общее количество пользователей: 180
-Всего репозиториев: 319
+Общее количество пользователей: 181
+Всего репозиториев: 320
 
 | Пользователь | Акаунт |
 ---|---|
@@ -26,7 +26,6 @@
 | alexkmbk | [link](https://github.com/alexkmbk) |
 | AllexxYu | [link](https://github.com/AllexxYu) |
 | allustin | [link](https://github.com/allustin) |
-| AlmazNasibullin | [link](https://github.com/AlmazNasibullin) |
 | alsknar | [link](https://github.com/alsknar) |
 | Amon-Ra- | [link](https://github.com/Amon-Ra-) |
 | AnatoliyBritko | [link](https://github.com/AnatoliyBritko) |
@@ -124,6 +123,7 @@
 | pboykov69 | [link](https://github.com/pboykov69) |
 | Petr28 | [link](https://github.com/Petr28) |
 | pila86 | [link](https://github.com/pila86) |
+| piromane | [link](https://github.com/piromane) |
 | PiskunovSS | [link](https://github.com/PiskunovSS) |
 | poabor | [link](https://github.com/poabor) |
 | popiksergey | [link](https://github.com/popiksergey) |
@@ -141,6 +141,7 @@
 | RigsOfRods | [link](https://github.com/RigsOfRods) |
 | RoxyRedFlame | [link](https://github.com/RoxyRedFlame) |
 | SBurdin | [link](https://github.com/SBurdin) |
+| Schtass | [link](https://github.com/Schtass) |
 | sdoronin | [link](https://github.com/sdoronin) |
 | SecondIdeal | [link](https://github.com/SecondIdeal) |
 | SergeFocus | [link](https://github.com/SergeFocus) |
@@ -199,6 +200,7 @@
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
 | 0xporky/MG-N707TS | [link](https://github.com/0xporky/MG-N707TS) | 1 | 1 | 0 |
+| 0xporky/Sberbank | [link](https://github.com/0xporky/Sberbank) | 0 | 0 | 0 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
@@ -216,7 +218,6 @@
 | alexkmbk/1CI | [link](https://github.com/alexkmbk/1CI) | 1 | 1 | 0 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
-| AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
 | alsknar/1c_reports | [link](https://github.com/alsknar/1c_reports) | 0 | 0 | 0 |
 | Amon-Ra-/SalesAssistant | [link](https://github.com/Amon-Ra-/SalesAssistant) | 0 | 0 | 0 |
 | AnatoliyBritko/distr-build | [link](https://github.com/AnatoliyBritko/distr-build) |  |  |  |
@@ -237,7 +238,7 @@
 | AStepashkin/astepashkinrep | [link](https://github.com/AStepashkin/astepashkinrep) | 0 | 0 | 0 |
 | AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | Bazil1c/hometask_block2 | [link](https://github.com/Bazil1c/hometask_block2) | 0 | 0 | 0 |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) | 0 | 0 | 0 |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | Benony0/ExtForms1c | [link](https://github.com/Benony0/ExtForms1c) | 0 | 0 | 0 |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
@@ -274,7 +275,7 @@
 | ElectroService/WAP_1C | [link](https://github.com/ElectroService/WAP_1C) | 0 | 0 | 0 |
 | eliseeva/all1c | [link](https://github.com/eliseeva/all1c) | 0 | 0 | 0 |
 | EShchavleva/Test-repository | [link](https://github.com/EShchavleva/Test-repository) | 0 | 0 | 0 |
-| eSTau/RDS_repository | [link](https://github.com/eSTau/RDS_repository) | 0 | 0 | 0 |
+| eSTau/RDS_config | [link](https://github.com/eSTau/RDS_config) | 0 | 0 | 0 |
 | EugeneParadise/BackupCopy | [link](https://github.com/EugeneParadise/BackupCopy) |  |  |  |
 | Eurospider/OpenBSD-firewall | [link](https://github.com/Eurospider/OpenBSD-firewall) | 6 | 6 | 3 |
 | EvilBeaver/oscript-library | [link](https://github.com/EvilBeaver/oscript-library) |  |  |  |
@@ -371,6 +372,7 @@
 | pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
 | pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
+| piromane/ExtRepoPart1 | [link](https://github.com/piromane/ExtRepoPart1) | 0 | 0 | 0 |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | PiskunovSS/BDD-1C-final-task | [link](https://github.com/PiskunovSS/BDD-1C-final-task) | 1 | 1 | 1 |
 | poabor/Block4 | [link](https://github.com/poabor/Block4) | 0 | 0 | 0 |
@@ -395,6 +397,7 @@
 | RoxyRedFlame/HomeWork2 | [link](https://github.com/RoxyRedFlame/HomeWork2) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
 | SBurdin/-2-BDD | [link](https://github.com/SBurdin/-2-BDD) | 0 | 0 | 0 |
+| Schtass/Edu | [link](https://github.com/Schtass/Edu) | 0 | 0 | 0 |
 | sdoronin/BDDLearnin | [link](https://github.com/sdoronin/BDDLearnin) | 0 | 0 | 0 |
 | SecondIdeal/ProjectManagement-CRM | [link](https://github.com/SecondIdeal/ProjectManagement-CRM) | 0 | 0 | 0 |
 | SergeFocus/External_reports_processing_printing_plates_for_1C | [link](https://github.com/SergeFocus/External_reports_processing_printing_plates_for_1C) | 1 | 1 | 0 |
@@ -413,7 +416,6 @@
 | SmileDDD/-1- | [link](https://github.com/SmileDDD/-1-) | 0 | 0 | 0 |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | smykalovaa/rcuo-testing-first | [link](https://github.com/smykalovaa/rcuo-testing-first) | 1 | 1 | 0 |
-| smykalovaa/rcuo-trusovo-epf | [link](https://github.com/smykalovaa/rcuo-trusovo-epf) | 0 | 0 | 0 |
 | sovetnikoffice/work1 | [link](https://github.com/sovetnikoffice/work1) | 1 | 1 | 0 |
 | SpaceHead1C/hw4 | [link](https://github.com/SpaceHead1C/hw4) | 0 | 0 | 0 |
 | Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
@@ -436,7 +438,6 @@
 | ValeriyPlescheev/Test | [link](https://github.com/ValeriyPlescheev/Test) | 0 | 0 | 0 |
 | VanDerKeen/homework | [link](https://github.com/VanDerKeen/homework) |  |  |  |
 | VitaliyCeban/BDD_Lesson02 | [link](https://github.com/VitaliyCeban/BDD_Lesson02) | 0 | 0 | 0 |
-| VitaliyCeban/BDD_Lesson03 | [link](https://github.com/VitaliyCeban/BDD_Lesson03) | 0 | 0 | 0 |
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | Vovqa412/DebugTools | [link](https://github.com/Vovqa412/DebugTools) | 0 | 0 | 0 |
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
@@ -479,7 +480,6 @@
 | artbear/1commands | [link](https://github.com/artbear/1commands) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | asheichenko/note-checker | [link](https://github.com/asheichenko/note-checker) |  |  |  |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/ExchangePlan77 | [link](https://github.com/binexekb/ExchangePlan77) |  |  |  |
@@ -499,6 +499,7 @@
 | dmpas/oscript-component-example | [link](https://github.com/dmpas/oscript-component-example) |  |  |  |
 | dmpas/oscript-mail | [link](https://github.com/dmpas/oscript-mail) |  |  |  |
 | dmpas/oscript-network | [link](https://github.com/dmpas/oscript-network) |  |  |  |
+| dmpas/oscript-soap | [link](https://github.com/dmpas/oscript-soap) |  |  |  |
 | dmpas/XmlMetaCreator | [link](https://github.com/dmpas/XmlMetaCreator) |  |  |  |
 | EugeneParadise/BackupCopy | [link](https://github.com/EugeneParadise/BackupCopy) |  |  |  |
 | EvilBeaver/OneScript | [link](https://github.com/EvilBeaver/OneScript) |  |  |  |
