@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 09.01.2017 5:15:07
+Актуальность: 10.01.2017 5:15:08
 
 ## Пользователи
 
 Общее количество пользователей: 183
-Всего репозиториев: 322
+Всего репозиториев: 324
 
 | Пользователь | Акаунт |
 ---|---|
@@ -16,6 +16,7 @@
 | 1cto | [link](https://github.com/1cto) |
 | 1cVitalik | [link](https://github.com/1cVitalik) |
 | 1cwin | [link](https://github.com/1cwin) |
+| AAGavrilov | [link](https://github.com/AAGavrilov) |
 | AdnreyGranenkin | [link](https://github.com/AdnreyGranenkin) |
 | AGPonomarev | [link](https://github.com/AGPonomarev) |
 | aKomper | [link](https://github.com/aKomper) |
@@ -32,7 +33,6 @@
 | AndreFokin | [link](https://github.com/AndreFokin) |
 | Anice17 | [link](https://github.com/Anice17) |
 | AntonSm2006 | [link](https://github.com/AntonSm2006) |
-| APolubenskiy | [link](https://github.com/APolubenskiy) |
 | arkuznetsov | [link](https://github.com/arkuznetsov) |
 | artbear | [link](https://github.com/artbear) |
 | artyusmirnov | [link](https://github.com/artyusmirnov) |
@@ -137,7 +137,6 @@
 | raevsky66 | [link](https://github.com/raevsky66) |
 | rarus-view | [link](https://github.com/rarus-view) |
 | rasswett | [link](https://github.com/rasswett) |
-| realMaxA | [link](https://github.com/realMaxA) |
 | regcpr1c | [link](https://github.com/regcpr1c) |
 | ret-Phoenix | [link](https://github.com/ret-Phoenix) |
 | RfidCenter | [link](https://github.com/RfidCenter) |
@@ -186,6 +185,7 @@
 | Vovqa412 | [link](https://github.com/Vovqa412) |
 | vpozdnyakov | [link](https://github.com/vpozdnyakov) |
 | vsuh | [link](https://github.com/vsuh) |
+| WinnerBoy101 | [link](https://github.com/WinnerBoy101) |
 | xDrivenDevelopment | [link](https://github.com/xDrivenDevelopment) |
 | xzfantom | [link](https://github.com/xzfantom) |
 | yabrus | [link](https://github.com/yabrus) |
@@ -197,20 +197,20 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 254
+Общее количество репозиториев: 258
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
 | 0xporky/MG-N707TS | [link](https://github.com/0xporky/MG-N707TS) | 1 | 1 | 0 |
 | 0xporky/Sberbank | [link](https://github.com/0xporky/Sberbank) | 0 | 0 | 0 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
-| 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 55 | 55 | 32 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
+| AAGavrilov/All1C | [link](https://github.com/AAGavrilov/All1C) | 0 | 0 | 0 |
 | AdnreyGranenkin/tvb8 | [link](https://github.com/AdnreyGranenkin/tvb8) |  |  |  |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
@@ -229,7 +229,6 @@
 | AndreFokin/HomeWork2 | [link](https://github.com/AndreFokin/HomeWork2) | 0 | 0 | 0 |
 | Anice17/anice | [link](https://github.com/Anice17/anice) | 2 | 2 | 0 |
 | AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
-| APolubenskiy/Work1C | [link](https://github.com/APolubenskiy/Work1C) | 0 | 0 | 0 |
 | arkuznetsov/NewRepo | [link](https://github.com/arkuznetsov/NewRepo) |  |  |  |
 | arkuznetsov/study_temp | [link](https://github.com/arkuznetsov/study_temp) |  |  |  |
 | artbear/1bdd | [link](https://github.com/artbear/1bdd) |  |  |  |
@@ -253,7 +252,7 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
-| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) | 0 | 0 | 0 |
+| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
 | cobern1976/MyFirstRepository | [link](https://github.com/cobern1976/MyFirstRepository) | 0 | 0 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 1 | 1 | 1 |
@@ -315,6 +314,7 @@
 | Kvint777/cashholder | [link](https://github.com/Kvint777/cashholder) | 0 | 0 | 0 |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
 | latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
+| latestalexey/lesson_bdd_1c_01 | [link](https://github.com/latestalexey/lesson_bdd_1c_01) | 0 | 0 | 0 |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
 | linskiy/priceplan_1C | [link](https://github.com/linskiy/priceplan_1C) | 1 | 1 | 1 |
 | MaksimGr/all1c | [link](https://github.com/MaksimGr/all1c) | 0 | 0 | 0 |
@@ -331,6 +331,7 @@
 | monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
 | NatalyaTseytlina/config1c | [link](https://github.com/NatalyaTseytlina/config1c) | 0 | 0 | 0 |
+| needigeo/bddfinaltask | [link](https://github.com/needigeo/bddfinaltask) | 0 | 0 | 0 |
 | needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
 | Nightmarevav/git1ctest | [link](https://github.com/Nightmarevav/git1ctest) | 0 | 0 | 0 |
 | nixel2007/asserts_cf | [link](https://github.com/nixel2007/asserts_cf) | 4 | 4 | 1 |
@@ -341,6 +342,7 @@
 | nocamad/work-ext | [link](https://github.com/nocamad/work-ext) |  |  |  |
 | OdeyDerut/Millesime | [link](https://github.com/OdeyDerut/Millesime) | 0 | 0 | 0 |
 | o-homyak/learnGitFor1C | [link](https://github.com/o-homyak/learnGitFor1C) |  |  |  |
+| oleynikova/learning-industry_standards | [link](https://github.com/oleynikova/learning-industry_standards) |  |  |  |
 | OMasterskikh/lecture-2 | [link](https://github.com/OMasterskikh/lecture-2) | 0 | 0 | 0 |
 | OMasterskikh/lecture-3 | [link](https://github.com/OMasterskikh/lecture-3) | 0 | 0 | 0 |
 | oscript-library/asserts | [link](https://github.com/oscript-library/asserts) |  |  |  |
@@ -361,6 +363,7 @@
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
+| Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
 | Oxotka/NIR | [link](https://github.com/Oxotka/NIR) | 1 | 1 | 0 |
 | Oxotka/NomenclatureEnchancedTrade | [link](https://github.com/Oxotka/NomenclatureEnchancedTrade) | 1 | 1 | 1 |
@@ -446,6 +449,7 @@
 | Vovqa412/DebugTools | [link](https://github.com/Vovqa412/DebugTools) | 0 | 0 | 0 |
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
+| WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
 | xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 175 | 175 | 64 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
@@ -493,6 +497,7 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | bytemdfab/OneLauncher | [link](https://github.com/bytemdfab/OneLauncher) |  |  |  |
+| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | demidych/oscript-library-demidych | [link](https://github.com/demidych/oscript-library-demidych) |  |  |  |
@@ -573,7 +578,6 @@
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
 | purtcer/OneScriptsMain | [link](https://github.com/purtcer/OneScriptsMain) |  |  |  |
 | raevsky66/1cTest | [link](https://github.com/raevsky66/1cTest) |  |  |  |
-| realMaxA/1CServiceTools | [link](https://github.com/realMaxA/1CServiceTools) |  |  |  |
 | ret-Phoenix/1CAutotestGenerator | [link](https://github.com/ret-Phoenix/1CAutotestGenerator) |  |  |  |
 | ret-Phoenix/autoupdatecfg | [link](https://github.com/ret-Phoenix/autoupdatecfg) |  |  |  |
 | ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
