@@ -84,6 +84,7 @@
 * https://github.com/TeamBIOS/cfg_tools
 * https://github.com/EnterraInc/1C-.Net-Adapter
 * https://github.com/tarasii/1c_rs232
+* https://github.com/deshaion/service_for_connect_1c_com
 * https://github.com/alekseybochkov/WebRAS
 * https://github.com/vladon/SocketNative
 * https://github.com/pbazeliuk/V8Commit
