@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 22.01.2017 5:14:40
+Актуальность: 23.01.2017 6:05:20
 
 ## Пользователи
 
-Общее количество пользователей: 188
-Всего репозиториев: 335
+Общее количество пользователей: 189
+Всего репозиториев: 336
 
 | Пользователь | Акаунт |
 ---|---|
@@ -57,6 +57,7 @@
 | CryptedSky | [link](https://github.com/CryptedSky) |
 | ctuning | [link](https://github.com/ctuning) |
 | cybjavax | [link](https://github.com/cybjavax) |
+| dattk | [link](https://github.com/dattk) |
 | dchernykhss | [link](https://github.com/dchernykhss) |
 | demidych | [link](https://github.com/demidych) |
 | deputatov | [link](https://github.com/deputatov) |
@@ -202,7 +203,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 267
+Общее количество репозиториев: 268
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -268,6 +269,7 @@
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 30 | 30 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
+| dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
 | deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
