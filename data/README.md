@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 23.01.2017 6:05:20
+Актуальность: 24.01.2017 5:14:41
 
 ## Пользователи
 
-Общее количество пользователей: 189
-Всего репозиториев: 336
+Общее количество пользователей: 190
+Всего репозиториев: 338
 
 | Пользователь | Акаунт |
 ---|---|
@@ -52,6 +52,7 @@
 | BlizD | [link](https://github.com/BlizD) |
 | BorisKem | [link](https://github.com/BorisKem) |
 | bytemdfab | [link](https://github.com/bytemdfab) |
+| chvassilissa | [link](https://github.com/chvassilissa) |
 | cobern1976 | [link](https://github.com/cobern1976) |
 | CocoFox | [link](https://github.com/CocoFox) |
 | CryptedSky | [link](https://github.com/CryptedSky) |
@@ -203,7 +204,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 268
+Общее количество репозиториев: 270
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -214,7 +215,7 @@
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
-| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 56 | 56 | 33 |
+| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 57 | 57 | 34 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
@@ -263,6 +264,7 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
+| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) | 0 | 0 | 0 |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 1 | 1 | 1 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
@@ -380,6 +382,7 @@
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
+| Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
 | Oxotka/NIR | [link](https://github.com/Oxotka/NIR) | 1 | 1 | 0 |
 | Oxotka/NomenclatureEnchancedTrade | [link](https://github.com/Oxotka/NomenclatureEnchancedTrade) | 1 | 1 | 1 |
