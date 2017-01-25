@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 24.01.2017 5:14:41
+Актуальность: 25.01.2017 5:14:42
 
 ## Пользователи
 
-Общее количество пользователей: 190
-Всего репозиториев: 338
+Общее количество пользователей: 193
+Всего репозиториев: 341
 
 | Пользователь | Акаунт |
 ---|---|
@@ -91,6 +91,7 @@
 | isa-1 | [link](https://github.com/isa-1) |
 | isolarisi | [link](https://github.com/isolarisi) |
 | ivan-kovtun | [link](https://github.com/ivan-kovtun) |
+| jchibinin | [link](https://github.com/jchibinin) |
 | Kashkarov | [link](https://github.com/Kashkarov) |
 | kasperiks | [link](https://github.com/kasperiks) |
 | KazaxLooksAtYou | [link](https://github.com/KazaxLooksAtYou) |
@@ -104,6 +105,7 @@
 | Kvint777 | [link](https://github.com/Kvint777) |
 | Laddy2016 | [link](https://github.com/Laddy2016) |
 | latestalexey | [link](https://github.com/latestalexey) |
+| LeksRepo | [link](https://github.com/LeksRepo) |
 | lightvdv | [link](https://github.com/lightvdv) |
 | linskiy | [link](https://github.com/linskiy) |
 | locta66 | [link](https://github.com/locta66) |
@@ -186,6 +188,7 @@
 | ValeriyPlescheev | [link](https://github.com/ValeriyPlescheev) |
 | VanDerKeen | [link](https://github.com/VanDerKeen) |
 | VanessaDockers | [link](https://github.com/VanessaDockers) |
+| vasnetzoff | [link](https://github.com/vasnetzoff) |
 | verter4sb | [link](https://github.com/verter4sb) |
 | VitaliyCeban | [link](https://github.com/VitaliyCeban) |
 | VladimirLitvinenko84 | [link](https://github.com/VladimirLitvinenko84) |
@@ -204,7 +207,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 270
+Общее количество репозиториев: 273
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -312,6 +315,7 @@
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
+| jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
@@ -331,6 +335,7 @@
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
 | latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | latestalexey/external-files-1C | [link](https://github.com/latestalexey/external-files-1C) | 0 | 0 | 0 |
+| LeksRepo/Config1C | [link](https://github.com/LeksRepo/Config1C) | 0 | 0 | 0 |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
 | linskiy/priceplan_1C | [link](https://github.com/linskiy/priceplan_1C) | 1 | 1 | 1 |
 | MaksimGr/all1c | [link](https://github.com/MaksimGr/all1c) | 0 | 0 | 0 |
@@ -462,6 +467,7 @@
 | ValerijBel/Infostart_1199_HomeWork | [link](https://github.com/ValerijBel/Infostart_1199_HomeWork) |  |  |  |
 | ValeriyPlescheev/Test | [link](https://github.com/ValeriyPlescheev/Test) | 0 | 0 | 0 |
 | VanDerKeen/homework | [link](https://github.com/VanDerKeen/homework) |  |  |  |
+| vasnetzoff/all1C | [link](https://github.com/vasnetzoff/all1C) | 0 | 0 | 0 |
 | VitaliyCeban/BDD_Lesson02 | [link](https://github.com/VitaliyCeban/BDD_Lesson02) | 0 | 0 | 0 |
 | VitaliyCeban/BDD_Lesson03 | [link](https://github.com/VitaliyCeban/BDD_Lesson03) | 0 | 0 | 0 |
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
