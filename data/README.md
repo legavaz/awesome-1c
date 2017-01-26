@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 25.01.2017 5:14:42
+Актуальность: 26.01.2017 5:14:38
 
 ## Пользователи
 
-Общее количество пользователей: 193
-Всего репозиториев: 341
+Общее количество пользователей: 195
+Всего репозиториев: 343
 
 | Пользователь | Акаунт |
 ---|---|
@@ -73,6 +73,7 @@
 | ElectroService | [link](https://github.com/ElectroService) |
 | eliseeva | [link](https://github.com/eliseeva) |
 | EShchavleva | [link](https://github.com/EShchavleva) |
+| eSTau | [link](https://github.com/eSTau) |
 | EugeneParadise | [link](https://github.com/EugeneParadise) |
 | Eurospider | [link](https://github.com/Eurospider) |
 | EvilBeaver | [link](https://github.com/EvilBeaver) |
@@ -175,6 +176,7 @@
 | swzhukov | [link](https://github.com/swzhukov) |
 | TechnoNIKOL | [link](https://github.com/TechnoNIKOL) |
 | test4web | [link](https://github.com/test4web) |
+| Theycallmedrworm | [link](https://github.com/Theycallmedrworm) |
 | timofeys | [link](https://github.com/timofeys) |
 | tixis | [link](https://github.com/tixis) |
 | tkalinvladimir | [link](https://github.com/tkalinvladimir) |
@@ -207,7 +209,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 273
+Общее количество репозиториев: 274
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -230,7 +232,7 @@
 | AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
-| alexkmbk/1CI | [link](https://github.com/alexkmbk/1CI) | 3 | 3 | 1 |
+| alexkmbk/1CI | [link](https://github.com/alexkmbk/1CI) | 4 | 4 | 1 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
 | AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
@@ -294,6 +296,7 @@
 | ElectroService/WAP_1C | [link](https://github.com/ElectroService/WAP_1C) | 0 | 0 | 0 |
 | eliseeva/all1c | [link](https://github.com/eliseeva/all1c) | 0 | 0 | 0 |
 | EShchavleva/Test-repository | [link](https://github.com/EShchavleva/Test-repository) | 0 | 0 | 0 |
+| eSTau/RDS_config | [link](https://github.com/eSTau/RDS_config) | 0 | 0 | 0 |
 | EugeneParadise/BackupCopy | [link](https://github.com/EugeneParadise/BackupCopy) |  |  |  |
 | Eurospider/OpenBSD-firewall | [link](https://github.com/Eurospider/OpenBSD-firewall) | 6 | 6 | 4 |
 | EvilBeaver/oscript-library | [link](https://github.com/EvilBeaver/oscript-library) |  |  |  |
@@ -463,7 +466,7 @@
 | Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
 | UpdateExpress/OutputProcessorExtension | [link](https://github.com/UpdateExpress/OutputProcessorExtension) | 10 | 10 | 4 |
 | vadimitr/FinalTask | [link](https://github.com/vadimitr/FinalTask) | 0 | 0 | 0 |
-| ValerijBel/Infostart_1199_FinalTask | [link](https://github.com/ValerijBel/Infostart_1199_FinalTask) | 0 | 0 | 0 |
+| ValerijBel/Infostart_1199_FinalTask | [link](https://github.com/ValerijBel/Infostart_1199_FinalTask) | 0 | 0 | 1 |
 | ValerijBel/Infostart_1199_HomeWork | [link](https://github.com/ValerijBel/Infostart_1199_HomeWork) |  |  |  |
 | ValeriyPlescheev/Test | [link](https://github.com/ValeriyPlescheev/Test) | 0 | 0 | 0 |
 | VanDerKeen/homework | [link](https://github.com/VanDerKeen/homework) |  |  |  |
@@ -489,7 +492,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 154
+Общее количество репозиториев: 155
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -627,6 +630,7 @@
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
+| Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
 | timofeys/first-test | [link](https://github.com/timofeys/first-test) |  |  |  |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | valafan/homework1 | [link](https://github.com/valafan/homework1) |  |  |  |
