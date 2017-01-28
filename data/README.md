@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 27.01.2017 5:14:15
+Актуальность: 28.01.2017 5:50:04
 
 ## Пользователи
 
@@ -210,7 +210,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 275
+Общее количество репозиториев: 273
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -270,7 +270,6 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
-| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) | 0 | 0 | 0 |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 1 | 1 | 1 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
@@ -335,9 +334,9 @@
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) | 0 | 0 | 0 |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
-| Kvint777/cashholder | [link](https://github.com/Kvint777/cashholder) | 0 | 0 | 0 |
+| Kvint777/cashholder_old | [link](https://github.com/Kvint777/cashholder_old) | 0 | 0 | 0 |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
-| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
+| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) | 0 | 0 | 0 |
 | latestalexey/external-files-1C | [link](https://github.com/latestalexey/external-files-1C) | 0 | 0 | 0 |
 | LeksRepo/Config1C | [link](https://github.com/LeksRepo/Config1C) | 0 | 0 | 0 |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
@@ -481,7 +480,6 @@
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
 | xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 176 | 176 | 66 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
-| yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
 | YuriyTsoy/work2 | [link](https://github.com/YuriyTsoy/work2) | 0 | 0 | 0 |
@@ -526,6 +524,7 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | bytemdfab/OneLauncher | [link](https://github.com/bytemdfab/OneLauncher) |  |  |  |
+| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | demidych/oscript-library-demidych | [link](https://github.com/demidych/oscript-library-demidych) |  |  |  |
@@ -562,7 +561,6 @@
 | kuntashov/oscript-yadisk | [link](https://github.com/kuntashov/oscript-yadisk) |  |  |  |
 | kuntashov/oscript-yadisk-uploader | [link](https://github.com/kuntashov/oscript-yadisk-uploader) |  |  |  |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
-| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
 | locta66/PL_recognizer | [link](https://github.com/locta66/PL_recognizer) |  |  |  |
 | maxstarkov/DevPro | [link](https://github.com/maxstarkov/DevPro) |  |  |  |
