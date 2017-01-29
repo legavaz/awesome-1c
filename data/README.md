@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 28.01.2017 5:50:04
+Актуальность: 29.01.2017 5:14:18
 
 ## Пользователи
 
 Общее количество пользователей: 196
-Всего репозиториев: 344
+Всего репозиториев: 345
 
 | Пользователь | Акаунт |
 ---|---|
@@ -210,7 +210,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 273
+Общее количество репозиториев: 276
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -259,7 +259,7 @@
 | AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) | 0 | 0 | 0 |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | Benony0/ExtForms1c | [link](https://github.com/Benony0/ExtForms1c) | 0 | 0 | 0 |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
@@ -270,6 +270,7 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
+| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 1 | 1 | 1 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
@@ -336,7 +337,7 @@
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
 | Kvint777/cashholder_old | [link](https://github.com/Kvint777/cashholder_old) | 0 | 0 | 0 |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
-| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) | 0 | 0 | 0 |
+| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | latestalexey/external-files-1C | [link](https://github.com/latestalexey/external-files-1C) | 0 | 0 | 0 |
 | LeksRepo/Config1C | [link](https://github.com/LeksRepo/Config1C) | 0 | 0 | 0 |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
@@ -413,6 +414,7 @@
 | PrivalovN/HomeBib | [link](https://github.com/PrivalovN/HomeBib) | 0 | 0 | 0 |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 4 | 4 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
+| progromaking/templates | [link](https://github.com/progromaking/templates) | 0 | 0 | 0 |
 | psyriccio/regex1c | [link](https://github.com/psyriccio/regex1c) | 4 | 4 | 0 |
 | pumbaEO/testsync | [link](https://github.com/pumbaEO/testsync) | 1 | 1 | 1 |
 | purtcer/OneScriptsMain | [link](https://github.com/purtcer/OneScriptsMain) |  |  |  |
@@ -478,8 +480,9 @@
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 176 | 176 | 66 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 177 | 177 | 66 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
+| yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
 | YuriyTsoy/work2 | [link](https://github.com/YuriyTsoy/work2) | 0 | 0 | 0 |
@@ -492,7 +495,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 154
+Общее количество репозиториев: 156
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -517,6 +520,7 @@
 | artbear/1commands | [link](https://github.com/artbear/1commands) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | asheichenko/note-checker | [link](https://github.com/asheichenko/note-checker) |  |  |  |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/ExchangePlan77 | [link](https://github.com/binexekb/ExchangePlan77) |  |  |  |
@@ -561,6 +565,7 @@
 | kuntashov/oscript-yadisk | [link](https://github.com/kuntashov/oscript-yadisk) |  |  |  |
 | kuntashov/oscript-yadisk-uploader | [link](https://github.com/kuntashov/oscript-yadisk-uploader) |  |  |  |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
+| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
 | locta66/PL_recognizer | [link](https://github.com/locta66/PL_recognizer) |  |  |  |
 | maxstarkov/DevPro | [link](https://github.com/maxstarkov/DevPro) |  |  |  |
