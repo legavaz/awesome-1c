@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 29.01.2017 5:14:18
+Актуальность: 30.01.2017 5:14:16
 
 ## Пользователи
 
-Общее количество пользователей: 196
-Всего репозиториев: 345
+Общее количество пользователей: 198
+Всего репозиториев: 344
 
 | Пользователь | Акаунт |
 ---|---|
@@ -16,6 +16,7 @@
 | 1cto | [link](https://github.com/1cto) |
 | 1cVitalik | [link](https://github.com/1cVitalik) |
 | 1cwin | [link](https://github.com/1cwin) |
+| 1dimir | [link](https://github.com/1dimir) |
 | AAGavrilov | [link](https://github.com/AAGavrilov) |
 | AdnreyGranenkin | [link](https://github.com/AdnreyGranenkin) |
 | AGPonomarev | [link](https://github.com/AGPonomarev) |
@@ -52,7 +53,6 @@
 | BlizD | [link](https://github.com/BlizD) |
 | BorisKem | [link](https://github.com/BorisKem) |
 | bytemdfab | [link](https://github.com/bytemdfab) |
-| chvassilissa | [link](https://github.com/chvassilissa) |
 | cobern1976 | [link](https://github.com/cobern1976) |
 | CocoFox | [link](https://github.com/CocoFox) |
 | CryptedSky | [link](https://github.com/CryptedSky) |
@@ -171,9 +171,11 @@
 | Spider244 | [link](https://github.com/Spider244) |
 | srvoland | [link](https://github.com/srvoland) |
 | Stark-92 | [link](https://github.com/Stark-92) |
+| Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
 | swi2mer | [link](https://github.com/swi2mer) |
 | swzhukov | [link](https://github.com/swzhukov) |
+| Tamail | [link](https://github.com/Tamail) |
 | TechnoNIKOL | [link](https://github.com/TechnoNIKOL) |
 | test4web | [link](https://github.com/test4web) |
 | Theycallmedrworm | [link](https://github.com/Theycallmedrworm) |
@@ -210,7 +212,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 276
+Общее количество репозиториев: 275
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -225,6 +227,7 @@
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
+| 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
 | AdnreyGranenkin/tvb8 | [link](https://github.com/AdnreyGranenkin/tvb8) |  |  |  |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
@@ -265,12 +268,11 @@
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/DADATA | [link](https://github.com/binexekb/DADATA) | 0 | 0 | 0 |
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
-| BlizD/BPS | [link](https://github.com/BlizD/BPS) | 4 | 4 | 2 |
-| BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 0 | 0 | 1 |
+| BlizD/BPS | [link](https://github.com/BlizD/BPS) | 5 | 5 | 2 |
+| BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 0 | 0 | 2 |
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
-| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 1 | 1 | 1 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
@@ -279,7 +281,6 @@
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
-| deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
 | deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
@@ -350,7 +351,6 @@
 | MiaoYuJia/dscience | [link](https://github.com/MiaoYuJia/dscience) | 0 | 0 | 0 |
 | Michael2399/OneScriptProdgect2 | [link](https://github.com/Michael2399/OneScriptProdgect2) | 0 | 0 | 0 |
 | mikhah/HomeWork1 | [link](https://github.com/mikhah/HomeWork1) | 0 | 0 | 0 |
-| mikhah/HomeWork2 | [link](https://github.com/mikhah/HomeWork2) | 0 | 0 | 0 |
 | mikhah/HomeWork3 | [link](https://github.com/mikhah/HomeWork3) |  |  |  |
 | mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) |  |  |  |
 | MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
@@ -358,7 +358,6 @@
 | monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
 | NatalyaTseytlina/config1c | [link](https://github.com/NatalyaTseytlina/config1c) | 0 | 0 | 0 |
-| needigeo/bddfinaltask | [link](https://github.com/needigeo/bddfinaltask) | 0 | 0 | 0 |
 | needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
 | Nightmarevav/git1ctest | [link](https://github.com/Nightmarevav/git1ctest) | 0 | 0 | 0 |
 | nixel2007/1c-flow | [link](https://github.com/nixel2007/1c-flow) |  |  |  |
@@ -371,6 +370,7 @@
 | OdeyDerut/Millesime | [link](https://github.com/OdeyDerut/Millesime) | 0 | 0 | 0 |
 | o-homyak/finaltask | [link](https://github.com/o-homyak/finaltask) |  |  |  |
 | o-homyak/learnGitFor1C | [link](https://github.com/o-homyak/learnGitFor1C) |  |  |  |
+| oleynikova/learning-industry_standards | [link](https://github.com/oleynikova/learning-industry_standards) |  |  |  |
 | OMasterskikh/lecture-2 | [link](https://github.com/OMasterskikh/lecture-2) | 0 | 0 | 0 |
 | OMasterskikh/lecture-3 | [link](https://github.com/OMasterskikh/lecture-3) | 0 | 0 | 0 |
 | oscript-library/asserts | [link](https://github.com/oscript-library/asserts) |  |  |  |
@@ -414,7 +414,7 @@
 | PrivalovN/HomeBib | [link](https://github.com/PrivalovN/HomeBib) | 0 | 0 | 0 |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 4 | 4 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
-| progromaking/templates | [link](https://github.com/progromaking/templates) | 0 | 0 | 0 |
+| progromaking/templates | [link](https://github.com/progromaking/templates) | 1 | 1 | 0 |
 | psyriccio/regex1c | [link](https://github.com/psyriccio/regex1c) | 4 | 4 | 0 |
 | pumbaEO/testsync | [link](https://github.com/pumbaEO/testsync) | 1 | 1 | 1 |
 | purtcer/OneScriptsMain | [link](https://github.com/purtcer/OneScriptsMain) |  |  |  |
@@ -456,10 +456,12 @@
 | Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
 | srvoland/TatoshkaGH | [link](https://github.com/srvoland/TatoshkaGH) | 0 | 0 | 0 |
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
+| Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | swi2mer/test-1c | [link](https://github.com/swi2mer/test-1c) | 0 | 0 | 0 |
 | swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
+| Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 0 |
@@ -482,7 +484,6 @@
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
 | xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 177 | 177 | 66 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
-| yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
 | YuriyTsoy/work2 | [link](https://github.com/YuriyTsoy/work2) | 0 | 0 | 0 |
@@ -528,7 +529,6 @@
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | bytemdfab/OneLauncher | [link](https://github.com/bytemdfab/OneLauncher) |  |  |  |
-| chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | demidych/oscript-library-demidych | [link](https://github.com/demidych/oscript-library-demidych) |  |  |  |
@@ -632,6 +632,7 @@
 | silverbulleters-research/oscript-eco | [link](https://github.com/silverbulleters-research/oscript-eco) |  |  |  |
 | slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
+| Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
 | Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
