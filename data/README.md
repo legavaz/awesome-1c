@@ -1,10 +1,10 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 31.01.2017 9:06:19
+Актуальность: 01.02.2017 7:29:44
 
 ## Пользователи
 
-Общее количество пользователей: 200
+Общее количество пользователей: 201
 Всего репозиториев: 349
 
 | Пользователь | Акаунт |
@@ -119,6 +119,7 @@
 | Michael2399 | [link](https://github.com/Michael2399) |
 | mikhah | [link](https://github.com/mikhah) |
 | MikhailMKZ | [link](https://github.com/MikhailMKZ) |
+| MikhailSolncev | [link](https://github.com/MikhailSolncev) |
 | monwig | [link](https://github.com/monwig) |
 | NaKaZD | [link](https://github.com/NaKaZD) |
 | NatalyaTseytlina | [link](https://github.com/NatalyaTseytlina) |
@@ -214,7 +215,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 280
+Общее количество репозиториев: 282
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -264,7 +265,7 @@
 | AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) | 0 | 0 | 0 |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | Benony0/ExtForms1c | [link](https://github.com/Benony0/ExtForms1c) | 0 | 0 | 0 |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
@@ -277,6 +278,7 @@
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
 | chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) |  |  |  |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
+| cobern1976/MyFirstRepository | [link](https://github.com/cobern1976/MyFirstRepository) | 0 | 0 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 0 | 0 | 1 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 30 | 30 | 0 |
@@ -330,6 +332,7 @@
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) | 0 | 0 | 0 |
 | Kegearr/597340-bdd | [link](https://github.com/Kegearr/597340-bdd) | 0 | 0 | 0 |
+| Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
 | KonstantinErmolenko/empty1 | [link](https://github.com/KonstantinErmolenko/empty1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
@@ -360,10 +363,10 @@
 | mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) |  |  |  |
 | MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
 | MikhailMKZ/sb-course-1-final | [link](https://github.com/MikhailMKZ/sb-course-1-final) | 0 | 0 | 0 |
+| MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 0 |
 | monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
 | NatalyaTseytlina/config1c | [link](https://github.com/NatalyaTseytlina/config1c) | 0 | 0 | 0 |
-| needigeo/bddfinaltask | [link](https://github.com/needigeo/bddfinaltask) | 0 | 0 | 0 |
 | needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
 | Nightmarevav/git1ctest | [link](https://github.com/Nightmarevav/git1ctest) | 0 | 0 | 0 |
 | nixel2007/1c-flow | [link](https://github.com/nixel2007/1c-flow) |  |  |  |
@@ -376,6 +379,7 @@
 | OdeyDerut/Millesime | [link](https://github.com/OdeyDerut/Millesime) | 0 | 0 | 0 |
 | o-homyak/finaltask | [link](https://github.com/o-homyak/finaltask) |  |  |  |
 | o-homyak/learnGitFor1C | [link](https://github.com/o-homyak/learnGitFor1C) |  |  |  |
+| oleynikova/learning-industry_standards | [link](https://github.com/oleynikova/learning-industry_standards) |  |  |  |
 | OMasterskikh/lecture-2 | [link](https://github.com/OMasterskikh/lecture-2) | 0 | 0 | 0 |
 | OMasterskikh/lecture-3 | [link](https://github.com/OMasterskikh/lecture-3) | 0 | 0 | 0 |
 | oscript-library/asserts | [link](https://github.com/oscript-library/asserts) |  |  |  |
@@ -418,7 +422,7 @@
 | popiksergey/work2 | [link](https://github.com/popiksergey/work2) | 0 | 0 | 0 |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
 | PrivalovN/HomeBib | [link](https://github.com/PrivalovN/HomeBib) | 0 | 0 | 0 |
-| progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 4 | 4 | 2 |
+| progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 5 | 5 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
 | progromaking/templates | [link](https://github.com/progromaking/templates) | 1 | 1 | 0 |
 | psyriccio/regex1c | [link](https://github.com/psyriccio/regex1c) | 4 | 4 | 0 |
@@ -482,7 +486,6 @@
 | VanDerKeen/homework | [link](https://github.com/VanDerKeen/homework) |  |  |  |
 | vasnetzoff/all1C | [link](https://github.com/vasnetzoff/all1C) | 0 | 0 | 0 |
 | VitaliyCeban/BDD_Lesson02 | [link](https://github.com/VitaliyCeban/BDD_Lesson02) | 0 | 0 | 0 |
-| VitaliyCeban/BDD_Lesson03 | [link](https://github.com/VitaliyCeban/BDD_Lesson03) | 0 | 0 | 0 |
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | Vovqa412/DebugTools | [link](https://github.com/Vovqa412/DebugTools) | 0 | 0 | 0 |
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
@@ -503,7 +506,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 156
+Общее количество репозиториев: 157
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -528,6 +531,7 @@
 | artbear/1commands | [link](https://github.com/artbear/1commands) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | asheichenko/note-checker | [link](https://github.com/asheichenko/note-checker) |  |  |  |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/ExchangePlan77 | [link](https://github.com/binexekb/ExchangePlan77) |  |  |  |
