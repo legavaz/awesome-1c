@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 01.02.2017 7:29:44
+Актуальность: 02.02.2017 5:14:21
 
 ## Пользователи
 
@@ -134,6 +134,7 @@
 | OMasterskikh | [link](https://github.com/OMasterskikh) |
 | oscript-library | [link](https://github.com/oscript-library) |
 | Oxotka | [link](https://github.com/Oxotka) |
+| pbazeliuk | [link](https://github.com/pbazeliuk) |
 | pboykov69 | [link](https://github.com/pboykov69) |
 | Petr28 | [link](https://github.com/Petr28) |
 | pila86 | [link](https://github.com/pila86) |
@@ -188,7 +189,6 @@
 | tormozit | [link](https://github.com/tormozit) |
 | tropicgroup | [link](https://github.com/tropicgroup) |
 | Tur8008 | [link](https://github.com/Tur8008) |
-| UpdateExpress | [link](https://github.com/UpdateExpress) |
 | vadimitr | [link](https://github.com/vadimitr) |
 | valafan | [link](https://github.com/valafan) |
 | ValerijBel | [link](https://github.com/ValerijBel) |
@@ -226,7 +226,7 @@
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
-| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 57 | 57 | 34 |
+| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 58 | 58 | 34 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
@@ -265,7 +265,7 @@
 | AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) | 0 | 0 | 0 |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | Benony0/ExtForms1c | [link](https://github.com/Benony0/ExtForms1c) | 0 | 0 | 0 |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
@@ -345,7 +345,7 @@
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
 | Kvint777/cashholder_old | [link](https://github.com/Kvint777/cashholder_old) | 0 | 0 | 0 |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
-| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
+| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) | 0 | 0 | 0 |
 | latestalexey/external-files-1C | [link](https://github.com/latestalexey/external-files-1C) | 0 | 0 | 0 |
 | LeksRepo/Config1C | [link](https://github.com/LeksRepo/Config1C) | 0 | 0 | 0 |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
@@ -407,6 +407,7 @@
 | Oxotka/NotADouble | [link](https://github.com/Oxotka/NotADouble) | 1 | 1 | 1 |
 | Oxotka/SendToSupportAcc | [link](https://github.com/Oxotka/SendToSupportAcc) | 0 | 0 | 0 |
 | Oxotka/SendToSupportTrade | [link](https://github.com/Oxotka/SendToSupportTrade) | 2 | 2 | 1 |
+| pbazeliuk/OutputProcessorExtension | [link](https://github.com/pbazeliuk/OutputProcessorExtension) | 11 | 11 | 4 |
 | pboykov69/hometask_1 | [link](https://github.com/pboykov69/hometask_1) | 1 | 1 | 0 |
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
@@ -478,7 +479,6 @@
 | tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 23 | 23 | 4 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
-| UpdateExpress/OutputProcessorExtension | [link](https://github.com/UpdateExpress/OutputProcessorExtension) | 11 | 11 | 4 |
 | vadimitr/FinalTask | [link](https://github.com/vadimitr/FinalTask) | 0 | 0 | 0 |
 | ValerijBel/Infostart_1199_FinalTask | [link](https://github.com/ValerijBel/Infostart_1199_FinalTask) | 0 | 0 | 1 |
 | ValerijBel/Infostart_1199_HomeWork | [link](https://github.com/ValerijBel/Infostart_1199_HomeWork) |  |  |  |
@@ -491,7 +491,7 @@
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 177 | 177 | 66 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 178 | 178 | 66 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -506,7 +506,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 157
+Общее количество репозиториев: 155
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -531,7 +531,6 @@
 | artbear/1commands | [link](https://github.com/artbear/1commands) |  |  |  |
 | artbear/1testrunner | [link](https://github.com/artbear/1testrunner) |  |  |  |
 | asheichenko/note-checker | [link](https://github.com/asheichenko/note-checker) |  |  |  |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/ExchangePlan77 | [link](https://github.com/binexekb/ExchangePlan77) |  |  |  |
@@ -576,7 +575,6 @@
 | kuntashov/oscript-yadisk | [link](https://github.com/kuntashov/oscript-yadisk) |  |  |  |
 | kuntashov/oscript-yadisk-uploader | [link](https://github.com/kuntashov/oscript-yadisk-uploader) |  |  |  |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
-| latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | lightvdv/education | [link](https://github.com/lightvdv/education) |  |  |  |
 | locta66/PL_recognizer | [link](https://github.com/locta66/PL_recognizer) |  |  |  |
 | maxstarkov/DevPro | [link](https://github.com/maxstarkov/DevPro) |  |  |  |
