@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 02.02.2017 5:14:21
+Актуальность: 03.02.2017 5:14:21
 
 ## Пользователи
 
-Общее количество пользователей: 201
-Всего репозиториев: 349
+Общее количество пользователей: 203
+Всего репозиториев: 352
 
 | Пользователь | Акаунт |
 ---|---|
@@ -115,6 +115,7 @@
 | MaksimGr | [link](https://github.com/MaksimGr) |
 | maxstarkov | [link](https://github.com/maxstarkov) |
 | mdzm | [link](https://github.com/mdzm) |
+| megodeath | [link](https://github.com/megodeath) |
 | MiaoYuJia | [link](https://github.com/MiaoYuJia) |
 | Michael2399 | [link](https://github.com/Michael2399) |
 | mikhah | [link](https://github.com/mikhah) |
@@ -124,6 +125,7 @@
 | NaKaZD | [link](https://github.com/NaKaZD) |
 | NatalyaTseytlina | [link](https://github.com/NatalyaTseytlina) |
 | needigeo | [link](https://github.com/needigeo) |
+| Neferto | [link](https://github.com/Neferto) |
 | nextkmv | [link](https://github.com/nextkmv) |
 | Nightmarevav | [link](https://github.com/Nightmarevav) |
 | nixel2007 | [link](https://github.com/nixel2007) |
@@ -215,7 +217,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 282
+Общее количество репозиториев: 285
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -320,6 +322,7 @@
 | Gaukas/OralStandard | [link](https://github.com/Gaukas/OralStandard) | 1 | 1 | 0 |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
 | haleevra/ciret_crm | [link](https://github.com/haleevra/ciret_crm) | 0 | 0 | 0 |
+| haleevra/msz | [link](https://github.com/haleevra/msz) | 0 | 0 | 0 |
 | haleevra/SiteExchangeProfITCoffeeStudio | [link](https://github.com/haleevra/SiteExchangeProfITCoffeeStudio) | 0 | 0 | 0 |
 | harisov-r/homework-kurs | [link](https://github.com/harisov-r/homework-kurs) | 0 | 0 | 0 |
 | IamNuke/BSP | [link](https://github.com/IamNuke/BSP) | 0 | 0 | 0 |
@@ -355,6 +358,7 @@
 | maxstarkov/DevPro | [link](https://github.com/maxstarkov/DevPro) |  |  |  |
 | maxstarkov/DevProFinalTask | [link](https://github.com/maxstarkov/DevProFinalTask) | 0 | 0 | 0 |
 | mdzm/testexample | [link](https://github.com/mdzm/testexample) | 0 | 0 | 0 |
+| megodeath/1c-test-ext | [link](https://github.com/megodeath/1c-test-ext) | 0 | 0 | 0 |
 | MiaoYuJia/dscience | [link](https://github.com/MiaoYuJia/dscience) | 0 | 0 | 0 |
 | Michael2399/OneScriptProdgect2 | [link](https://github.com/Michael2399/OneScriptProdgect2) | 0 | 0 | 0 |
 | mikhah/HomeWork1 | [link](https://github.com/mikhah/HomeWork1) | 0 | 0 | 0 |
@@ -368,6 +372,7 @@
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
 | NatalyaTseytlina/config1c | [link](https://github.com/NatalyaTseytlina/config1c) | 0 | 0 | 0 |
 | needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
+| Neferto/all1c | [link](https://github.com/Neferto/all1c) | 0 | 0 | 0 |
 | Nightmarevav/git1ctest | [link](https://github.com/Nightmarevav/git1ctest) | 0 | 0 | 0 |
 | nixel2007/1c-flow | [link](https://github.com/nixel2007/1c-flow) |  |  |  |
 | nixel2007/asserts_cf | [link](https://github.com/nixel2007/asserts_cf) | 4 | 4 | 1 |
