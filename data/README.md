@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 05.02.2017 5:14:38
+Актуальность: 06.02.2017 5:14:35
 
 ## Пользователи
 
@@ -278,7 +278,7 @@
 | BlizD/BPS | [link](https://github.com/BlizD/BPS) | 6 | 6 | 2 |
 | BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 1 | 1 | 2 |
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
-| BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
+| BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) | 0 | 0 | 0 |
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
 | chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) | 0 | 0 | 0 |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
@@ -340,7 +340,7 @@
 | Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
-| KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
+| KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) | 1 | 1 | 1 |
 | KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) | 0 | 0 | 0 |
@@ -512,7 +512,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 157
+Общее количество репозиториев: 155
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -543,7 +543,6 @@
 | binexekb/ExchangePlan77 | [link](https://github.com/binexekb/ExchangePlan77) |  |  |  |
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
 | BlizD/Tasks | [link](https://github.com/BlizD/Tasks) |  |  |  |
-| BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | bytemdfab/OneLauncher | [link](https://github.com/bytemdfab/OneLauncher) |  |  |  |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
@@ -573,7 +572,6 @@
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
-| KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
 | kseniyaloza/note-cheker | [link](https://github.com/kseniyaloza/note-cheker) |  |  |  |
