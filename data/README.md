@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 15.02.2017 7:41:36
+Актуальность: 16.02.2017 5:15:04
 
 ## Пользователи
 
@@ -20,6 +20,7 @@
 | AAGavrilov | [link](https://github.com/AAGavrilov) |
 | AdnreyGranenkin | [link](https://github.com/AdnreyGranenkin) |
 | Aevarandi | [link](https://github.com/Aevarandi) |
+| AGPonomarev | [link](https://github.com/AGPonomarev) |
 | aKomper | [link](https://github.com/aKomper) |
 | a-kunilov | [link](https://github.com/a-kunilov) |
 | AleksandrAkhunov | [link](https://github.com/AleksandrAkhunov) |
@@ -45,6 +46,7 @@
 | artyusmirnov | [link](https://github.com/artyusmirnov) |
 | asheichenko | [link](https://github.com/asheichenko) |
 | a-sitnikov | [link](https://github.com/a-sitnikov) |
+| asosnoviy | [link](https://github.com/asosnoviy) |
 | AStepashkin | [link](https://github.com/AStepashkin) |
 | axis516 | [link](https://github.com/axis516) |
 | Bazil1c | [link](https://github.com/Bazil1c) |
@@ -75,7 +77,6 @@
 | EDV-Lotsen | [link](https://github.com/EDV-Lotsen) |
 | Ekopylov | [link](https://github.com/Ekopylov) |
 | ElectroService | [link](https://github.com/ElectroService) |
-| eliseeva | [link](https://github.com/eliseeva) |
 | EShchavleva | [link](https://github.com/EShchavleva) |
 | eSTau | [link](https://github.com/eSTau) |
 | EugeneParadise | [link](https://github.com/EugeneParadise) |
@@ -109,7 +110,6 @@
 | KrapivinAndrey | [link](https://github.com/KrapivinAndrey) |
 | kseniyaloza | [link](https://github.com/kseniyaloza) |
 | kuntashov | [link](https://github.com/kuntashov) |
-| Kvint777 | [link](https://github.com/Kvint777) |
 | Laddy2016 | [link](https://github.com/Laddy2016) |
 | latestalexey | [link](https://github.com/latestalexey) |
 | LeksRepo | [link](https://github.com/LeksRepo) |
@@ -221,7 +221,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 294
+Общее количество репозиториев: 293
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -232,13 +232,13 @@
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 59 | 59 | 34 |
-| 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
 | 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
 | AdnreyGranenkin/tvb8 | [link](https://github.com/AdnreyGranenkin/tvb8) |  |  |  |
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
+| AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
 | a-kunilov/my1c | [link](https://github.com/a-kunilov/my1c) | 0 | 0 | 0 |
 | AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
@@ -270,14 +270,15 @@
 | artyusmirnov/courseFinalTask | [link](https://github.com/artyusmirnov/courseFinalTask) | 0 | 0 | 0 |
 | a-sitnikov/erp2_xtests | [link](https://github.com/a-sitnikov/erp2_xtests) | 24 | 24 | 8 |
 | a-sitnikov/ExtForms-grdok | [link](https://github.com/a-sitnikov/ExtForms-grdok) | 2 | 2 | 1 |
+| asosnoviy/bdd-final1 | [link](https://github.com/asosnoviy/bdd-final1) | 0 | 0 | 0 |
 | AStepashkin/astepashkinrep | [link](https://github.com/AStepashkin/astepashkinrep) | 0 | 0 | 0 |
 | AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
 | Bazil1c/hometask_block2 | [link](https://github.com/Bazil1c/hometask_block2) | 0 | 0 | 0 |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
-| binexekb/DADATA | [link](https://github.com/binexekb/DADATA) | 0 | 0 | 0 |
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
 | BlizD/BPS | [link](https://github.com/BlizD/BPS) | 6 | 6 | 2 |
 | BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 1 | 1 | 2 |
@@ -295,6 +296,7 @@
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
+| deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
@@ -311,7 +313,6 @@
 | EDV-Lotsen/1C-AccountingSuite | [link](https://github.com/EDV-Lotsen/1C-AccountingSuite) | 0 | 0 | 1 |
 | Ekopylov/work2 | [link](https://github.com/Ekopylov/work2) | 0 | 0 | 0 |
 | ElectroService/WAP_1C | [link](https://github.com/ElectroService/WAP_1C) | 0 | 0 | 0 |
-| eliseeva/all1c | [link](https://github.com/eliseeva/all1c) | 0 | 0 | 0 |
 | EShchavleva/Test-repository | [link](https://github.com/EShchavleva/Test-repository) | 0 | 0 | 0 |
 | eSTau/Converter_Markdown | [link](https://github.com/eSTau/Converter_Markdown) | 0 | 0 | 0 |
 | eSTau/RDS_config | [link](https://github.com/eSTau/RDS_config) | 0 | 0 | 0 |
@@ -321,7 +322,7 @@
 | farukshin/test_github | [link](https://github.com/farukshin/test_github) | 0 | 0 | 0 |
 | fenixnow/bitrix-exchage-UT11 | [link](https://github.com/fenixnow/bitrix-exchage-UT11) | 0 | 0 | 0 |
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
-| flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) |  |  |  |
+| flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) | 1 | 1 | 1 |
 | Fox-trot/Enigma | [link](https://github.com/Fox-trot/Enigma) | 0 | 0 | 0 |
 | Fox-trot/Gastronom | [link](https://github.com/Fox-trot/Gastronom) | 0 | 0 | 0 |
 | Fox-trot/scuola | [link](https://github.com/Fox-trot/scuola) | 0 | 0 | 0 |
@@ -336,10 +337,9 @@
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
-| Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
-| KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
+| KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) | 0 | 0 | 0 |
 | Kegearr/597340-bdd | [link](https://github.com/Kegearr/597340-bdd) | 0 | 0 | 0 |
 | Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
 | k-kostenko/GitAnd1C | [link](https://github.com/k-kostenko/GitAnd1C) | 0 | 0 | 0 |
@@ -355,7 +355,6 @@
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
-| Kvint777/cashholder_old | [link](https://github.com/Kvint777/cashholder_old) | 0 | 0 | 0 |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
 | latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
 | latestalexey/external-files-1C | [link](https://github.com/latestalexey/external-files-1C) | 0 | 0 | 0 |
@@ -375,7 +374,6 @@
 | mikhah/HomeWork2 | [link](https://github.com/mikhah/HomeWork2) | 0 | 0 | 0 |
 | mikhah/HomeWork3 | [link](https://github.com/mikhah/HomeWork3) |  |  |  |
 | mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) |  |  |  |
-| MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
 | MikhailMKZ/sb-course-1-final | [link](https://github.com/MikhailMKZ/sb-course-1-final) | 0 | 0 | 0 |
 | MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 0 |
 | monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
@@ -406,7 +404,7 @@
 | oscript-library/json | [link](https://github.com/oscript-library/json) |  |  |  |
 | oscript-library/library-support | [link](https://github.com/oscript-library/library-support) |  |  |  |
 | oscript-library/logos | [link](https://github.com/oscript-library/logos) |  |  |  |
-| oscript-library/messenger | [link](https://github.com/oscript-library/messenger) |  |  |  |
+| oscript-library/messenger | [link](https://github.com/oscript-library/messenger) | 8 | 8 | 3 |
 | oscript-library/opm | [link](https://github.com/oscript-library/opm) |  |  |  |
 | oscript-library/packman | [link](https://github.com/oscript-library/packman) |  |  |  |
 | oscript-library/strings | [link](https://github.com/oscript-library/strings) |  |  |  |
@@ -432,6 +430,7 @@
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
 | pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
+| pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
 | Pinki1995/Work | [link](https://github.com/Pinki1995/Work) | 0 | 0 | 0 |
 | piromane/ExtRepoPart1 | [link](https://github.com/piromane/ExtRepoPart1) | 0 | 0 | 0 |
@@ -440,6 +439,7 @@
 | poabor/Block4 | [link](https://github.com/poabor/Block4) | 0 | 0 | 0 |
 | poabor/OneCard | [link](https://github.com/poabor/OneCard) | 0 | 0 | 0 |
 | popiksergey/work2 | [link](https://github.com/popiksergey/work2) | 0 | 0 | 0 |
+| popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 5 | 5 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
 | progromaking/templates | [link](https://github.com/progromaking/templates) | 1 | 1 | 0 |
@@ -452,7 +452,6 @@
 | rasswett/dbor | [link](https://github.com/rasswett/dbor) | 2 | 2 | 0 |
 | regcpr1c/- | [link](https://github.com/regcpr1c/-) | 0 | 0 | 0 |
 | ret-Phoenix/ClassGenerator1CtoCSharp | [link](https://github.com/ret-Phoenix/ClassGenerator1CtoCSharp) | 3 | 3 | 0 |
-| ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
 | RfidCenter/GisMarkirovka1C | [link](https://github.com/RfidCenter/GisMarkirovka1C) | 0 | 0 | 0 |
 | RigsOfRods/content | [link](https://github.com/RigsOfRods/content) | 0 | 0 | 1 |
@@ -524,7 +523,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 165
+Общее количество репозиториев: 162
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -578,7 +577,6 @@
 | EvilBeaver/oscript-app-template | [link](https://github.com/EvilBeaver/oscript-app-template) |  |  |  |
 | EvilBeaver/oscript-library | [link](https://github.com/EvilBeaver/oscript-library) |  |  |  |
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
-| flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) |  |  |  |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
 | git22ura/dz3 | [link](https://github.com/git22ura/dz3) |  |  |  |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
@@ -588,7 +586,6 @@
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
-| KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
 | Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
 | KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
@@ -628,7 +625,6 @@
 | oscript-library/json | [link](https://github.com/oscript-library/json) |  |  |  |
 | oscript-library/library-support | [link](https://github.com/oscript-library/library-support) |  |  |  |
 | oscript-library/logos | [link](https://github.com/oscript-library/logos) |  |  |  |
-| oscript-library/messenger | [link](https://github.com/oscript-library/messenger) |  |  |  |
 | oscript-library/opm | [link](https://github.com/oscript-library/opm) |  |  |  |
 | oscript-library/packman | [link](https://github.com/oscript-library/packman) |  |  |  |
 | oscript-library/strings | [link](https://github.com/oscript-library/strings) |  |  |  |
