@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 20.02.2017 5:15:01
+Актуальность: 22.02.2017 5:15:00
 
 ## Пользователи
 
-Общее количество пользователей: 209
-Всего репозиториев: 363
+Общее количество пользователей: 212
+Всего репозиториев: 371
 
 | Пользователь | Акаунт |
 ---|---|
@@ -60,6 +60,7 @@
 | chvassilissa | [link](https://github.com/chvassilissa) |
 | cobern1976 | [link](https://github.com/cobern1976) |
 | CocoFox | [link](https://github.com/CocoFox) |
+| codenull | [link](https://github.com/codenull) |
 | CryptedSky | [link](https://github.com/CryptedSky) |
 | ctuning | [link](https://github.com/ctuning) |
 | cybjavax | [link](https://github.com/cybjavax) |
@@ -78,6 +79,7 @@
 | EDV-Lotsen | [link](https://github.com/EDV-Lotsen) |
 | Ekopylov | [link](https://github.com/Ekopylov) |
 | ElectroService | [link](https://github.com/ElectroService) |
+| eliseeva | [link](https://github.com/eliseeva) |
 | EShchavleva | [link](https://github.com/EShchavleva) |
 | eSTau | [link](https://github.com/eSTau) |
 | EugeneParadise | [link](https://github.com/EugeneParadise) |
@@ -198,6 +200,7 @@
 | tormozit | [link](https://github.com/tormozit) |
 | tropicgroup | [link](https://github.com/tropicgroup) |
 | Tur8008 | [link](https://github.com/Tur8008) |
+| urasovd | [link](https://github.com/urasovd) |
 | vadimitr | [link](https://github.com/vadimitr) |
 | valafan | [link](https://github.com/valafan) |
 | ValerijBel | [link](https://github.com/ValerijBel) |
@@ -223,7 +226,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 294
+Общее количество репозиториев: 304
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -234,6 +237,7 @@
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 60 | 60 | 34 |
+| 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
 | 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
@@ -263,6 +267,7 @@
 | Anice17/anice | [link](https://github.com/Anice17/anice) | 2 | 2 | 0 |
 | AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
 | antowski/recoder | [link](https://github.com/antowski/recoder) |  |  |  |
+| antowski/v7src | [link](https://github.com/antowski/v7src) |  |  |  |
 | APolubenskiy/Work1C | [link](https://github.com/APolubenskiy/Work1C) | 0 | 0 | 0 |
 | arkuznetsov/NewRepo | [link](https://github.com/arkuznetsov/NewRepo) |  |  |  |
 | arkuznetsov/study_temp | [link](https://github.com/arkuznetsov/study_temp) |  |  |  |
@@ -282,6 +287,7 @@
 | Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
+| binexekb/DADATA | [link](https://github.com/binexekb/DADATA) | 0 | 0 | 0 |
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
 | BlizD/BPS | [link](https://github.com/BlizD/BPS) | 6 | 6 | 2 |
 | BlizD/MyEPF | [link](https://github.com/BlizD/MyEPF) | 1 | 1 | 2 |
@@ -292,6 +298,7 @@
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
 | cobern1976/MyFirstRepository | [link](https://github.com/cobern1976/MyFirstRepository) | 0 | 0 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 0 | 0 | 1 |
+| codenull/ViewYmlFor1C | [link](https://github.com/codenull/ViewYmlFor1C) | 0 | 0 | 0 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 30 | 30 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
@@ -316,6 +323,7 @@
 | EDV-Lotsen/1C-AccountingSuite | [link](https://github.com/EDV-Lotsen/1C-AccountingSuite) | 0 | 0 | 1 |
 | Ekopylov/work2 | [link](https://github.com/Ekopylov/work2) | 0 | 0 | 0 |
 | ElectroService/WAP_1C | [link](https://github.com/ElectroService/WAP_1C) | 0 | 0 | 0 |
+| eliseeva/all1c | [link](https://github.com/eliseeva/all1c) | 0 | 0 | 0 |
 | EShchavleva/Test-repository | [link](https://github.com/EShchavleva/Test-repository) | 0 | 0 | 0 |
 | eSTau/Converter_Markdown | [link](https://github.com/eSTau/Converter_Markdown) | 0 | 0 | 0 |
 | eSTau/RDS_config | [link](https://github.com/eSTau/RDS_config) | 0 | 0 | 0 |
@@ -340,6 +348,7 @@
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
+| Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
@@ -376,6 +385,7 @@
 | mikhah/HomeWork2 | [link](https://github.com/mikhah/HomeWork2) | 0 | 0 | 0 |
 | mikhah/HomeWork3 | [link](https://github.com/mikhah/HomeWork3) |  |  |  |
 | mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) |  |  |  |
+| MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
 | MikhailMKZ/sb-course-1-final | [link](https://github.com/MikhailMKZ/sb-course-1-final) | 0 | 0 | 0 |
 | MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 0 |
 | monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
@@ -416,6 +426,7 @@
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 0 |
 | Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
+| Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
 | Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
@@ -488,6 +499,7 @@
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
 | Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 5 | 5 | 1 |
 | Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
+| Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | swi2mer/test-1c | [link](https://github.com/swi2mer/test-1c) | 0 | 0 | 0 |
@@ -500,6 +512,7 @@
 | tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 26 | 26 | 4 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
+| urasovd/all1c | [link](https://github.com/urasovd/all1c) | 0 | 0 | 0 |
 | vadimitr/FinalTask | [link](https://github.com/vadimitr/FinalTask) | 0 | 0 | 0 |
 | ValerijBel/Infostart_1199_FinalTask | [link](https://github.com/ValerijBel/Infostart_1199_FinalTask) | 0 | 0 | 1 |
 | ValeriyPlescheev/Test | [link](https://github.com/ValeriyPlescheev/Test) | 0 | 0 | 0 |
@@ -511,7 +524,7 @@
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 180 | 180 | 66 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 181 | 181 | 66 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -526,7 +539,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 166
+Общее количество репозиториев: 168
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -545,6 +558,7 @@
 | AnatoliyBritko/distr-build | [link](https://github.com/AnatoliyBritko/distr-build) |  |  |  |
 | AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
 | antowski/recoder | [link](https://github.com/antowski/recoder) |  |  |  |
+| antowski/v7src | [link](https://github.com/antowski/v7src) |  |  |  |
 | arkuznetsov/NewRepo | [link](https://github.com/arkuznetsov/NewRepo) |  |  |  |
 | arkuznetsov/study_temp | [link](https://github.com/arkuznetsov/study_temp) |  |  |  |
 | artbear/1adminka | [link](https://github.com/artbear/1adminka) |  |  |  |
@@ -674,6 +688,7 @@
 | slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
+| Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
 | Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
