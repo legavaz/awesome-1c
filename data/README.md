@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 24.02.2017 5:14:56
+Актуальность: 25.02.2017 5:14:50
 
 ## Пользователи
 
 Общее количество пользователей: 214
-Всего репозиториев: 371
+Всего репозиториев: 373
 
 | Пользователь | Акаунт |
 ---|---|
@@ -228,7 +228,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 301
+Общее количество репозиториев: 307
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -249,6 +249,7 @@
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
 | a-kunilov/my1c | [link](https://github.com/a-kunilov/my1c) | 0 | 0 | 0 |
+| AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
 | AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
@@ -284,6 +285,7 @@
 | AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | axis516/Buh | [link](https://github.com/axis516/Buh) | 0 | 0 | 0 |
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
+| axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
 | Bazil1c/hometask_block2 | [link](https://github.com/Bazil1c/hometask_block2) | 0 | 0 | 0 |
 | Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
@@ -349,6 +351,7 @@
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
+| Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
@@ -358,8 +361,10 @@
 | KonstantinErmolenko/empty1 | [link](https://github.com/KonstantinErmolenko/empty1) | 0 | 0 | 0 |
 | korolevpavel/hometask1 | [link](https://github.com/korolevpavel/hometask1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
+| KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
+| KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
@@ -424,6 +429,7 @@
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 0 |
 | Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
+| Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
 | Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
@@ -437,7 +443,7 @@
 | pboykov69/hometask_1 | [link](https://github.com/pboykov69/hometask_1) | 1 | 1 | 0 |
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
-| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
+| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) | 0 | 0 | 0 |
 | pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
 | pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
@@ -523,7 +529,7 @@
 | Vovqa412/FinalTask | [link](https://github.com/Vovqa412/FinalTask) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 181 | 181 | 67 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 182 | 182 | 67 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -538,7 +544,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 168
+Общее количество репозиториев: 166
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -652,12 +658,10 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | pallid/EnchantSrv | [link](https://github.com/pallid/EnchantSrv) |  |  |  |
-| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | Petr28/test-atom | [link](https://github.com/Petr28/test-atom) |  |  |  |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
-| pumbaEO/onec-syntaxparser | [link](https://github.com/pumbaEO/onec-syntaxparser) |  |  |  |
 | pumbaEO/precommit1c | [link](https://github.com/pumbaEO/precommit1c) |  |  |  |
 | pumbaEO/vanessa-behavior-tets | [link](https://github.com/pumbaEO/vanessa-behavior-tets) |  |  |  |
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
