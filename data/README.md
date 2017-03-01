@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 28.02.2017 5:14:57
+Актуальность: 01.03.2017 5:14:59
 
 ## Пользователи
 
-Общее количество пользователей: 214
-Всего репозиториев: 372
+Общее количество пользователей: 213
+Всего репозиториев: 373
 
 | Пользователь | Акаунт |
 ---|---|
@@ -20,6 +20,7 @@
 | AAGavrilov | [link](https://github.com/AAGavrilov) |
 | AdnreyGranenkin | [link](https://github.com/AdnreyGranenkin) |
 | Aevarandi | [link](https://github.com/Aevarandi) |
+| AGPonomarev | [link](https://github.com/AGPonomarev) |
 | aKomper | [link](https://github.com/aKomper) |
 | a-kunilov | [link](https://github.com/a-kunilov) |
 | AleksandrAkhunov | [link](https://github.com/AleksandrAkhunov) |
@@ -93,6 +94,7 @@
 | ghostpast | [link](https://github.com/ghostpast) |
 | git22ura | [link](https://github.com/git22ura) |
 | github | [link](https://github.com/github) |
+| haleevra | [link](https://github.com/haleevra) |
 | harisov-r | [link](https://github.com/harisov-r) |
 | IamNuke | [link](https://github.com/IamNuke) |
 | ilgizvip | [link](https://github.com/ilgizvip) |
@@ -130,12 +132,10 @@
 | MikhailSolncev | [link](https://github.com/MikhailSolncev) |
 | monwig | [link](https://github.com/monwig) |
 | NaKaZD | [link](https://github.com/NaKaZD) |
-| NatalyaTseytlina | [link](https://github.com/NatalyaTseytlina) |
 | needigeo | [link](https://github.com/needigeo) |
 | Neferto | [link](https://github.com/Neferto) |
 | nextkmv | [link](https://github.com/nextkmv) |
 | Nightmarevav | [link](https://github.com/Nightmarevav) |
-| NikolaTeslaTest | [link](https://github.com/NikolaTeslaTest) |
 | nixel2007 | [link](https://github.com/nixel2007) |
 | nocamad | [link](https://github.com/nocamad) |
 | OdeyDerut | [link](https://github.com/OdeyDerut) |
@@ -149,7 +149,6 @@
 | pboykov69 | [link](https://github.com/pboykov69) |
 | Petr28 | [link](https://github.com/Petr28) |
 | pila86 | [link](https://github.com/pila86) |
-| Pinki1995 | [link](https://github.com/Pinki1995) |
 | piromane | [link](https://github.com/piromane) |
 | PiskunovSS | [link](https://github.com/PiskunovSS) |
 | poabor | [link](https://github.com/poabor) |
@@ -166,6 +165,7 @@
 | ret-Phoenix | [link](https://github.com/ret-Phoenix) |
 | RfidCenter | [link](https://github.com/RfidCenter) |
 | RigsOfRods | [link](https://github.com/RigsOfRods) |
+| RigsOfRods-Community | [link](https://github.com/RigsOfRods-Community) |
 | ripreal | [link](https://github.com/ripreal) |
 | RoxyRedFlame | [link](https://github.com/RoxyRedFlame) |
 | SBurdin | [link](https://github.com/SBurdin) |
@@ -181,7 +181,6 @@
 | Simon250388 | [link](https://github.com/Simon250388) |
 | slaxxals | [link](https://github.com/slaxxals) |
 | Smilebringer | [link](https://github.com/Smilebringer) |
-| SmileDDD | [link](https://github.com/SmileDDD) |
 | SmokyAce | [link](https://github.com/SmokyAce) |
 | smykalovaa | [link](https://github.com/smykalovaa) |
 | sovetnikoffice | [link](https://github.com/sovetnikoffice) |
@@ -228,7 +227,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 303
+Общее количество репозиториев: 305
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -246,6 +245,7 @@
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
 | AdnreyGranenkin/tvb8 | [link](https://github.com/AdnreyGranenkin/tvb8) |  |  |  |
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
+| AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
 | a-kunilov/my1c | [link](https://github.com/a-kunilov/my1c) | 0 | 0 | 0 |
 | AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
@@ -286,6 +286,7 @@
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
 | Bazil1c/hometask_block2 | [link](https://github.com/Bazil1c/hometask_block2) | 0 | 0 | 0 |
+| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/DADATA | [link](https://github.com/binexekb/DADATA) | 0 | 0 | 0 |
@@ -307,6 +308,7 @@
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
+| deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
@@ -343,6 +345,7 @@
 | Gaukas/OralStandard | [link](https://github.com/Gaukas/OralStandard) | 1 | 1 | 0 |
 | ghostpast/carshowroom-1C | [link](https://github.com/ghostpast/carshowroom-1C) | 0 | 0 | 0 |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
+| haleevra/ciret_crm | [link](https://github.com/haleevra/ciret_crm) | 0 | 0 | 0 |
 | harisov-r/homework-kurs | [link](https://github.com/harisov-r/homework-kurs) | 0 | 0 | 0 |
 | IamNuke/BSP | [link](https://github.com/IamNuke/BSP) | 0 | 0 | 0 |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
@@ -360,7 +363,6 @@
 | KonstantinErmolenko/empty1 | [link](https://github.com/KonstantinErmolenko/empty1) | 0 | 0 | 0 |
 | korolevpavel/hometask1 | [link](https://github.com/korolevpavel/hometask1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
-| KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
 | KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
@@ -393,12 +395,10 @@
 | MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 0 |
 | monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
-| NatalyaTseytlina/config1c | [link](https://github.com/NatalyaTseytlina/config1c) | 0 | 0 | 0 |
 | needigeo/bddfinaltask | [link](https://github.com/needigeo/bddfinaltask) | 0 | 0 | 0 |
 | needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
 | Neferto/all1c | [link](https://github.com/Neferto/all1c) | 0 | 0 | 0 |
 | Nightmarevav/git1ctest | [link](https://github.com/Nightmarevav/git1ctest) | 0 | 0 | 0 |
-| NikolaTeslaTest/Test1c | [link](https://github.com/NikolaTeslaTest/Test1c) | 0 | 0 | 0 |
 | nixel2007/1c-flow | [link](https://github.com/nixel2007/1c-flow) |  |  |  |
 | nixel2007/asserts_cf | [link](https://github.com/nixel2007/asserts_cf) | 4 | 4 | 1 |
 | nixel2007/gitrunner | [link](https://github.com/nixel2007/gitrunner) |  |  |  |
@@ -443,16 +443,17 @@
 | pboykov69/hometask_1 | [link](https://github.com/pboykov69/hometask_1) | 1 | 1 | 0 |
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
-| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) | 0 | 0 | 0 |
+| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
+| pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
-| Pinki1995/Work | [link](https://github.com/Pinki1995/Work) | 0 | 0 | 0 |
 | piromane/ExtRepoPart1 | [link](https://github.com/piromane/ExtRepoPart1) | 0 | 0 | 0 |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | PiskunovSS/BDD-1C-final-task | [link](https://github.com/PiskunovSS/BDD-1C-final-task) | 1 | 1 | 1 |
 | poabor/Block4 | [link](https://github.com/poabor/Block4) | 0 | 0 | 0 |
 | poabor/OneCard | [link](https://github.com/poabor/OneCard) | 0 | 0 | 0 |
 | popiksergey/work2 | [link](https://github.com/popiksergey/work2) | 0 | 0 | 0 |
+| popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 5 | 5 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
 | progromaking/templates | [link](https://github.com/progromaking/templates) | 1 | 1 | 0 |
@@ -469,6 +470,7 @@
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
 | RfidCenter/GisMarkirovka1C | [link](https://github.com/RfidCenter/GisMarkirovka1C) | 0 | 0 | 0 |
 | RigsOfRods/content | [link](https://github.com/RigsOfRods/content) | 0 | 0 | 1 |
+| RigsOfRods-Community/community-map | [link](https://github.com/RigsOfRods-Community/community-map) | 5 | 5 | 16 |
 | ripreal/1C_UI | [link](https://github.com/ripreal/1C_UI) | 0 | 0 | 0 |
 | RoxyRedFlame/FinalTask | [link](https://github.com/RoxyRedFlame/FinalTask) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork2 | [link](https://github.com/RoxyRedFlame/HomeWork2) | 0 | 0 | 0 |
@@ -491,7 +493,6 @@
 | Simon250388/Storage | [link](https://github.com/Simon250388/Storage) | 0 | 0 | 0 |
 | slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | Smilebringer/itsk | [link](https://github.com/Smilebringer/itsk) | 0 | 0 | 0 |
-| SmileDDD/-1- | [link](https://github.com/SmileDDD/-1-) | 0 | 0 | 0 |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | smykalovaa/rcuo-testing-first | [link](https://github.com/smykalovaa/rcuo-testing-first) | 1 | 1 | 0 |
 | smykalovaa/rcuo-trusovo-epf | [link](https://github.com/smykalovaa/rcuo-trusovo-epf) | 0 | 0 | 0 |
@@ -525,7 +526,7 @@
 | VitaliyCeban/BDD_Lesson03 | [link](https://github.com/VitaliyCeban/BDD_Lesson03) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 183 | 183 | 69 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 183 | 183 | 70 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -540,7 +541,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 167
+Общее количество репозиториев: 168
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -654,6 +655,7 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | pallid/EnchantSrv | [link](https://github.com/pallid/EnchantSrv) |  |  |  |
+| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | Petr28/test-atom | [link](https://github.com/Petr28/test-atom) |  |  |  |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
