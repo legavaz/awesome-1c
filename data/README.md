@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 02.03.2017 5:14:53
+Актуальность: 03.03.2017 5:14:53
 
 ## Пользователи
 
-Общее количество пользователей: 213
-Всего репозиториев: 370
+Общее количество пользователей: 216
+Всего репозиториев: 376
 
 | Пользователь | Акаунт |
 ---|---|
@@ -22,7 +22,6 @@
 | Aevarandi | [link](https://github.com/Aevarandi) |
 | AGPonomarev | [link](https://github.com/AGPonomarev) |
 | aKomper | [link](https://github.com/aKomper) |
-| a-kunilov | [link](https://github.com/a-kunilov) |
 | AleksandrAkhunov | [link](https://github.com/AleksandrAkhunov) |
 | Aleksandr-rtu | [link](https://github.com/Aleksandr-rtu) |
 | Aletar | [link](https://github.com/Aletar) |
@@ -41,7 +40,6 @@
 | Anice17 | [link](https://github.com/Anice17) |
 | AntonSm2006 | [link](https://github.com/AntonSm2006) |
 | antowski | [link](https://github.com/antowski) |
-| APolubenskiy | [link](https://github.com/APolubenskiy) |
 | arkuznetsov | [link](https://github.com/arkuznetsov) |
 | artbear | [link](https://github.com/artbear) |
 | artyusmirnov | [link](https://github.com/artyusmirnov) |
@@ -51,6 +49,7 @@
 | AStepashkin | [link](https://github.com/AStepashkin) |
 | axis516 | [link](https://github.com/axis516) |
 | Bazil1c | [link](https://github.com/Bazil1c) |
+| Benony0 | [link](https://github.com/Benony0) |
 | bia-tech | [link](https://github.com/bia-tech) |
 | binexekb | [link](https://github.com/binexekb) |
 | BlackDrak0n | [link](https://github.com/BlackDrak0n) |
@@ -109,7 +108,6 @@
 | Khorevaa | [link](https://github.com/Khorevaa) |
 | k-kostenko | [link](https://github.com/k-kostenko) |
 | klimenko-1c | [link](https://github.com/klimenko-1c) |
-| KonstantinErmolenko | [link](https://github.com/KonstantinErmolenko) |
 | korolevpavel | [link](https://github.com/korolevpavel) |
 | korzhishe | [link](https://github.com/korzhishe) |
 | KrapivinAndrey | [link](https://github.com/KrapivinAndrey) |
@@ -126,6 +124,8 @@
 | MaksimGr | [link](https://github.com/MaksimGr) |
 | maxstarkov | [link](https://github.com/maxstarkov) |
 | mdzm | [link](https://github.com/mdzm) |
+| megodeath | [link](https://github.com/megodeath) |
+| MiaoYuJia | [link](https://github.com/MiaoYuJia) |
 | Michael2399 | [link](https://github.com/Michael2399) |
 | mikhah | [link](https://github.com/mikhah) |
 | MikhailMKZ | [link](https://github.com/MikhailMKZ) |
@@ -155,6 +155,7 @@
 | PiskunovSS | [link](https://github.com/PiskunovSS) |
 | poabor | [link](https://github.com/poabor) |
 | popiksergey | [link](https://github.com/popiksergey) |
+| PrivalovN | [link](https://github.com/PrivalovN) |
 | progromaking | [link](https://github.com/progromaking) |
 | psyriccio | [link](https://github.com/psyriccio) |
 | pumbaEO | [link](https://github.com/pumbaEO) |
@@ -171,10 +172,10 @@
 | ripreal | [link](https://github.com/ripreal) |
 | RoxyRedFlame | [link](https://github.com/RoxyRedFlame) |
 | SBurdin | [link](https://github.com/SBurdin) |
-| Schtass | [link](https://github.com/Schtass) |
 | sdoronin | [link](https://github.com/sdoronin) |
 | SecondIdeal | [link](https://github.com/SecondIdeal) |
 | SergeFocus | [link](https://github.com/SergeFocus) |
+| sergejk74 | [link](https://github.com/sergejk74) |
 | shpinderworka | [link](https://github.com/shpinderworka) |
 | sikuda | [link](https://github.com/sikuda) |
 | silverbulleters | [link](https://github.com/silverbulleters) |
@@ -213,10 +214,12 @@
 | vasnetzoff | [link](https://github.com/vasnetzoff) |
 | verter4sb | [link](https://github.com/verter4sb) |
 | VitaliyCeban | [link](https://github.com/VitaliyCeban) |
+| VladimirLitvinenko84 | [link](https://github.com/VladimirLitvinenko84) |
 | vpozdnyakov | [link](https://github.com/vpozdnyakov) |
 | vsuh | [link](https://github.com/vsuh) |
 | WinnerBoy101 | [link](https://github.com/WinnerBoy101) |
 | xDrivenDevelopment | [link](https://github.com/xDrivenDevelopment) |
+| xzfantom | [link](https://github.com/xzfantom) |
 | yabrus | [link](https://github.com/yabrus) |
 | yoyuyoppe | [link](https://github.com/yoyuyoppe) |
 | YPermitin | [link](https://github.com/YPermitin) |
@@ -227,14 +230,14 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 301
+Общее количество репозиториев: 308
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
 | 0xporky/MG-N707TS | [link](https://github.com/0xporky/MG-N707TS) | 1 | 1 | 0 |
+| 0xporky/Sberbank | [link](https://github.com/0xporky/Sberbank) | 0 | 0 | 0 |
 | 0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3 | [link](https://github.com/0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3) | 0 | 0 | 0 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
-| 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 61 | 61 | 34 |
@@ -247,7 +250,7 @@
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
-| a-kunilov/my1c | [link](https://github.com/a-kunilov/my1c) | 0 | 0 | 0 |
+| AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
 | AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
@@ -265,10 +268,8 @@
 | AndreFokin/HomeWork1 | [link](https://github.com/AndreFokin/HomeWork1) | 0 | 0 | 0 |
 | AndreFokin/HomeWork2 | [link](https://github.com/AndreFokin/HomeWork2) | 0 | 0 | 0 |
 | Anice17/anice | [link](https://github.com/Anice17/anice) | 2 | 2 | 0 |
-| AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
 | antowski/recoder | [link](https://github.com/antowski/recoder) |  |  |  |
 | antowski/v7src | [link](https://github.com/antowski/v7src) |  |  |  |
-| APolubenskiy/Work1C | [link](https://github.com/APolubenskiy/Work1C) | 0 | 0 | 0 |
 | arkuznetsov/NewRepo | [link](https://github.com/arkuznetsov/NewRepo) |  |  |  |
 | arkuznetsov/study_temp | [link](https://github.com/arkuznetsov/study_temp) |  |  |  |
 | artbear/1bdd | [link](https://github.com/artbear/1bdd) |  |  |  |
@@ -287,6 +288,7 @@
 | Bazil1c/hometask_block2 | [link](https://github.com/Bazil1c/hometask_block2) | 0 | 0 | 0 |
 | Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
+| Benony0/ExtForms1c | [link](https://github.com/Benony0/ExtForms1c) | 0 | 0 | 0 |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
 | binexekb/DADATA | [link](https://github.com/binexekb/DADATA) | 0 | 0 | 0 |
 | BlackDrak0n/oscript-AutoUpdateIB | [link](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) |  |  |  |
@@ -297,12 +299,12 @@
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
 | chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) | 0 | 0 | 0 |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
-| cobern1976/MyFirstRepository | [link](https://github.com/cobern1976/MyFirstRepository) | 0 | 0 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 0 | 0 | 1 |
 | codenull/ViewYmlFor1C | [link](https://github.com/codenull/ViewYmlFor1C) | 0 | 0 | 0 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 30 | 30 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
+| cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | cybjavax/AOscripts | [link](https://github.com/cybjavax/AOscripts) |  |  |  |
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
@@ -332,6 +334,7 @@
 | Eurospider/OpenBSD-firewall | [link](https://github.com/Eurospider/OpenBSD-firewall) | 7 | 7 | 4 |
 | EvilBeaver/oscript-library | [link](https://github.com/EvilBeaver/oscript-library) |  |  |  |
 | farukshin/test_github | [link](https://github.com/farukshin/test_github) | 0 | 0 | 0 |
+| fenixnow/bitrix-exchage-UT11 | [link](https://github.com/fenixnow/bitrix-exchage-UT11) | 0 | 0 | 0 |
 | fenixnow/ut-bitrix | [link](https://github.com/fenixnow/ut-bitrix) | 0 | 0 | 0 |
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
 | flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) |  |  |  |
@@ -344,12 +347,15 @@
 | ghostpast/carshowroom-1C | [link](https://github.com/ghostpast/carshowroom-1C) | 0 | 0 | 0 |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
 | haleevra/ciret_crm | [link](https://github.com/haleevra/ciret_crm) | 0 | 0 | 0 |
+| haleevra/msz | [link](https://github.com/haleevra/msz) | 0 | 0 | 0 |
+| haleevra/SiteExchangeProfITCoffeeStudio | [link](https://github.com/haleevra/SiteExchangeProfITCoffeeStudio) | 0 | 0 | 0 |
 | harisov-r/homework-kurs | [link](https://github.com/harisov-r/homework-kurs) | 0 | 0 | 0 |
 | IamNuke/BSP | [link](https://github.com/IamNuke/BSP) | 0 | 0 | 0 |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
+| Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
@@ -357,12 +363,12 @@
 | Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
 | k-kostenko/GitAnd1C | [link](https://github.com/k-kostenko/GitAnd1C) | 0 | 0 | 0 |
 | klimenko-1c/ext2int | [link](https://github.com/klimenko-1c/ext2int) | 0 | 0 | 0 |
-| KonstantinErmolenko/empty1 | [link](https://github.com/KonstantinErmolenko/empty1) | 0 | 0 | 0 |
 | korolevpavel/hometask1 | [link](https://github.com/korolevpavel/hometask1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
 | KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
+| KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
@@ -381,7 +387,8 @@
 | maxstarkov/DevPro | [link](https://github.com/maxstarkov/DevPro) |  |  |  |
 | maxstarkov/DevProFinalTask | [link](https://github.com/maxstarkov/DevProFinalTask) | 0 | 0 | 0 |
 | mdzm/testexample | [link](https://github.com/mdzm/testexample) | 0 | 0 | 0 |
-| Michael2399/OneScriptExample | [link](https://github.com/Michael2399/OneScriptExample) | 0 | 0 | 0 |
+| megodeath/1c-test-ext | [link](https://github.com/megodeath/1c-test-ext) | 0 | 0 | 0 |
+| MiaoYuJia/dscience | [link](https://github.com/MiaoYuJia/dscience) | 0 | 0 | 0 |
 | Michael2399/OneScriptProdgect2 | [link](https://github.com/Michael2399/OneScriptProdgect2) | 0 | 0 | 0 |
 | mikhah/HomeWork1 | [link](https://github.com/mikhah/HomeWork1) | 0 | 0 | 0 |
 | mikhah/HomeWork2 | [link](https://github.com/mikhah/HomeWork2) | 0 | 0 | 0 |
@@ -407,7 +414,6 @@
 | OdeyDerut/Millesime | [link](https://github.com/OdeyDerut/Millesime) | 0 | 0 | 0 |
 | o-homyak/finaltask | [link](https://github.com/o-homyak/finaltask) |  |  |  |
 | o-homyak/learnGitFor1C | [link](https://github.com/o-homyak/learnGitFor1C) |  |  |  |
-| oleynikova/learning-industry_standards | [link](https://github.com/oleynikova/learning-industry_standards) |  |  |  |
 | OMasterskikh/lecture-2 | [link](https://github.com/OMasterskikh/lecture-2) | 0 | 0 | 0 |
 | OMasterskikh/lecture-3 | [link](https://github.com/OMasterskikh/lecture-3) | 0 | 0 | 0 |
 | oscript-library/asserts | [link](https://github.com/oscript-library/asserts) |  |  |  |
@@ -427,6 +433,7 @@
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 0 |
 | Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
+| Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
 | Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
@@ -452,6 +459,7 @@
 | poabor/OneCard | [link](https://github.com/poabor/OneCard) | 0 | 0 | 0 |
 | popiksergey/work2 | [link](https://github.com/popiksergey/work2) | 0 | 0 | 0 |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
+| PrivalovN/HomeBib | [link](https://github.com/PrivalovN/HomeBib) | 0 | 0 | 0 |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 5 | 5 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
 | progromaking/templates | [link](https://github.com/progromaking/templates) | 1 | 1 | 0 |
@@ -474,10 +482,10 @@
 | RoxyRedFlame/HomeWork2 | [link](https://github.com/RoxyRedFlame/HomeWork2) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
 | SBurdin/-2-BDD | [link](https://github.com/SBurdin/-2-BDD) | 0 | 0 | 0 |
-| Schtass/Edu | [link](https://github.com/Schtass/Edu) | 0 | 0 | 0 |
 | sdoronin/BDDLearnin | [link](https://github.com/sdoronin/BDDLearnin) | 0 | 0 | 0 |
 | SecondIdeal/ProjectManagement-CRM | [link](https://github.com/SecondIdeal/ProjectManagement-CRM) | 0 | 0 | 0 |
 | SergeFocus/External_reports_processing_printing_plates_for_1C | [link](https://github.com/SergeFocus/External_reports_processing_printing_plates_for_1C) |  |  |  |
+| sergejk74/my_ones | [link](https://github.com/sergejk74/my_ones) | 0 | 0 | 0 |
 | shpinderworka/pav_fin | [link](https://github.com/shpinderworka/pav_fin) | 0 | 0 | 0 |
 | shpinderworka/rep_pav_1C | [link](https://github.com/shpinderworka/rep_pav_1C) |  |  |  |
 | sikuda/widget | [link](https://github.com/sikuda/widget) | 0 | 0 | 0 |
@@ -521,9 +529,11 @@
 | vasnetzoff/all1C | [link](https://github.com/vasnetzoff/all1C) | 0 | 0 | 0 |
 | VitaliyCeban/BDD_Lesson02 | [link](https://github.com/VitaliyCeban/BDD_Lesson02) | 0 | 0 | 0 |
 | VitaliyCeban/BDD_Lesson03 | [link](https://github.com/VitaliyCeban/BDD_Lesson03) | 0 | 0 | 0 |
+| VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
 | xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 184 | 184 | 70 |
+| xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
