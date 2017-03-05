@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 03.03.2017 5:14:53
+Актуальность: 05.03.2017 5:14:54
 
 ## Пользователи
 
 Общее количество пользователей: 216
-Всего репозиториев: 376
+Всего репозиториев: 375
 
 | Пользователь | Акаунт |
 ---|---|
@@ -230,7 +230,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 308
+Общее количество репозиториев: 304
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -250,7 +250,6 @@
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
-| AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
 | AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
@@ -355,7 +354,6 @@
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
-| Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
@@ -368,7 +366,6 @@
 | KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
-| KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
@@ -433,7 +430,6 @@
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 0 |
 | Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
-| Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
 | Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
@@ -547,7 +543,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 168
+Общее количество репозиториев: 169
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -597,6 +593,7 @@
 | dmpas/oscript-mail | [link](https://github.com/dmpas/oscript-mail) |  |  |  |
 | dmpas/oscript-network | [link](https://github.com/dmpas/oscript-network) |  |  |  |
 | dmpas/oscript-soap | [link](https://github.com/dmpas/oscript-soap) |  |  |  |
+| dmpas/oscript-v8unpack | [link](https://github.com/dmpas/oscript-v8unpack) |  |  |  |
 | dmpas/XmlMetaCreator | [link](https://github.com/dmpas/XmlMetaCreator) |  |  |  |
 | EugeneParadise/BackupCopy | [link](https://github.com/EugeneParadise/BackupCopy) |  |  |  |
 | EvilBeaver/OneScript | [link](https://github.com/EvilBeaver/OneScript) |  |  |  |
