@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 05.03.2017 5:14:54
+Актуальность: 06.03.2017 5:14:53
 
 ## Пользователи
 
-Общее количество пользователей: 216
-Всего репозиториев: 375
+Общее количество пользователей: 215
+Всего репозиториев: 374
 
 | Пользователь | Акаунт |
 ---|---|
@@ -30,7 +30,6 @@
 | AlexStrizh | [link](https://github.com/AlexStrizh) |
 | AllexxYu | [link](https://github.com/AllexxYu) |
 | allustin | [link](https://github.com/allustin) |
-| AlmazNasibullin | [link](https://github.com/AlmazNasibullin) |
 | alsknar | [link](https://github.com/alsknar) |
 | Amon-Ra- | [link](https://github.com/Amon-Ra-) |
 | AnanyevAl | [link](https://github.com/AnanyevAl) |
@@ -238,6 +237,7 @@
 | 0xporky/Sberbank | [link](https://github.com/0xporky/Sberbank) | 0 | 0 | 0 |
 | 0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3 | [link](https://github.com/0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3) | 0 | 0 | 0 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
+| 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 61 | 61 | 34 |
@@ -250,6 +250,7 @@
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
+| AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
 | AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
@@ -257,7 +258,6 @@
 | AlexStrizh/1c | [link](https://github.com/AlexStrizh/1c) | 0 | 0 | 0 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
-| AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
 | alsknar/1c_reports | [link](https://github.com/alsknar/1c_reports) | 0 | 0 | 0 |
 | Amon-Ra-/SalesAssistant | [link](https://github.com/Amon-Ra-/SalesAssistant) | 0 | 0 | 0 |
 | AnanyevAl/agileteam | [link](https://github.com/AnanyevAl/agileteam) | 0 | 0 | 0 |
@@ -285,7 +285,6 @@
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
 | Bazil1c/hometask_block2 | [link](https://github.com/Bazil1c/hometask_block2) | 0 | 0 | 0 |
-| Bazil1c/hometask_block3 | [link](https://github.com/Bazil1c/hometask_block3) |  |  |  |
 | Bazil1c/hometask_block4 | [link](https://github.com/Bazil1c/hometask_block4) |  |  |  |
 | Benony0/ExtForms1c | [link](https://github.com/Benony0/ExtForms1c) | 0 | 0 | 0 |
 | bia-tech/os-confluence | [link](https://github.com/bia-tech/os-confluence) |  |  |  |
@@ -308,7 +307,6 @@
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
-| deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
@@ -331,6 +329,7 @@
 | eSTau/RDS_config | [link](https://github.com/eSTau/RDS_config) | 0 | 0 | 0 |
 | EugeneParadise/BackupCopy | [link](https://github.com/EugeneParadise/BackupCopy) |  |  |  |
 | Eurospider/OpenBSD-firewall | [link](https://github.com/Eurospider/OpenBSD-firewall) | 7 | 7 | 4 |
+| EvilBeaver/oscript-app-template | [link](https://github.com/EvilBeaver/oscript-app-template) |  |  |  |
 | EvilBeaver/oscript-library | [link](https://github.com/EvilBeaver/oscript-library) |  |  |  |
 | farukshin/test_github | [link](https://github.com/farukshin/test_github) | 0 | 0 | 0 |
 | fenixnow/bitrix-exchage-UT11 | [link](https://github.com/fenixnow/bitrix-exchage-UT11) | 0 | 0 | 0 |
@@ -354,6 +353,7 @@
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
+| Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
 | KazaxLooksAtYou/Zhadyra | [link](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  |  |
@@ -366,6 +366,7 @@
 | KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
+| KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
@@ -430,6 +431,7 @@
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 0 |
 | Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
+| Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
 | Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
@@ -444,8 +446,6 @@
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
 | pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
-| pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
-| pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
 | Pinki1995/Work | [link](https://github.com/Pinki1995/Work) | 0 | 0 | 0 |
 | piromane/ExtRepoPart1 | [link](https://github.com/piromane/ExtRepoPart1) | 0 | 0 | 0 |
@@ -454,7 +454,6 @@
 | poabor/Block4 | [link](https://github.com/poabor/Block4) | 0 | 0 | 0 |
 | poabor/OneCard | [link](https://github.com/poabor/OneCard) | 0 | 0 | 0 |
 | popiksergey/work2 | [link](https://github.com/popiksergey/work2) | 0 | 0 | 0 |
-| popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
 | PrivalovN/HomeBib | [link](https://github.com/PrivalovN/HomeBib) | 0 | 0 | 0 |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 5 | 5 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
