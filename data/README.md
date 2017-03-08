@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 07.03.2017 5:14:55
+Актуальность: 08.03.2017 5:15:00
 
 ## Пользователи
 
 Общее количество пользователей: 217
-Всего репозиториев: 377
+Всего репозиториев: 378
 
 | Пользователь | Акаунт |
 ---|---|
@@ -231,7 +231,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 309
+Общее количество репозиториев: 311
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -325,6 +325,7 @@
 | dmnblg/contracts | [link](https://github.com/dmnblg/contracts) | 0 | 0 | 0 |
 | dmpas/odnoskobka | [link](https://github.com/dmpas/odnoskobka) |  |  |  |
 | dmpas/oscript-component-example | [link](https://github.com/dmpas/oscript-component-example) |  |  |  |
+| dmpas/showbug | [link](https://github.com/dmpas/showbug) |  |  |  |
 | durovmn/money | [link](https://github.com/durovmn/money) | 0 | 0 | 0 |
 | EDV-Lotsen/1C-AccountingSuite | [link](https://github.com/EDV-Lotsen/1C-AccountingSuite) | 0 | 0 | 1 |
 | Ekopylov/work2 | [link](https://github.com/Ekopylov/work2) | 0 | 0 | 0 |
@@ -509,6 +510,7 @@
 | Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
 | srvoland/TatoshkaGH | [link](https://github.com/srvoland/TatoshkaGH) | 0 | 0 | 0 |
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
+| Stepa86/1C-activity | [link](https://github.com/Stepa86/1C-activity) | 0 | 0 | 0 |
 | Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 5 | 5 | 1 |
 | Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
@@ -600,6 +602,7 @@
 | dmpas/oscript-network | [link](https://github.com/dmpas/oscript-network) |  |  |  |
 | dmpas/oscript-soap | [link](https://github.com/dmpas/oscript-soap) |  |  |  |
 | dmpas/oscript-v8unpack | [link](https://github.com/dmpas/oscript-v8unpack) |  |  |  |
+| dmpas/showbug | [link](https://github.com/dmpas/showbug) |  |  |  |
 | dmpas/XmlMetaCreator | [link](https://github.com/dmpas/XmlMetaCreator) |  |  |  |
 | EugeneParadise/BackupCopy | [link](https://github.com/EugeneParadise/BackupCopy) |  |  |  |
 | EvilBeaver/OneScript | [link](https://github.com/EvilBeaver/OneScript) |  |  |  |
@@ -670,7 +673,6 @@
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
-| pumbaEO/onec-syntaxparser | [link](https://github.com/pumbaEO/onec-syntaxparser) |  |  |  |
 | pumbaEO/precommit1c | [link](https://github.com/pumbaEO/precommit1c) |  |  |  |
 | pumbaEO/vanessa-behavior-tets | [link](https://github.com/pumbaEO/vanessa-behavior-tets) |  |  |  |
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
