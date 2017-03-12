@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 11.03.2017 5:14:59
+Актуальность: 12.03.2017 5:15:06
 
 ## Пользователи
 
-Общее количество пользователей: 218
-Всего репозиториев: 382
+Общее количество пользователей: 217
+Всего репозиториев: 381
 
 | Пользователь | Акаунт |
 ---|---|
@@ -165,7 +165,6 @@
 | raphaeldore | [link](https://github.com/raphaeldore) |
 | rarus-view | [link](https://github.com/rarus-view) |
 | rasswett | [link](https://github.com/rasswett) |
-| regcpr1c | [link](https://github.com/regcpr1c) |
 | ret-Phoenix | [link](https://github.com/ret-Phoenix) |
 | RfidCenter | [link](https://github.com/RfidCenter) |
 | RigsOfRods | [link](https://github.com/RigsOfRods) |
@@ -232,7 +231,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 314
+Общее количество репозиториев: 313
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -476,7 +475,6 @@
 | raphaeldore/analyzr | [link](https://github.com/raphaeldore/analyzr) | 0 | 0 | 0 |
 | rarus-view/- | [link](https://github.com/rarus-view/-) | 0 | 0 | 0 |
 | rasswett/dbor | [link](https://github.com/rasswett/dbor) | 2 | 2 | 0 |
-| regcpr1c/- | [link](https://github.com/regcpr1c/-) | 0 | 0 | 0 |
 | ret-Phoenix/ClassGenerator1CtoCSharp | [link](https://github.com/ret-Phoenix/ClassGenerator1CtoCSharp) | 3 | 3 | 0 |
 | ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
@@ -539,7 +537,7 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 185 | 185 | 70 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 185 | 185 | 71 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
