@@ -39,6 +39,7 @@
 * [Tool1CD](https://bitbucket.org/awa15/tool_1cd/) - консольная и GUI утилита для работы с DT файлами
 * [PreCommit Hook for EPF, ERF](https://github.com/xDrivenDevelopment/precommit1c) - поддержка возможности работы с EPF внутри git репозиториев через "перехваты git"
 * [Password Changer](https://github.com/alekseybochkov/PasswordChanger1C) - утилита для исправления чужих ошибок ;-)
+* [V8PasswordEjector](https://github.com/YPermitin/V8PasswordEjector) - Сброс учетных записей для 1С:Предприятия 8.x
 * [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
 * [Консоль запросов + БИТ:Финанс](https://github.com/CryptedSky/QueryConsolePBF) - работа с источниками данных БИТ:Финанс
 
