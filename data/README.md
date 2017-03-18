@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 17.03.2017 5:15:04
+Актуальность: 18.03.2017 5:15:02
 
 ## Пользователи
 
-Общее количество пользователей: 219
-Всего репозиториев: 383
+Общее количество пользователей: 220
+Всего репозиториев: 382
 
 | Пользователь | Акаунт |
 ---|---|
@@ -114,6 +114,7 @@
 | KonstantinErmolenko | [link](https://github.com/KonstantinErmolenko) |
 | korolevpavel | [link](https://github.com/korolevpavel) |
 | korzhishe | [link](https://github.com/korzhishe) |
+| KotegBegemoteg | [link](https://github.com/KotegBegemoteg) |
 | KrapivinAndrey | [link](https://github.com/KrapivinAndrey) |
 | kseniyaloza | [link](https://github.com/kseniyaloza) |
 | kuntashov | [link](https://github.com/kuntashov) |
@@ -134,6 +135,7 @@
 | mikhah | [link](https://github.com/mikhah) |
 | MikhailMKZ | [link](https://github.com/MikhailMKZ) |
 | MikhailSolncev | [link](https://github.com/MikhailSolncev) |
+| monwig | [link](https://github.com/monwig) |
 | NaKaZD | [link](https://github.com/NaKaZD) |
 | needigeo | [link](https://github.com/needigeo) |
 | Neferto | [link](https://github.com/Neferto) |
@@ -195,7 +197,6 @@
 | Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
 | swi2mer | [link](https://github.com/swi2mer) |
-| swzhukov | [link](https://github.com/swzhukov) |
 | Tamail | [link](https://github.com/Tamail) |
 | TechnoNIKOL | [link](https://github.com/TechnoNIKOL) |
 | test4web | [link](https://github.com/test4web) |
@@ -233,7 +234,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 316
+Общее количество репозиториев: 315
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -256,7 +257,6 @@
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
 | AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
-| AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
 | alexkmbk/1CI | [link](https://github.com/alexkmbk/1CI) | 4 | 4 | 1 |
@@ -315,7 +315,6 @@
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
-| deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
@@ -375,6 +374,7 @@
 | KonstantinErmolenko/empty1 | [link](https://github.com/KonstantinErmolenko/empty1) | 0 | 0 | 0 |
 | korolevpavel/hometask1 | [link](https://github.com/korolevpavel/hometask1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
+| KotegBegemoteg/all1c | [link](https://github.com/KotegBegemoteg/all1c) | 0 | 0 | 0 |
 | KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/ForSonar | [link](https://github.com/KrapivinAndrey/ForSonar) | 0 | 0 | 1 |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
@@ -408,9 +408,10 @@
 | MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
 | MikhailMKZ/sb-course-1-final | [link](https://github.com/MikhailMKZ/sb-course-1-final) | 0 | 0 | 0 |
 | MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 0 |
+| monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
 | needigeo/bddfinaltask | [link](https://github.com/needigeo/bddfinaltask) | 0 | 0 | 0 |
-| needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) | 1 | 1 | 1 |
+| needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
 | Neferto/all1c | [link](https://github.com/Neferto/all1c) | 0 | 0 | 0 |
 | Nightmarevav/git1ctest | [link](https://github.com/Nightmarevav/git1ctest) | 0 | 0 | 0 |
 | NikolaTeslaTest/Test1c | [link](https://github.com/NikolaTeslaTest/Test1c) | 0 | 0 | 0 |
@@ -515,14 +516,13 @@
 | SpaceHead1C/hw4 | [link](https://github.com/SpaceHead1C/hw4) | 0 | 0 | 0 |
 | Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
-| Stepa86/1C-activity | [link](https://github.com/Stepa86/1C-activity) | 13 | 13 | 2 |
+| Stepa86/1C-activity | [link](https://github.com/Stepa86/1C-activity) | 14 | 14 | 2 |
 | Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 6 | 6 | 2 |
 | Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | swi2mer/test-1c | [link](https://github.com/swi2mer/test-1c) | 0 | 0 | 0 |
-| swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
 | Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
@@ -645,6 +645,7 @@
 | mikhah/HomeWork3 | [link](https://github.com/mikhah/HomeWork3) |  |  |  |
 | mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) |  |  |  |
 | MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
+| needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
 | nextkmv/vServer | [link](https://github.com/nextkmv/vServer) |  |  |  |
 | nixel2007/1c-flow | [link](https://github.com/nixel2007/1c-flow) |  |  |  |
 | nixel2007/1c-syntax | [link](https://github.com/nixel2007/1c-syntax) |  |  |  |
@@ -678,7 +679,6 @@
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
-| pumbaEO/onec-syntaxparser | [link](https://github.com/pumbaEO/onec-syntaxparser) |  |  |  |
 | pumbaEO/precommit1c | [link](https://github.com/pumbaEO/precommit1c) |  |  |  |
 | pumbaEO/vanessa-behavior-tets | [link](https://github.com/pumbaEO/vanessa-behavior-tets) |  |  |  |
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
