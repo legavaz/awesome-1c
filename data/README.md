@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 18.03.2017 5:15:02
+Актуальность: 19.03.2017 5:15:01
 
 ## Пользователи
 
-Общее количество пользователей: 220
-Всего репозиториев: 382
+Общее количество пользователей: 219
+Всего репозиториев: 383
 
 | Пользователь | Акаунт |
 ---|---|
@@ -73,7 +73,6 @@
 | Diversus23 | [link](https://github.com/Diversus23) |
 | dlebedev | [link](https://github.com/dlebedev) |
 | DmitriyShevchenko | [link](https://github.com/DmitriyShevchenko) |
-| dmnblg | [link](https://github.com/dmnblg) |
 | dmpas | [link](https://github.com/dmpas) |
 | durovmn | [link](https://github.com/durovmn) |
 | EDV-Lotsen | [link](https://github.com/EDV-Lotsen) |
@@ -135,7 +134,6 @@
 | mikhah | [link](https://github.com/mikhah) |
 | MikhailMKZ | [link](https://github.com/MikhailMKZ) |
 | MikhailSolncev | [link](https://github.com/MikhailSolncev) |
-| monwig | [link](https://github.com/monwig) |
 | NaKaZD | [link](https://github.com/NaKaZD) |
 | needigeo | [link](https://github.com/needigeo) |
 | Neferto | [link](https://github.com/Neferto) |
@@ -197,6 +195,7 @@
 | Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
 | swi2mer | [link](https://github.com/swi2mer) |
+| swzhukov | [link](https://github.com/swzhukov) |
 | Tamail | [link](https://github.com/Tamail) |
 | TechnoNIKOL | [link](https://github.com/TechnoNIKOL) |
 | test4web | [link](https://github.com/test4web) |
@@ -287,7 +286,6 @@
 | a-sitnikov/ExtForms-grdok | [link](https://github.com/a-sitnikov/ExtForms-grdok) | 2 | 2 | 1 |
 | asosnoviy/bdd-final1 | [link](https://github.com/asosnoviy/bdd-final1) | 0 | 0 | 0 |
 | AStepashkin/astepashkinrep | [link](https://github.com/AStepashkin/astepashkinrep) | 0 | 0 | 0 |
-| AStepashkin/RepositoryLection4 | [link](https://github.com/AStepashkin/RepositoryLection4) | 0 | 0 | 0 |
 | axis516/Buh | [link](https://github.com/axis516/Buh) | 0 | 0 | 0 |
 | axis516/UAT | [link](https://github.com/axis516/UAT) | 0 | 0 | 0 |
 | axis516/ZUP | [link](https://github.com/axis516/ZUP) | 0 | 0 | 0 |
@@ -305,6 +303,7 @@
 | BorisKem/Work1 | [link](https://github.com/BorisKem/Work1) | 1 | 1 | 0 |
 | chvassilissa/firstrepo | [link](https://github.com/chvassilissa/firstrepo) | 0 | 0 | 0 |
 | cobern1976/FinalTask | [link](https://github.com/cobern1976/FinalTask) | 1 | 1 | 0 |
+| cobern1976/MyFirstRepository | [link](https://github.com/cobern1976/MyFirstRepository) | 0 | 0 | 0 |
 | CocoFox/3Dcoco | [link](https://github.com/CocoFox/3Dcoco) | 0 | 0 | 1 |
 | codenull/ViewYmlFor1C | [link](https://github.com/codenull/ViewYmlFor1C) | 0 | 0 | 0 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
@@ -315,6 +314,7 @@
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
+| deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
@@ -324,7 +324,6 @@
 | dlebedev/all1c | [link](https://github.com/dlebedev/all1c) | 0 | 0 | 0 |
 | DmitriyShevchenko/GitRep | [link](https://github.com/DmitriyShevchenko/GitRep) | 0 | 0 | 0 |
 | DmitriyShevchenko/testrep | [link](https://github.com/DmitriyShevchenko/testrep) | 0 | 0 | 0 |
-| dmnblg/contracts | [link](https://github.com/dmnblg/contracts) | 0 | 0 | 0 |
 | dmpas/odnoskobka | [link](https://github.com/dmpas/odnoskobka) |  |  |  |
 | dmpas/oscript-component-example | [link](https://github.com/dmpas/oscript-component-example) |  |  |  |
 | durovmn/money | [link](https://github.com/durovmn/money) | 0 | 0 | 0 |
@@ -380,6 +379,7 @@
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
 | KrapivinAndrey/Pivo_FillForms | [link](https://github.com/KrapivinAndrey/Pivo_FillForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
+| KrapivinAndrey/Pivo_Reports | [link](https://github.com/KrapivinAndrey/Pivo_Reports) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
 | KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
@@ -408,7 +408,6 @@
 | MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
 | MikhailMKZ/sb-course-1-final | [link](https://github.com/MikhailMKZ/sb-course-1-final) | 0 | 0 | 0 |
 | MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 0 |
-| monwig/roadforward | [link](https://github.com/monwig/roadforward) | 1 | 1 | 0 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
 | needigeo/bddfinaltask | [link](https://github.com/needigeo/bddfinaltask) | 0 | 0 | 0 |
 | needigeo/bddstudy | [link](https://github.com/needigeo/bddstudy) |  |  |  |
@@ -445,13 +444,12 @@
 | Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
-| Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 0 | 0 | 0 |
+| Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 1 | 1 | 0 |
 | Oxotka/InvoiceFaximile | [link](https://github.com/Oxotka/InvoiceFaximile) | 0 | 0 | 0 |
 | Oxotka/MoveDocumentsTrade | [link](https://github.com/Oxotka/MoveDocumentsTrade) | 1 | 1 | 1 |
 | Oxotka/NIR | [link](https://github.com/Oxotka/NIR) | 1 | 1 | 0 |
 | Oxotka/NomenclatureEnchancedTrade | [link](https://github.com/Oxotka/NomenclatureEnchancedTrade) | 1 | 1 | 1 |
-| Oxotka/NotADouble | [link](https://github.com/Oxotka/NotADouble) | 1 | 1 | 1 |
-| Oxotka/SendToSupportAcc | [link](https://github.com/Oxotka/SendToSupportAcc) | 0 | 0 | 0 |
+| Oxotka/NotADouble | [link](https://github.com/Oxotka/NotADouble) | 2 | 2 | 1 |
 | Oxotka/SendToSupportTrade | [link](https://github.com/Oxotka/SendToSupportTrade) | 2 | 2 | 1 |
 | pallid/EnchantSrv | [link](https://github.com/pallid/EnchantSrv) |  |  |  |
 | pbazeliuk/OutputProcessorExtension | [link](https://github.com/pbazeliuk/OutputProcessorExtension) | 10 | 10 | 4 |
@@ -523,6 +521,7 @@
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | swi2mer/test-1c | [link](https://github.com/swi2mer/test-1c) | 0 | 0 | 0 |
+| swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
 | Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
@@ -542,7 +541,7 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 186 | 186 | 71 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 186 | 186 | 72 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -558,7 +557,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 169
+Общее количество репозиториев: 170
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -679,6 +678,7 @@
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
+| pumbaEO/onec-syntaxparser | [link](https://github.com/pumbaEO/onec-syntaxparser) |  |  |  |
 | pumbaEO/precommit1c | [link](https://github.com/pumbaEO/precommit1c) |  |  |  |
 | pumbaEO/vanessa-behavior-tets | [link](https://github.com/pumbaEO/vanessa-behavior-tets) |  |  |  |
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
