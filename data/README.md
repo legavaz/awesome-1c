@@ -1,17 +1,18 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 24.03.2017 5:15:05
+Актуальность: 25.03.2017 5:15:00
 
 ## Пользователи
 
-Общее количество пользователей: 223
-Всего репозиториев: 389
+Общее количество пользователей: 225
+Всего репозиториев: 390
 
 | Пользователь | Акаунт |
 ---|---|
 | 0xporky | [link](https://github.com/0xporky) |
 | 1823244 | [link](https://github.com/1823244) |
 | 1C-Company | [link](https://github.com/1C-Company) |
+| 1cgh | [link](https://github.com/1cgh) |
 | 1C-Romania | [link](https://github.com/1C-Romania) |
 | 1cto | [link](https://github.com/1cto) |
 | 1cVitalik | [link](https://github.com/1cVitalik) |
@@ -105,6 +106,7 @@
 | ivan-kovtun | [link](https://github.com/ivan-kovtun) |
 | jchibinin | [link](https://github.com/jchibinin) |
 | jifmarais | [link](https://github.com/jifmarais) |
+| karlusha70 | [link](https://github.com/karlusha70) |
 | Kashkarov | [link](https://github.com/Kashkarov) |
 | kasperiks | [link](https://github.com/kasperiks) |
 | KazaxLooksAtYou | [link](https://github.com/KazaxLooksAtYou) |
@@ -185,7 +187,6 @@
 | SergeFocus | [link](https://github.com/SergeFocus) |
 | sergejk74 | [link](https://github.com/sergejk74) |
 | shpinderworka | [link](https://github.com/shpinderworka) |
-| sikuda | [link](https://github.com/sikuda) |
 | silverbulleters | [link](https://github.com/silverbulleters) |
 | silverbulleters-research | [link](https://github.com/silverbulleters-research) |
 | Simon250388 | [link](https://github.com/Simon250388) |
@@ -207,6 +208,7 @@
 | Theycallmedrworm | [link](https://github.com/Theycallmedrworm) |
 | timofeys | [link](https://github.com/timofeys) |
 | tixis | [link](https://github.com/tixis) |
+| tkalinvladimir | [link](https://github.com/tkalinvladimir) |
 | tormozit | [link](https://github.com/tormozit) |
 | tropicgroup | [link](https://github.com/tropicgroup) |
 | Tur8008 | [link](https://github.com/Tur8008) |
@@ -237,7 +239,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 321
+Общее количество репозиториев: 324
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -248,7 +250,8 @@
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
 | 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
-| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 62 | 62 | 35 |
+| 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 62 | 62 | 36 |
+| 1cgh/emexunf | [link](https://github.com/1cgh/emexunf) | 0 | 0 | 0 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
@@ -260,6 +263,7 @@
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
 | AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
+| AleksandrAkhunov/work4 | [link](https://github.com/AleksandrAkhunov/work4) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | alexandro32/Restruct | [link](https://github.com/alexandro32/Restruct) |  |  |  |
 | AlexGrishanov/ForTrainings | [link](https://github.com/AlexGrishanov/ForTrainings) |  |  |  |
@@ -277,6 +281,7 @@
 | AndreFokin/HomeWork1 | [link](https://github.com/AndreFokin/HomeWork1) | 0 | 0 | 0 |
 | AndreFokin/HomeWork2 | [link](https://github.com/AndreFokin/HomeWork2) | 0 | 0 | 0 |
 | Anice17/anice | [link](https://github.com/Anice17/anice) | 2 | 2 | 0 |
+| AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
 | antowski/recoder | [link](https://github.com/antowski/recoder) |  |  |  |
 | antowski/v7src | [link](https://github.com/antowski/v7src) |  |  |  |
 | APolubenskiy/Work1C | [link](https://github.com/APolubenskiy/Work1C) | 0 | 0 | 0 |
@@ -369,6 +374,7 @@
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
+| karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
@@ -508,7 +514,6 @@
 | sergejk74/my_ones | [link](https://github.com/sergejk74/my_ones) | 0 | 0 | 0 |
 | shpinderworka/pav_fin | [link](https://github.com/shpinderworka/pav_fin) | 0 | 0 | 0 |
 | shpinderworka/rep_pav_1C | [link](https://github.com/shpinderworka/rep_pav_1C) |  |  |  |
-| sikuda/widget | [link](https://github.com/sikuda/widget) | 0 | 0 | 0 |
 | silverbulleters/sonar-l10n-ru | [link](https://github.com/silverbulleters/sonar-l10n-ru) |  |  |  |
 | silverbulleters/vanessa-agiler | [link](https://github.com/silverbulleters/vanessa-agiler) |  |  |  |
 | silverbulleters/vanessa-behavior | [link](https://github.com/silverbulleters/vanessa-behavior) |  |  |  |
@@ -537,6 +542,7 @@
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
+| tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 0 |
 | tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 29 | 29 | 4 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
@@ -551,14 +557,13 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 188 | 188 | 74 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 189 | 189 | 74 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
 | YuriyTsoy/work2 | [link](https://github.com/YuriyTsoy/work2) | 0 | 0 | 0 |
 | ZhdanovR/editWorkingGroup | [link](https://github.com/ZhdanovR/editWorkingGroup) | 0 | 0 | 0 |
-| zulus100/BigFinalTask | [link](https://github.com/zulus100/BigFinalTask) | 1 | 1 | 0 |
 | zulus100/Final | [link](https://github.com/zulus100/Final) |  |  |  |
 | zulus100/lesson2 | [link](https://github.com/zulus100/lesson2) | 1 | 1 | 0 |
 | zulus100/lesson3 | [link](https://github.com/zulus100/lesson3) | 1 | 1 | 0 |
@@ -567,7 +572,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 171
+Общее количество репозиториев: 172
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -633,6 +638,7 @@
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | isa-1/OneScript | [link](https://github.com/isa-1/OneScript) |  |  |  |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
+| karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
 | KazaxLooksAtYou/Akzhol | [link](https://github.com/KazaxLooksAtYou/Akzhol) |  |  |  |
