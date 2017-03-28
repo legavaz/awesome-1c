@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 27.03.2017 5:15:03
+Актуальность: 28.03.2017 5:15:08
 
 ## Пользователи
 
-Общее количество пользователей: 224
-Всего репозиториев: 389
+Общее количество пользователей: 227
+Всего репозиториев: 391
 
 | Пользователь | Акаунт |
 ---|---|
@@ -73,8 +73,10 @@
 | dimkas71 | [link](https://github.com/dimkas71) |
 | DitriXNew | [link](https://github.com/DitriXNew) |
 | Diversus23 | [link](https://github.com/Diversus23) |
+| dkodnik | [link](https://github.com/dkodnik) |
 | dlebedev | [link](https://github.com/dlebedev) |
 | DmitriyShevchenko | [link](https://github.com/DmitriyShevchenko) |
+| dmnblg | [link](https://github.com/dmnblg) |
 | dmpas | [link](https://github.com/dmpas) |
 | Doom2w | [link](https://github.com/Doom2w) |
 | durovmn | [link](https://github.com/durovmn) |
@@ -91,6 +93,7 @@
 | fenixnow | [link](https://github.com/fenixnow) |
 | flex81 | [link](https://github.com/flex81) |
 | Fox-trot | [link](https://github.com/Fox-trot) |
+| FrederickPullen | [link](https://github.com/FrederickPullen) |
 | Freeman391 | [link](https://github.com/Freeman391) |
 | ghostpast | [link](https://github.com/ghostpast) |
 | git22ura | [link](https://github.com/git22ura) |
@@ -238,7 +241,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 323
+Общее количество репозиториев: 324
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -330,9 +333,11 @@
 | dimkas71/Simple-firm-management | [link](https://github.com/dimkas71/Simple-firm-management) | 0 | 0 | 0 |
 | DitriXNew/BelMob | [link](https://github.com/DitriXNew/BelMob) | 0 | 0 | 0 |
 | Diversus23/uni_script | [link](https://github.com/Diversus23/uni_script) |  |  |  |
+| dkodnik/1cxmpp | [link](https://github.com/dkodnik/1cxmpp) | 4 | 4 | 1 |
 | dlebedev/all1c | [link](https://github.com/dlebedev/all1c) | 0 | 0 | 0 |
 | DmitriyShevchenko/GitRep | [link](https://github.com/DmitriyShevchenko/GitRep) | 0 | 0 | 0 |
 | DmitriyShevchenko/testrep | [link](https://github.com/DmitriyShevchenko/testrep) | 0 | 0 | 0 |
+| dmnblg/contracts | [link](https://github.com/dmnblg/contracts) | 0 | 0 | 0 |
 | dmpas/odnoskobka | [link](https://github.com/dmpas/odnoskobka) |  |  |  |
 | dmpas/oscript-component-example | [link](https://github.com/dmpas/oscript-component-example) |  |  |  |
 | Doom2w/All1C | [link](https://github.com/Doom2w/All1C) | 0 | 0 | 0 |
@@ -391,7 +396,6 @@
 | KrapivinAndrey/Pivo_PrnForms | [link](https://github.com/KrapivinAndrey/Pivo_PrnForms) | 0 | 0 | 0 |
 | KrapivinAndrey/Pivo_Reports | [link](https://github.com/KrapivinAndrey/Pivo_Reports) | 0 | 0 | 0 |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
-| KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
 | krugersu/ext_work | [link](https://github.com/krugersu/ext_work) | 0 | 0 | 0 |
 | Kvint777/Cashholder | [link](https://github.com/Kvint777/Cashholder) | 0 | 0 | 0 |
@@ -436,6 +440,7 @@
 | OffChar1C/123 | [link](https://github.com/OffChar1C/123) | 0 | 0 | 0 |
 | o-homyak/finaltask | [link](https://github.com/o-homyak/finaltask) |  |  |  |
 | o-homyak/learnGitFor1C | [link](https://github.com/o-homyak/learnGitFor1C) |  |  |  |
+| oleynikova/learning-industry_standards | [link](https://github.com/oleynikova/learning-industry_standards) |  |  |  |
 | OMasterskikh/lecture-2 | [link](https://github.com/OMasterskikh/lecture-2) | 0 | 0 | 0 |
 | OMasterskikh/lecture-3 | [link](https://github.com/OMasterskikh/lecture-3) | 0 | 0 | 0 |
 | oscript-library/asserts | [link](https://github.com/oscript-library/asserts) |  |  |  |
@@ -520,7 +525,7 @@
 | Simon250388/Storage | [link](https://github.com/Simon250388/Storage) | 0 | 0 | 0 |
 | slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | Smilebringer/itsk | [link](https://github.com/Smilebringer/itsk) | 0 | 0 | 0 |
-| SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
+| SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) | 3 | 3 | 5 |
 | smykalovaa/rcuo-testing-first | [link](https://github.com/smykalovaa/rcuo-testing-first) | 1 | 1 | 0 |
 | smykalovaa/rcuo-trusovo-epf | [link](https://github.com/smykalovaa/rcuo-trusovo-epf) | 0 | 0 | 0 |
 | sovetnikoffice/work1 | [link](https://github.com/sovetnikoffice/work1) | 1 | 1 | 0 |
@@ -540,7 +545,7 @@
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 0 |
-| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 29 | 29 | 4 |
+| tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 29 | 29 | 5 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
 | urasovd/all1c | [link](https://github.com/urasovd/all1c) | 0 | 0 | 0 |
@@ -554,14 +559,13 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 190 | 190 | 74 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 190 | 190 | 75 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 0 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
 | YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x | [link](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | 1 | 1 | 0 |
 | YuriyTsoy/work2 | [link](https://github.com/YuriyTsoy/work2) | 0 | 0 | 0 |
 | ZhdanovR/editWorkingGroup | [link](https://github.com/ZhdanovR/editWorkingGroup) | 0 | 0 | 0 |
-| zulus100/BigFinalTask | [link](https://github.com/zulus100/BigFinalTask) | 1 | 1 | 0 |
 | zulus100/Final | [link](https://github.com/zulus100/Final) |  |  |  |
 | zulus100/lesson2 | [link](https://github.com/zulus100/lesson2) | 1 | 1 | 0 |
 | zulus100/lesson3 | [link](https://github.com/zulus100/lesson3) | 1 | 1 | 0 |
@@ -629,6 +633,7 @@
 | EvilBeaver/oscript-library | [link](https://github.com/EvilBeaver/oscript-library) |  |  |  |
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
 | flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) |  |  |  |
+| FrederickPullen/upgraded-computing-machine | [link](https://github.com/FrederickPullen/upgraded-computing-machine) |  |  |  |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
 | git22ura/dz3 | [link](https://github.com/git22ura/dz3) |  |  |  |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
@@ -645,7 +650,6 @@
 | KrapivinAndrey/1c_AutoStartACC | [link](https://github.com/KrapivinAndrey/1c_AutoStartACC) |  |  |  |
 | KrapivinAndrey/Pivo_ExtForms | [link](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |  |  |
 | KrapivinAndrey/SKB_Focus | [link](https://github.com/KrapivinAndrey/SKB_Focus) |  |  |  |
-| KrapivinAndrey/Studing | [link](https://github.com/KrapivinAndrey/Studing) |  |  |  |
 | KrapivinAndrey/Warehouse | [link](https://github.com/KrapivinAndrey/Warehouse) |  |  |  |
 | kseniyaloza/note-cheker | [link](https://github.com/kseniyaloza/note-cheker) |  |  |  |
 | kuntashov/oscript-bsl-github-stats | [link](https://github.com/kuntashov/oscript-bsl-github-stats) |  |  |  |
@@ -693,6 +697,7 @@
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
 | popiksergey/work3 | [link](https://github.com/popiksergey/work3) |  |  |  |
+| pumbaEO/onec-syntaxparser | [link](https://github.com/pumbaEO/onec-syntaxparser) |  |  |  |
 | pumbaEO/precommit1c | [link](https://github.com/pumbaEO/precommit1c) |  |  |  |
 | pumbaEO/vanessa-behavior-tets | [link](https://github.com/pumbaEO/vanessa-behavior-tets) |  |  |  |
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
@@ -720,7 +725,6 @@
 | silverbulleters/vanessa-unpack | [link](https://github.com/silverbulleters/vanessa-unpack) |  |  |  |
 | silverbulleters-research/oscript-eco | [link](https://github.com/silverbulleters-research/oscript-eco) |  |  |  |
 | slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
-| SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
