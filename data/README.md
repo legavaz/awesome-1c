@@ -1,10 +1,10 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 01.04.2017 5:15:05
+Актуальность: 02.04.2017 5:15:05
 
 ## Пользователи
 
-Общее количество пользователей: 230
+Общее количество пользователей: 228
 Всего репозиториев: 391
 
 | Пользователь | Акаунт |
@@ -23,7 +23,6 @@
 | Aevarandi | [link](https://github.com/Aevarandi) |
 | AGPonomarev | [link](https://github.com/AGPonomarev) |
 | aKomper | [link](https://github.com/aKomper) |
-| a-kunilov | [link](https://github.com/a-kunilov) |
 | AleksandrAkhunov | [link](https://github.com/AleksandrAkhunov) |
 | Aleksandr-rtu | [link](https://github.com/Aleksandr-rtu) |
 | Aletar | [link](https://github.com/Aletar) |
@@ -33,7 +32,6 @@
 | AlexStrizh | [link](https://github.com/AlexStrizh) |
 | AllexxYu | [link](https://github.com/AllexxYu) |
 | allustin | [link](https://github.com/allustin) |
-| AlmazNasibullin | [link](https://github.com/AlmazNasibullin) |
 | alsknar | [link](https://github.com/alsknar) |
 | Amon-Ra- | [link](https://github.com/Amon-Ra-) |
 | AnanyevAl | [link](https://github.com/AnanyevAl) |
@@ -69,7 +67,6 @@
 | ctuning | [link](https://github.com/ctuning) |
 | cybjavax | [link](https://github.com/cybjavax) |
 | dattk | [link](https://github.com/dattk) |
-| dchernykhss | [link](https://github.com/dchernykhss) |
 | demidych | [link](https://github.com/demidych) |
 | deputatov | [link](https://github.com/deputatov) |
 | dimkas71 | [link](https://github.com/dimkas71) |
@@ -173,6 +170,7 @@
 | pumbaEO | [link](https://github.com/pumbaEO) |
 | purtcer | [link](https://github.com/purtcer) |
 | raevsky66 | [link](https://github.com/raevsky66) |
+| rai-project | [link](https://github.com/rai-project) |
 | raphaeldore | [link](https://github.com/raphaeldore) |
 | rarus-view | [link](https://github.com/rarus-view) |
 | rasswett | [link](https://github.com/rasswett) |
@@ -195,11 +193,11 @@
 | Simon250388 | [link](https://github.com/Simon250388) |
 | slaxxals | [link](https://github.com/slaxxals) |
 | Smilebringer | [link](https://github.com/Smilebringer) |
-| SmileDDD | [link](https://github.com/SmileDDD) |
 | SmokyAce | [link](https://github.com/SmokyAce) |
 | smykalovaa | [link](https://github.com/smykalovaa) |
 | sovetnikoffice | [link](https://github.com/sovetnikoffice) |
 | SpaceHead1C | [link](https://github.com/SpaceHead1C) |
+| Spider244 | [link](https://github.com/Spider244) |
 | Stark-92 | [link](https://github.com/Stark-92) |
 | Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
@@ -266,7 +264,6 @@
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
-| a-kunilov/my1c | [link](https://github.com/a-kunilov/my1c) | 0 | 0 | 0 |
 | AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | alexandro32/Restruct | [link](https://github.com/alexandro32/Restruct) |  |  |  |
@@ -275,7 +272,6 @@
 | AlexStrizh/1c | [link](https://github.com/AlexStrizh/1c) | 0 | 0 | 0 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
-| AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
 | alsknar/1c_reports | [link](https://github.com/alsknar/1c_reports) | 0 | 0 | 0 |
 | Amon-Ra-/DiscountReport | [link](https://github.com/Amon-Ra-/DiscountReport) | 0 | 0 | 0 |
 | Amon-Ra-/SalesAssistant | [link](https://github.com/Amon-Ra-/SalesAssistant) | 0 | 0 | 1 |
@@ -327,8 +323,8 @@
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 31 | 31 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
+| cybjavax/AOscripts | [link](https://github.com/cybjavax/AOscripts) |  |  |  |
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
-| dchernykhss/BDDLearning | [link](https://github.com/dchernykhss/BDDLearning) | 1 | 1 | 1 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
 | deputatov/homework1 | [link](https://github.com/deputatov/homework1) | 0 | 0 | 0 |
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
@@ -378,7 +374,7 @@
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) | 1 | 1 | 0 |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
@@ -402,6 +398,7 @@
 | Kvint777/Cashholder | [link](https://github.com/Kvint777/Cashholder) | 0 | 0 | 0 |
 | Laddy2016/DevStudy1C | [link](https://github.com/Laddy2016/DevStudy1C) |  |  |  |
 | latestalexey/BDD_EDU_1c | [link](https://github.com/latestalexey/BDD_EDU_1c) |  |  |  |
+| latestalexey/BDDLearning | [link](https://github.com/latestalexey/BDDLearning) | 0 | 0 | 0 |
 | latestalexey/external-files-1C | [link](https://github.com/latestalexey/external-files-1C) | 0 | 0 | 0 |
 | latestalexey/Infostart_1199_HomeWork | [link](https://github.com/latestalexey/Infostart_1199_HomeWork) | 0 | 0 | 0 |
 | latestalexey/lesson_bdd_1c_01 | [link](https://github.com/latestalexey/lesson_bdd_1c_01) | 0 | 0 | 0 |
@@ -459,6 +456,7 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 1 |
+| Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 2 | 2 | 1 |
@@ -526,12 +524,12 @@
 | Simon250388/Storage | [link](https://github.com/Simon250388/Storage) | 0 | 0 | 0 |
 | slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | Smilebringer/itsk | [link](https://github.com/Smilebringer/itsk) | 0 | 0 | 0 |
-| SmileDDD/-1- | [link](https://github.com/SmileDDD/-1-) | 0 | 0 | 0 |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | smykalovaa/rcuo-testing-first | [link](https://github.com/smykalovaa/rcuo-testing-first) | 1 | 1 | 0 |
 | smykalovaa/rcuo-trusovo-epf | [link](https://github.com/smykalovaa/rcuo-trusovo-epf) | 0 | 0 | 0 |
 | sovetnikoffice/work1 | [link](https://github.com/sovetnikoffice/work1) | 1 | 1 | 0 |
 | SpaceHead1C/hw4 | [link](https://github.com/SpaceHead1C/hw4) | 0 | 0 | 0 |
+| Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
 | Stepa86/1C-activity | [link](https://github.com/Stepa86/1C-activity) | 14 | 14 | 2 |
 | Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 6 | 6 | 2 |
@@ -642,7 +640,6 @@
 | github/linguist | [link](https://github.com/github/linguist) |  |  |  |
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | isa-1/OneScript | [link](https://github.com/isa-1/OneScript) |  |  |  |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
@@ -703,6 +700,7 @@
 | pumbaEO/xUnitfor1Csrc | [link](https://github.com/pumbaEO/xUnitfor1Csrc) |  |  |  |
 | purtcer/OneScriptsMain | [link](https://github.com/purtcer/OneScriptsMain) |  |  |  |
 | raevsky66/1cTest | [link](https://github.com/raevsky66/1cTest) |  |  |  |
+| rai-project/linguist | [link](https://github.com/rai-project/linguist) |  |  |  |
 | ret-Phoenix/1CAutotestGenerator | [link](https://github.com/ret-Phoenix/1CAutotestGenerator) |  |  |  |
 | ret-Phoenix/autoupdatecfg | [link](https://github.com/ret-Phoenix/autoupdatecfg) |  |  |  |
 | ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
