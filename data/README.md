@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 02.04.2017 5:15:05
+Актуальность: 03.04.2017 5:15:05
 
 ## Пользователи
 
@@ -541,7 +541,7 @@
 | swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
 | Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
+| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) | 3 | 3 | 2 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 1 |
@@ -575,7 +575,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 170
+Общее количество репозиториев: 169
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -728,7 +728,6 @@
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
 | Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
 | timofeys/first-test | [link](https://github.com/timofeys/first-test) |  |  |  |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
