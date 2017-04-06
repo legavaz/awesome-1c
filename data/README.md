@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 05.04.2017 5:15:08
+Актуальность: 06.04.2017 5:15:08
 
 ## Пользователи
 
@@ -377,7 +377,7 @@
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) | 1 | 1 | 0 |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
@@ -536,7 +536,7 @@
 | Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
 | Stepa86/1C-activity | [link](https://github.com/Stepa86/1C-activity) | 14 | 14 | 2 |
-| Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 6 | 6 | 2 |
+| Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 6 | 6 | 3 |
 | Stepa86/oScript-Examples | [link](https://github.com/Stepa86/oScript-Examples) |  |  |  |
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
@@ -564,7 +564,7 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 191 | 191 | 75 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 192 | 192 | 75 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 1 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -579,7 +579,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 170
+Общее количество репозиториев: 171
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -644,6 +644,7 @@
 | github/linguist | [link](https://github.com/github/linguist) |  |  |  |
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | isa-1/OneScript | [link](https://github.com/isa-1/OneScript) |  |  |  |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
