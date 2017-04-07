@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 06.04.2017 5:15:08
+Актуальность: 07.04.2017 5:15:34
 
 ## Пользователи
 
-Общее количество пользователей: 230
-Всего репозиториев: 393
+Общее количество пользователей: 229
+Всего репозиториев: 392
 
 | Пользователь | Акаунт |
 ---|---|
@@ -216,7 +216,6 @@
 | tormozit | [link](https://github.com/tormozit) |
 | tropicgroup | [link](https://github.com/tropicgroup) |
 | tsv70 | [link](https://github.com/tsv70) |
-| Tur8008 | [link](https://github.com/Tur8008) |
 | urasovd | [link](https://github.com/urasovd) |
 | vadimitr | [link](https://github.com/vadimitr) |
 | valafan | [link](https://github.com/valafan) |
@@ -244,7 +243,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 326
+Общее количество репозиториев: 325
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -471,7 +470,7 @@
 | Oxotka/SendToSupportTrade | [link](https://github.com/Oxotka/SendToSupportTrade) | 2 | 2 | 1 |
 | Oxotka/VerificationOfRegulatoryReports | [link](https://github.com/Oxotka/VerificationOfRegulatoryReports) | 0 | 0 | 0 |
 | pallid/EnchantSrv | [link](https://github.com/pallid/EnchantSrv) |  |  |  |
-| pbazeliuk/OutputProcessorExtension | [link](https://github.com/pbazeliuk/OutputProcessorExtension) | 10 | 10 | 3 |
+| pbazeliuk/OutputProcessorExtension | [link](https://github.com/pbazeliuk/OutputProcessorExtension) | 11 | 11 | 3 |
 | pboykov69/hometask_1 | [link](https://github.com/pboykov69/hometask_1) | 1 | 1 | 0 |
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
@@ -552,7 +551,6 @@
 | tormozit/1C-Runtime-Developer-Tools | [link](https://github.com/tormozit/1C-Runtime-Developer-Tools) | 29 | 29 | 5 |
 | tropicgroup/test1 | [link](https://github.com/tropicgroup/test1) | 0 | 0 | 0 |
 | tsv70/xUnitFor1C | [link](https://github.com/tsv70/xUnitFor1C) | 0 | 0 | 0 |
-| Tur8008/unf_bit | [link](https://github.com/Tur8008/unf_bit) | 0 | 0 | 0 |
 | urasovd/all1c | [link](https://github.com/urasovd/all1c) | 0 | 0 | 0 |
 | vadimitr/FinalTask | [link](https://github.com/vadimitr/FinalTask) | 0 | 0 | 0 |
 | ValerijBel/Infostart_1199_FinalTask | [link](https://github.com/ValerijBel/Infostart_1199_FinalTask) | 0 | 0 | 1 |
