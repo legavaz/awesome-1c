@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 08.04.2017 5:15:37
+Актуальность: 09.04.2017 5:15:16
 
 ## Пользователи
 
-Общее количество пользователей: 229
-Всего репозиториев: 392
+Общее количество пользователей: 230
+Всего репозиториев: 395
 
 | Пользователь | Акаунт |
 ---|---|
@@ -18,6 +18,7 @@
 | 1cVitalik | [link](https://github.com/1cVitalik) |
 | 1cwin | [link](https://github.com/1cwin) |
 | 1dimir | [link](https://github.com/1dimir) |
+| 9lobal | [link](https://github.com/9lobal) |
 | AAGavrilov | [link](https://github.com/AAGavrilov) |
 | AdnreyGranenkin | [link](https://github.com/AdnreyGranenkin) |
 | Aevarandi | [link](https://github.com/Aevarandi) |
@@ -70,6 +71,7 @@
 | dattk | [link](https://github.com/dattk) |
 | demidych | [link](https://github.com/demidych) |
 | deputatov | [link](https://github.com/deputatov) |
+| dimkas71 | [link](https://github.com/dimkas71) |
 | DitriXNew | [link](https://github.com/DitriXNew) |
 | Diversus23 | [link](https://github.com/Diversus23) |
 | dkodnik | [link](https://github.com/dkodnik) |
@@ -81,7 +83,6 @@
 | durovmn | [link](https://github.com/durovmn) |
 | EDV-Lotsen | [link](https://github.com/EDV-Lotsen) |
 | Ekopylov | [link](https://github.com/Ekopylov) |
-| ElectroService | [link](https://github.com/ElectroService) |
 | eliseeva | [link](https://github.com/eliseeva) |
 | EShchavleva | [link](https://github.com/EShchavleva) |
 | eSTau | [link](https://github.com/eSTau) |
@@ -199,7 +200,6 @@
 | smykalovaa | [link](https://github.com/smykalovaa) |
 | sovetnikoffice | [link](https://github.com/sovetnikoffice) |
 | SpaceHead1C | [link](https://github.com/SpaceHead1C) |
-| Spider244 | [link](https://github.com/Spider244) |
 | Stark-92 | [link](https://github.com/Stark-92) |
 | Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
@@ -230,6 +230,7 @@
 | VladimirLitvinenko84 | [link](https://github.com/VladimirLitvinenko84) |
 | vpozdnyakov | [link](https://github.com/vpozdnyakov) |
 | vsuh | [link](https://github.com/vsuh) |
+| WinnerBoy101 | [link](https://github.com/WinnerBoy101) |
 | xDrivenDevelopment | [link](https://github.com/xDrivenDevelopment) |
 | xzfantom | [link](https://github.com/xzfantom) |
 | yabrus | [link](https://github.com/yabrus) |
@@ -243,7 +244,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 325
+Общее количество репозиториев: 327
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -260,6 +261,7 @@
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
 | 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
+| 9lobal/source-1s | [link](https://github.com/9lobal/source-1s) | 0 | 0 | 0 |
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
 | AdnreyGranenkin/tvb8 | [link](https://github.com/AdnreyGranenkin/tvb8) |  |  |  |
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
@@ -332,6 +334,7 @@
 | deputatov/homework2 | [link](https://github.com/deputatov/homework2) | 0 | 0 | 0 |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
+| dimkas71/Simple-firm-management | [link](https://github.com/dimkas71/Simple-firm-management) | 0 | 0 | 1 |
 | DitriXNew/BelMob | [link](https://github.com/DitriXNew/BelMob) | 0 | 0 | 0 |
 | Diversus23/uni_script | [link](https://github.com/Diversus23/uni_script) |  |  |  |
 | dkodnik/1cxmpp | [link](https://github.com/dkodnik/1cxmpp) | 4 | 4 | 1 |
@@ -345,7 +348,6 @@
 | durovmn/money | [link](https://github.com/durovmn/money) | 0 | 0 | 0 |
 | EDV-Lotsen/1C-AccountingSuite | [link](https://github.com/EDV-Lotsen/1C-AccountingSuite) | 0 | 0 | 1 |
 | Ekopylov/work2 | [link](https://github.com/Ekopylov/work2) | 0 | 0 | 0 |
-| ElectroService/WAP_1C | [link](https://github.com/ElectroService/WAP_1C) | 0 | 0 | 0 |
 | eliseeva/all1c | [link](https://github.com/eliseeva/all1c) | 0 | 0 | 0 |
 | EShchavleva/Test-repository | [link](https://github.com/EShchavleva/Test-repository) | 0 | 0 | 0 |
 | eSTau/Converter_Markdown | [link](https://github.com/eSTau/Converter_Markdown) | 0 | 0 | 0 |
@@ -376,7 +378,7 @@
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) | 1 | 1 | 0 |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
@@ -489,6 +491,7 @@
 | PrivalovN/HomeBib | [link](https://github.com/PrivalovN/HomeBib) | 0 | 0 | 0 |
 | progromaking/data_generator_for_1C | [link](https://github.com/progromaking/data_generator_for_1C) | 5 | 5 | 2 |
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
+| progromaking/templates | [link](https://github.com/progromaking/templates) | 2 | 2 | 0 |
 | psyriccio/regex1c | [link](https://github.com/psyriccio/regex1c) | 4 | 4 | 0 |
 | pumbaEO/testsync | [link](https://github.com/pumbaEO/testsync) | 1 | 1 | 1 |
 | purtcer/Algoritms | [link](https://github.com/purtcer/Algoritms) | 0 | 0 | 0 |
@@ -532,7 +535,6 @@
 | smykalovaa/rcuo-trusovo-epf | [link](https://github.com/smykalovaa/rcuo-trusovo-epf) | 0 | 0 | 0 |
 | sovetnikoffice/work1 | [link](https://github.com/sovetnikoffice/work1) | 1 | 1 | 0 |
 | SpaceHead1C/hw4 | [link](https://github.com/SpaceHead1C/hw4) | 0 | 0 | 0 |
-| Spider244/BDDLearning | [link](https://github.com/Spider244/BDDLearning) | 1 | 1 | 0 |
 | Stark-92/Sniffer-C-Sharp | [link](https://github.com/Stark-92/Sniffer-C-Sharp) | 0 | 0 | 0 |
 | Stepa86/1C-activity | [link](https://github.com/Stepa86/1C-activity) | 14 | 14 | 2 |
 | Stepa86/1C-Tasks-for-web | [link](https://github.com/Stepa86/1C-Tasks-for-web) | 6 | 6 | 3 |
@@ -562,6 +564,7 @@
 | VitaliyCeban/BDD_Lesson03 | [link](https://github.com/VitaliyCeban/BDD_Lesson03) | 0 | 0 | 0 |
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
+| WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
 | xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 192 | 192 | 75 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 1 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
@@ -577,7 +580,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 170
+Общее количество репозиториев: 172
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -625,6 +628,7 @@
 | dmpas/MonoDevelop-OneScript | [link](https://github.com/dmpas/MonoDevelop-OneScript) |  |  |  |
 | dmpas/odnoskobka | [link](https://github.com/dmpas/odnoskobka) |  |  |  |
 | dmpas/oscript-component-example | [link](https://github.com/dmpas/oscript-component-example) |  |  |  |
+| dmpas/oscript-ftp | [link](https://github.com/dmpas/oscript-ftp) |  |  |  |
 | dmpas/oscript-mail | [link](https://github.com/dmpas/oscript-mail) |  |  |  |
 | dmpas/oscript-network | [link](https://github.com/dmpas/oscript-network) |  |  |  |
 | dmpas/oscript-soap | [link](https://github.com/dmpas/oscript-soap) |  |  |  |
@@ -642,6 +646,7 @@
 | github/linguist | [link](https://github.com/github/linguist) |  |  |  |
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | isa-1/OneScript | [link](https://github.com/isa-1/OneScript) |  |  |  |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
