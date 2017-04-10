@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 09.04.2017 5:15:16
+Актуальность: 10.04.2017 5:15:11
 
 ## Пользователи
 
-Общее количество пользователей: 230
-Всего репозиториев: 395
+Общее количество пользователей: 235
+Всего репозиториев: 397
 
 | Пользователь | Акаунт |
 ---|---|
@@ -24,6 +24,7 @@
 | Aevarandi | [link](https://github.com/Aevarandi) |
 | AGPonomarev | [link](https://github.com/AGPonomarev) |
 | aKomper | [link](https://github.com/aKomper) |
+| a-kunilov | [link](https://github.com/a-kunilov) |
 | AleksandrAkhunov | [link](https://github.com/AleksandrAkhunov) |
 | Aleksandr-rtu | [link](https://github.com/Aleksandr-rtu) |
 | Aletar | [link](https://github.com/Aletar) |
@@ -33,6 +34,7 @@
 | AlexStrizh | [link](https://github.com/AlexStrizh) |
 | AllexxYu | [link](https://github.com/AllexxYu) |
 | allustin | [link](https://github.com/allustin) |
+| AlmazNasibullin | [link](https://github.com/AlmazNasibullin) |
 | alsknar | [link](https://github.com/alsknar) |
 | Amon-Ra- | [link](https://github.com/Amon-Ra-) |
 | AnanyevAl | [link](https://github.com/AnanyevAl) |
@@ -67,6 +69,7 @@
 | codenull | [link](https://github.com/codenull) |
 | CryptedSky | [link](https://github.com/CryptedSky) |
 | ctuning | [link](https://github.com/ctuning) |
+| cupertino1 | [link](https://github.com/cupertino1) |
 | cybjavax | [link](https://github.com/cybjavax) |
 | dattk | [link](https://github.com/dattk) |
 | demidych | [link](https://github.com/demidych) |
@@ -97,6 +100,7 @@
 | ghostpast | [link](https://github.com/ghostpast) |
 | git22ura | [link](https://github.com/git22ura) |
 | github | [link](https://github.com/github) |
+| grumagargler | [link](https://github.com/grumagargler) |
 | hairman | [link](https://github.com/hairman) |
 | haleevra | [link](https://github.com/haleevra) |
 | harisov-r | [link](https://github.com/harisov-r) |
@@ -196,6 +200,7 @@
 | Simon250388 | [link](https://github.com/Simon250388) |
 | slaxxals | [link](https://github.com/slaxxals) |
 | Smilebringer | [link](https://github.com/Smilebringer) |
+| SmileDDD | [link](https://github.com/SmileDDD) |
 | SmokyAce | [link](https://github.com/SmokyAce) |
 | smykalovaa | [link](https://github.com/smykalovaa) |
 | sovetnikoffice | [link](https://github.com/sovetnikoffice) |
@@ -244,7 +249,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 327
+Общее количество репозиториев: 328
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -253,7 +258,6 @@
 | 0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3 | [link](https://github.com/0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3) | 0 | 0 | 1 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
-| 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 62 | 62 | 36 |
 | 1cgh/emexunf | [link](https://github.com/1cgh/emexunf) | 0 | 0 | 0 |
@@ -267,6 +271,7 @@
 | Aevarandi/all1c | [link](https://github.com/Aevarandi/all1c) | 0 | 0 | 0 |
 | AGPonomarev/all1c | [link](https://github.com/AGPonomarev/all1c) | 0 | 0 | 0 |
 | aKomper/aKomper_1 | [link](https://github.com/aKomper/aKomper_1) | 0 | 0 | 0 |
+| a-kunilov/my1c | [link](https://github.com/a-kunilov/my1c) | 0 | 0 | 0 |
 | AleksandrAkhunov/Work3 | [link](https://github.com/AleksandrAkhunov/Work3) |  |  |  |
 | Aleksandr-rtu/all1c | [link](https://github.com/Aleksandr-rtu/all1c) | 0 | 0 | 0 |
 | alexandro32/Restruct | [link](https://github.com/alexandro32/Restruct) |  |  |  |
@@ -275,6 +280,7 @@
 | AlexStrizh/1c | [link](https://github.com/AlexStrizh/1c) | 0 | 0 | 0 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
+| AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
 | alsknar/1c_reports | [link](https://github.com/alsknar/1c_reports) | 0 | 0 | 0 |
 | Amon-Ra-/DiscountReport | [link](https://github.com/Amon-Ra-/DiscountReport) | 0 | 0 | 0 |
 | Amon-Ra-/SalesAssistant | [link](https://github.com/Amon-Ra-/SalesAssistant) | 0 | 0 | 1 |
@@ -325,6 +331,7 @@
 | codenull/ViewYmlFor1C | [link](https://github.com/codenull/ViewYmlFor1C) | 0 | 0 | 0 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 3 |
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 31 | 31 | 0 |
+| cupertino1/1c | [link](https://github.com/cupertino1/1c) | 0 | 0 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | cybjavax/AOscripts | [link](https://github.com/cybjavax/AOscripts) |  |  |  |
@@ -364,10 +371,11 @@
 | Fox-trot/Enigma | [link](https://github.com/Fox-trot/Enigma) | 0 | 0 | 0 |
 | Fox-trot/Gastronom | [link](https://github.com/Fox-trot/Gastronom) | 0 | 0 | 0 |
 | Fox-trot/scuola | [link](https://github.com/Fox-trot/scuola) | 0 | 0 | 0 |
-| Fox-trot/testing | [link](https://github.com/Fox-trot/testing) | 0 | 0 | 1 |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
 | ghostpast/carshowroom-1C | [link](https://github.com/ghostpast/carshowroom-1C) | 0 | 0 | 0 |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
+| grumagargler/CommonTests | [link](https://github.com/grumagargler/CommonTests) | 4 | 4 | 0 |
+| grumagargler/ERP2 | [link](https://github.com/grumagargler/ERP2) | 11 | 11 | 3 |
 | hairman/test1c | [link](https://github.com/hairman/test1c) | 0 | 0 | 0 |
 | haleevra/ciret_crm | [link](https://github.com/haleevra/ciret_crm) | 0 | 0 | 0 |
 | haleevra/msz | [link](https://github.com/haleevra/msz) | 0 | 0 | 0 |
@@ -378,7 +386,7 @@
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) | 1 | 1 | 0 |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
@@ -461,7 +469,6 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 1 |
-| Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 2 | 2 | 1 |
@@ -493,7 +500,6 @@
 | progromaking/magic | [link](https://github.com/progromaking/magic) | 0 | 0 | 1 |
 | progromaking/templates | [link](https://github.com/progromaking/templates) | 2 | 2 | 0 |
 | psyriccio/regex1c | [link](https://github.com/psyriccio/regex1c) | 4 | 4 | 0 |
-| pumbaEO/testsync | [link](https://github.com/pumbaEO/testsync) | 1 | 1 | 1 |
 | purtcer/Algoritms | [link](https://github.com/purtcer/Algoritms) | 0 | 0 | 0 |
 | purtcer/OneScriptsMain | [link](https://github.com/purtcer/OneScriptsMain) |  |  |  |
 | purtcer/WMSDemodDataGeneration | [link](https://github.com/purtcer/WMSDemodDataGeneration) | 0 | 0 | 1 |
@@ -528,8 +534,8 @@
 | silverbulleters/vanessa-runner | [link](https://github.com/silverbulleters/vanessa-runner) |  |  |  |
 | silverbulleters/vanessa-unpack | [link](https://github.com/silverbulleters/vanessa-unpack) |  |  |  |
 | Simon250388/Storage | [link](https://github.com/Simon250388/Storage) | 0 | 0 | 0 |
-| slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | Smilebringer/itsk | [link](https://github.com/Smilebringer/itsk) | 0 | 0 | 0 |
+| SmileDDD/-1- | [link](https://github.com/SmileDDD/-1-) | 0 | 0 | 0 |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
 | smykalovaa/rcuo-testing-first | [link](https://github.com/smykalovaa/rcuo-testing-first) | 1 | 1 | 0 |
 | smykalovaa/rcuo-trusovo-epf | [link](https://github.com/smykalovaa/rcuo-trusovo-epf) | 0 | 0 | 0 |
@@ -546,7 +552,7 @@
 | swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
 | Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
+| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) | 4 | 4 | 2 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 1 |
@@ -565,7 +571,7 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 192 | 192 | 75 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 193 | 193 | 75 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 1 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -580,7 +586,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 172
+Общее количество репозиториев: 170
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -646,7 +652,6 @@
 | github/linguist | [link](https://github.com/github/linguist) |  |  |  |
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | isa-1/OneScript | [link](https://github.com/isa-1/OneScript) |  |  |  |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
@@ -735,7 +740,6 @@
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
 | Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
 | timofeys/first-test | [link](https://github.com/timofeys/first-test) |  |  |  |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
