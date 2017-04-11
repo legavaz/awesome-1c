@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 10.04.2017 5:15:11
+Актуальность: 11.04.2017 5:15:16
 
 ## Пользователи
 
-Общее количество пользователей: 235
-Всего репозиториев: 397
+Общее количество пользователей: 236
+Всего репозиториев: 399
 
 | Пользователь | Акаунт |
 ---|---|
@@ -110,6 +110,7 @@
 | ilgizvip | [link](https://github.com/ilgizvip) |
 | isa-1 | [link](https://github.com/isa-1) |
 | isolarisi | [link](https://github.com/isolarisi) |
+| ital7 | [link](https://github.com/ital7) |
 | ivan-kovtun | [link](https://github.com/ivan-kovtun) |
 | jchibinin | [link](https://github.com/jchibinin) |
 | jifmarais | [link](https://github.com/jifmarais) |
@@ -188,6 +189,7 @@
 | RigsOfRods-Community | [link](https://github.com/RigsOfRods-Community) |
 | ripreal | [link](https://github.com/ripreal) |
 | RoxyRedFlame | [link](https://github.com/RoxyRedFlame) |
+| rustamx | [link](https://github.com/rustamx) |
 | SBurdin | [link](https://github.com/SBurdin) |
 | Schtass | [link](https://github.com/Schtass) |
 | sdoronin | [link](https://github.com/sdoronin) |
@@ -208,7 +210,6 @@
 | Stark-92 | [link](https://github.com/Stark-92) |
 | Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
-| swi2mer | [link](https://github.com/swi2mer) |
 | swzhukov | [link](https://github.com/swzhukov) |
 | Tamail | [link](https://github.com/Tamail) |
 | TechnoNIKOL | [link](https://github.com/TechnoNIKOL) |
@@ -249,7 +250,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 328
+Общее количество репозиториев: 331
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -371,6 +372,7 @@
 | Fox-trot/Enigma | [link](https://github.com/Fox-trot/Enigma) | 0 | 0 | 0 |
 | Fox-trot/Gastronom | [link](https://github.com/Fox-trot/Gastronom) | 0 | 0 | 0 |
 | Fox-trot/scuola | [link](https://github.com/Fox-trot/scuola) | 0 | 0 | 0 |
+| Fox-trot/testing | [link](https://github.com/Fox-trot/testing) | 0 | 0 | 1 |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
 | ghostpast/carshowroom-1C | [link](https://github.com/ghostpast/carshowroom-1C) | 0 | 0 | 0 |
 | git22ura/dz4 | [link](https://github.com/git22ura/dz4) |  |  |  |
@@ -386,6 +388,7 @@
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
+| ital7/- | [link](https://github.com/ital7/-) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) | 1 | 1 | 0 |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
@@ -519,6 +522,7 @@
 | RoxyRedFlame/FinalTask | [link](https://github.com/RoxyRedFlame/FinalTask) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork2 | [link](https://github.com/RoxyRedFlame/HomeWork2) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
+| rustamx/all1c | [link](https://github.com/rustamx/all1c) |  |  |  |
 | SBurdin/-2-BDD | [link](https://github.com/SBurdin/-2-BDD) | 0 | 0 | 0 |
 | Schtass/Edu | [link](https://github.com/Schtass/Edu) | 0 | 0 | 0 |
 | sdoronin/BDDLearnin | [link](https://github.com/sdoronin/BDDLearnin) | 0 | 0 | 0 |
@@ -534,6 +538,7 @@
 | silverbulleters/vanessa-runner | [link](https://github.com/silverbulleters/vanessa-runner) |  |  |  |
 | silverbulleters/vanessa-unpack | [link](https://github.com/silverbulleters/vanessa-unpack) |  |  |  |
 | Simon250388/Storage | [link](https://github.com/Simon250388/Storage) | 0 | 0 | 0 |
+| slaxxals/all1c | [link](https://github.com/slaxxals/all1c) |  |  |  |
 | Smilebringer/itsk | [link](https://github.com/Smilebringer/itsk) | 0 | 0 | 0 |
 | SmileDDD/-1- | [link](https://github.com/SmileDDD/-1-) | 0 | 0 | 0 |
 | SmokyAce/integration-1c-redmine | [link](https://github.com/SmokyAce/integration-1c-redmine) |  |  |  |
@@ -548,11 +553,10 @@
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
-| swi2mer/test-1c | [link](https://github.com/swi2mer/test-1c) | 0 | 0 | 0 |
 | swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
 | Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) | 4 | 4 | 2 |
+| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 1 |
@@ -586,7 +590,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 170
+Общее количество репозиториев: 172
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -721,6 +725,7 @@
 | ret-Phoenix/parserV8i | [link](https://github.com/ret-Phoenix/parserV8i) |  |  |  |
 | ret-Phoenix/v8CfgAddsAhk | [link](https://github.com/ret-Phoenix/v8CfgAddsAhk) |  |  |  |
 | RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
+| rustamx/all1c | [link](https://github.com/rustamx/all1c) |  |  |  |
 | SergeFocus/1C_ET | [link](https://github.com/SergeFocus/1C_ET) |  |  |  |
 | SergeFocus/bootstrap_for_erf_epf | [link](https://github.com/SergeFocus/bootstrap_for_erf_epf) |  |  |  |
 | SergeFocus/External_reports_processing_printing_plates_for_1C | [link](https://github.com/SergeFocus/External_reports_processing_printing_plates_for_1C) |  |  |  |
@@ -740,6 +745,7 @@
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
+| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
 | Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
 | timofeys/first-test | [link](https://github.com/timofeys/first-test) |  |  |  |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
