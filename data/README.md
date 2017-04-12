@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 11.04.2017 5:15:16
+Актуальность: 12.04.2017 5:15:22
 
 ## Пользователи
 
-Общее количество пользователей: 236
-Всего репозиториев: 399
+Общее количество пользователей: 237
+Всего репозиториев: 404
 
 | Пользователь | Акаунт |
 ---|---|
@@ -34,13 +34,13 @@
 | AlexStrizh | [link](https://github.com/AlexStrizh) |
 | AllexxYu | [link](https://github.com/AllexxYu) |
 | allustin | [link](https://github.com/allustin) |
-| AlmazNasibullin | [link](https://github.com/AlmazNasibullin) |
 | alsknar | [link](https://github.com/alsknar) |
 | Amon-Ra- | [link](https://github.com/Amon-Ra-) |
 | AnanyevAl | [link](https://github.com/AnanyevAl) |
 | AnatoliyBritko | [link](https://github.com/AnatoliyBritko) |
 | Andrefan85 | [link](https://github.com/Andrefan85) |
 | AndreFokin | [link](https://github.com/AndreFokin) |
+| AndreyZavarin | [link](https://github.com/AndreyZavarin) |
 | Anice17 | [link](https://github.com/Anice17) |
 | AntonSm2006 | [link](https://github.com/AntonSm2006) |
 | antowski | [link](https://github.com/antowski) |
@@ -210,6 +210,7 @@
 | Stark-92 | [link](https://github.com/Stark-92) |
 | Stepa86 | [link](https://github.com/Stepa86) |
 | Storm610 | [link](https://github.com/Storm610) |
+| StupnikovVG | [link](https://github.com/StupnikovVG) |
 | swzhukov | [link](https://github.com/swzhukov) |
 | Tamail | [link](https://github.com/Tamail) |
 | TechnoNIKOL | [link](https://github.com/TechnoNIKOL) |
@@ -250,7 +251,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 331
+Общее количество репозиториев: 335
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -259,12 +260,14 @@
 | 0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3 | [link](https://github.com/0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3) | 0 | 0 | 1 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
+| 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 62 | 62 | 36 |
 | 1cgh/emexunf | [link](https://github.com/1cgh/emexunf) | 0 | 0 | 0 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
+| 1dimir/1cbatch | [link](https://github.com/1dimir/1cbatch) | 0 | 0 | 0 |
 | 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
 | 9lobal/source-1s | [link](https://github.com/9lobal/source-1s) | 0 | 0 | 0 |
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
@@ -281,7 +284,6 @@
 | AlexStrizh/1c | [link](https://github.com/AlexStrizh/1c) | 0 | 0 | 0 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
-| AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
 | alsknar/1c_reports | [link](https://github.com/alsknar/1c_reports) | 0 | 0 | 0 |
 | Amon-Ra-/DiscountReport | [link](https://github.com/Amon-Ra-/DiscountReport) | 0 | 0 | 0 |
 | Amon-Ra-/SalesAssistant | [link](https://github.com/Amon-Ra-/SalesAssistant) | 0 | 0 | 1 |
@@ -291,6 +293,7 @@
 | Andrefan85/all1c | [link](https://github.com/Andrefan85/all1c) | 0 | 0 | 0 |
 | AndreFokin/HomeWork1 | [link](https://github.com/AndreFokin/HomeWork1) | 0 | 0 | 0 |
 | AndreFokin/HomeWork2 | [link](https://github.com/AndreFokin/HomeWork2) | 0 | 0 | 0 |
+| AndreyZavarin/zavod_1c | [link](https://github.com/AndreyZavarin/zavod_1c) | 0 | 0 | 0 |
 | Anice17/anice | [link](https://github.com/Anice17/anice) | 2 | 2 | 0 |
 | AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
 | antowski/recoder | [link](https://github.com/antowski/recoder) |  |  |  |
@@ -389,7 +392,7 @@
 | ilgizvip/git-kpmg | [link](https://github.com/ilgizvip/git-kpmg) | 0 | 0 | 0 |
 | isolarisi/mm2tex | [link](https://github.com/isolarisi/mm2tex) | 0 | 0 | 0 |
 | ital7/- | [link](https://github.com/ital7/-) | 0 | 0 | 0 |
-| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) | 1 | 1 | 0 |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
@@ -472,6 +475,7 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 1 |
+| Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 2 | 2 | 1 |
@@ -486,7 +490,7 @@
 | pboykov69/hometask_1 | [link](https://github.com/pboykov69/hometask_1) | 1 | 1 | 0 |
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
-| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
+| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) | 0 | 0 | 0 |
 | pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
 | pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
@@ -512,7 +516,7 @@
 | rasswett/dbor | [link](https://github.com/rasswett/dbor) | 2 | 2 | 0 |
 | regcpr1c/- | [link](https://github.com/regcpr1c/-) | 0 | 0 | 0 |
 | ret-Phoenix/ClassGenerator1CtoCSharp | [link](https://github.com/ret-Phoenix/ClassGenerator1CtoCSharp) | 3 | 3 | 0 |
-| ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
+| ret-Phoenix/OneScript-Interfaces | [link](https://github.com/ret-Phoenix/OneScript-Interfaces) |  |  |  |
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
 | ret-Phoenix/parserV8i | [link](https://github.com/ret-Phoenix/parserV8i) |  |  |  |
 | RfidCenter/GisMarkirovka1C | [link](https://github.com/RfidCenter/GisMarkirovka1C) | 0 | 0 | 0 |
@@ -553,10 +557,11 @@
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/FinalTaskRepo | [link](https://github.com/Storm610/FinalTaskRepo) | 0 | 0 | 0 |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
+| StupnikovVG/SBStudy | [link](https://github.com/StupnikovVG/SBStudy) | 0 | 0 | 0 |
 | swzhukov/Wizard | [link](https://github.com/swzhukov/Wizard) | 0 | 0 | 0 |
 | Tamail/1cBase | [link](https://github.com/Tamail/1cBase) | 0 | 0 | 0 |
 | TechnoNIKOL/1C_test | [link](https://github.com/TechnoNIKOL/1C_test) | 0 | 0 | 0 |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
+| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) | 4 | 4 | 2 |
 | timofeys/BigFinal | [link](https://github.com/timofeys/BigFinal) | 0 | 0 | 0 |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
 | tkalinvladimir/1C-epf-ecm | [link](https://github.com/tkalinvladimir/1C-epf-ecm) | 0 | 0 | 1 |
@@ -575,7 +580,7 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 193 | 193 | 75 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 193 | 193 | 76 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 1 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -656,6 +661,7 @@
 | github/linguist | [link](https://github.com/github/linguist) |  |  |  |
 | ikhlapov/all1c | [link](https://github.com/ikhlapov/all1c) |  |  |  |
 | isa-1/OneScript | [link](https://github.com/isa-1/OneScript) |  |  |  |
+| ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
 | kasperiks/training1C | [link](https://github.com/kasperiks/training1C) |  |  |  |
@@ -705,7 +711,6 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | pallid/EnchantSrv | [link](https://github.com/pallid/EnchantSrv) |  |  |  |
-| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | Petr28/test-atom | [link](https://github.com/Petr28/test-atom) |  |  |  |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
@@ -720,6 +725,7 @@
 | ret-Phoenix/1CAutotestGenerator | [link](https://github.com/ret-Phoenix/1CAutotestGenerator) |  |  |  |
 | ret-Phoenix/autoupdatecfg | [link](https://github.com/ret-Phoenix/autoupdatecfg) |  |  |  |
 | ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
+| ret-Phoenix/OneScript-Interfaces | [link](https://github.com/ret-Phoenix/OneScript-Interfaces) |  |  |  |
 | ret-Phoenix/oscript-simple-gui | [link](https://github.com/ret-Phoenix/oscript-simple-gui) |  |  |  |
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
 | ret-Phoenix/parserV8i | [link](https://github.com/ret-Phoenix/parserV8i) |  |  |  |
@@ -745,7 +751,6 @@
 | Stepa86/package-loader | [link](https://github.com/Stepa86/package-loader) |  |  |  |
 | Storm610/HomeTask1Repo | [link](https://github.com/Storm610/HomeTask1Repo) |  |  |  |
 | test4web/all1c | [link](https://github.com/test4web/all1c) |  |  |  |
-| theshadowco/progbar | [link](https://github.com/theshadowco/progbar) |  |  |  |
 | Theycallmedrworm/blair | [link](https://github.com/Theycallmedrworm/blair) |  |  |  |
 | timofeys/first-test | [link](https://github.com/timofeys/first-test) |  |  |  |
 | tixis/stydy | [link](https://github.com/tixis/stydy) |  |  |  |
