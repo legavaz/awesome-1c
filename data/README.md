@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 12.04.2017 5:15:22
+Актуальность: 13.04.2017 5:15:12
 
 ## Пользователи
 
-Общее количество пользователей: 237
-Всего репозиториев: 404
+Общее количество пользователей: 240
+Всего репозиториев: 405
 
 | Пользователь | Акаунт |
 ---|---|
@@ -34,12 +34,14 @@
 | AlexStrizh | [link](https://github.com/AlexStrizh) |
 | AllexxYu | [link](https://github.com/AllexxYu) |
 | allustin | [link](https://github.com/allustin) |
+| AlmazNasibullin | [link](https://github.com/AlmazNasibullin) |
 | alsknar | [link](https://github.com/alsknar) |
 | Amon-Ra- | [link](https://github.com/Amon-Ra-) |
 | AnanyevAl | [link](https://github.com/AnanyevAl) |
 | AnatoliyBritko | [link](https://github.com/AnatoliyBritko) |
 | Andrefan85 | [link](https://github.com/Andrefan85) |
 | AndreFokin | [link](https://github.com/AndreFokin) |
+| andreosh | [link](https://github.com/andreosh) |
 | AndreyZavarin | [link](https://github.com/AndreyZavarin) |
 | Anice17 | [link](https://github.com/Anice17) |
 | AntonSm2006 | [link](https://github.com/AntonSm2006) |
@@ -188,6 +190,7 @@
 | RigsOfRods | [link](https://github.com/RigsOfRods) |
 | RigsOfRods-Community | [link](https://github.com/RigsOfRods-Community) |
 | ripreal | [link](https://github.com/ripreal) |
+| rocvel | [link](https://github.com/rocvel) |
 | RoxyRedFlame | [link](https://github.com/RoxyRedFlame) |
 | rustamx | [link](https://github.com/rustamx) |
 | SBurdin | [link](https://github.com/SBurdin) |
@@ -251,7 +254,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 335
+Общее количество репозиториев: 337
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -260,14 +263,12 @@
 | 0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3 | [link](https://github.com/0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3) | 0 | 0 | 1 |
 | 1823244/CF | [link](https://github.com/1823244/CF) | 0 | 0 | 0 |
 | 1823244/CF3 | [link](https://github.com/1823244/CF3) | 0 | 0 | 0 |
-| 1823244/DealsViewer | [link](https://github.com/1823244/DealsViewer) | 1 | 1 | 0 |
 | 1823244/FIFO | [link](https://github.com/1823244/FIFO) | 0 | 0 | 0 |
 | 1C-Company/dt-demo-configuration | [link](https://github.com/1C-Company/dt-demo-configuration) | 62 | 62 | 36 |
 | 1cgh/emexunf | [link](https://github.com/1cgh/emexunf) | 0 | 0 | 0 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
 | 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
-| 1dimir/1cbatch | [link](https://github.com/1dimir/1cbatch) | 0 | 0 | 0 |
 | 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
 | 9lobal/source-1s | [link](https://github.com/9lobal/source-1s) | 0 | 0 | 0 |
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
@@ -284,6 +285,7 @@
 | AlexStrizh/1c | [link](https://github.com/AlexStrizh/1c) | 0 | 0 | 0 |
 | AllexxYu/Final | [link](https://github.com/AllexxYu/Final) | 0 | 0 | 0 |
 | AllexxYu/Sample | [link](https://github.com/AllexxYu/Sample) |  |  |  |
+| AlmazNasibullin/testDT | [link](https://github.com/AlmazNasibullin/testDT) | 0 | 0 | 0 |
 | alsknar/1c_reports | [link](https://github.com/alsknar/1c_reports) | 0 | 0 | 0 |
 | Amon-Ra-/DiscountReport | [link](https://github.com/Amon-Ra-/DiscountReport) | 0 | 0 | 0 |
 | Amon-Ra-/SalesAssistant | [link](https://github.com/Amon-Ra-/SalesAssistant) | 0 | 0 | 1 |
@@ -293,6 +295,7 @@
 | Andrefan85/all1c | [link](https://github.com/Andrefan85/all1c) | 0 | 0 | 0 |
 | AndreFokin/HomeWork1 | [link](https://github.com/AndreFokin/HomeWork1) | 0 | 0 | 0 |
 | AndreFokin/HomeWork2 | [link](https://github.com/AndreFokin/HomeWork2) | 0 | 0 | 0 |
+| andreosh/UfaScript | [link](https://github.com/andreosh/UfaScript) |  |  |  |
 | AndreyZavarin/zavod_1c | [link](https://github.com/AndreyZavarin/zavod_1c) | 0 | 0 | 0 |
 | Anice17/anice | [link](https://github.com/Anice17/anice) | 2 | 2 | 0 |
 | AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
@@ -337,7 +340,7 @@
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 31 | 31 | 0 |
 | cupertino1/1c | [link](https://github.com/cupertino1/1c) | 0 | 0 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
-| cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
+| cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) | 0 | 0 | 0 |
 | cybjavax/AOscripts | [link](https://github.com/cybjavax/AOscripts) |  |  |  |
 | dattk/test_app | [link](https://github.com/dattk/test_app) | 0 | 0 | 0 |
 | deputatov/big-final-task | [link](https://github.com/deputatov/big-final-task) | 0 | 0 | 0 |
@@ -347,7 +350,7 @@
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
 | dimkas71/Simple-firm-management | [link](https://github.com/dimkas71/Simple-firm-management) | 0 | 0 | 1 |
 | DitriXNew/BelMob | [link](https://github.com/DitriXNew/BelMob) | 0 | 0 | 0 |
-| Diversus23/uni_script | [link](https://github.com/Diversus23/uni_script) |  |  |  |
+| Diversus23/uni_script | [link](https://github.com/Diversus23/uni_script) | 2 | 2 | 1 |
 | dkodnik/1cxmpp | [link](https://github.com/dkodnik/1cxmpp) | 4 | 4 | 1 |
 | dlebedev/all1c | [link](https://github.com/dlebedev/all1c) | 0 | 0 | 0 |
 | DmitriyShevchenko/GitRep | [link](https://github.com/DmitriyShevchenko/GitRep) | 0 | 0 | 0 |
@@ -475,7 +478,6 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | Oxotka/Autobud | [link](https://github.com/Oxotka/Autobud) | 0 | 0 | 1 |
-| Oxotka/CutProfiles | [link](https://github.com/Oxotka/CutProfiles) | 0 | 0 | 0 |
 | Oxotka/Faximile | [link](https://github.com/Oxotka/Faximile) | 0 | 0 | 0 |
 | Oxotka/FirstLaunchBMS | [link](https://github.com/Oxotka/FirstLaunchBMS) | 0 | 0 | 0 |
 | Oxotka/HierarchyStructure | [link](https://github.com/Oxotka/HierarchyStructure) | 2 | 2 | 1 |
@@ -490,7 +492,7 @@
 | pboykov69/hometask_1 | [link](https://github.com/pboykov69/hometask_1) | 1 | 1 | 0 |
 | pboykov69/hometask_2 | [link](https://github.com/pboykov69/hometask_2) | 0 | 0 | 0 |
 | pboykov69/hometask_3 | [link](https://github.com/pboykov69/hometask_3) | 0 | 0 | 0 |
-| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) | 0 | 0 | 0 |
+| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | pila86/FlexyWMS | [link](https://github.com/pila86/FlexyWMS) | 0 | 0 | 0 |
 | pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
@@ -516,6 +518,7 @@
 | rasswett/dbor | [link](https://github.com/rasswett/dbor) | 2 | 2 | 0 |
 | regcpr1c/- | [link](https://github.com/regcpr1c/-) | 0 | 0 | 0 |
 | ret-Phoenix/ClassGenerator1CtoCSharp | [link](https://github.com/ret-Phoenix/ClassGenerator1CtoCSharp) | 3 | 3 | 0 |
+| ret-Phoenix/drafts | [link](https://github.com/ret-Phoenix/drafts) |  |  |  |
 | ret-Phoenix/OneScript-Interfaces | [link](https://github.com/ret-Phoenix/OneScript-Interfaces) |  |  |  |
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
 | ret-Phoenix/parserV8i | [link](https://github.com/ret-Phoenix/parserV8i) |  |  |  |
@@ -523,6 +526,8 @@
 | RigsOfRods/content | [link](https://github.com/RigsOfRods/content) | 0 | 0 | 1 |
 | RigsOfRods-Community/community-map | [link](https://github.com/RigsOfRods-Community/community-map) | 6 | 6 | 16 |
 | ripreal/1C_UI | [link](https://github.com/ripreal/1C_UI) | 0 | 0 | 0 |
+| rocvel/DeloiteJob | [link](https://github.com/rocvel/DeloiteJob) | 0 | 0 | 0 |
+| rocvel/ForDeloite | [link](https://github.com/rocvel/ForDeloite) | 0 | 0 | 0 |
 | RoxyRedFlame/FinalTask | [link](https://github.com/RoxyRedFlame/FinalTask) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork2 | [link](https://github.com/RoxyRedFlame/HomeWork2) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
@@ -580,7 +585,7 @@
 | VladimirLitvinenko84/repository_1c | [link](https://github.com/VladimirLitvinenko84/repository_1c) | 0 | 0 | 0 |
 | vpozdnyakov/YandexDiskExchangeXML | [link](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 0 | 0 | 0 |
 | WinnerBoy101/all1C | [link](https://github.com/WinnerBoy101/all1C) | 0 | 0 | 0 |
-| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 193 | 193 | 76 |
+| xDrivenDevelopment/xUnitFor1C | [link](https://github.com/xDrivenDevelopment/xUnitFor1C) | 193 | 193 | 75 |
 | xzfantom/UchetPacientovDop | [link](https://github.com/xzfantom/UchetPacientovDop) | 0 | 0 | 1 |
 | yabrus/BP_Backup | [link](https://github.com/yabrus/BP_Backup) |  |  |  |
 | yoyuyoppe/EPF | [link](https://github.com/yoyuyoppe/EPF) | 0 | 0 | 0 |
@@ -613,6 +618,7 @@
 | allustin/json-onescript-lib | [link](https://github.com/allustin/json-onescript-lib) |  |  |  |
 | allustin/note-checker | [link](https://github.com/allustin/note-checker) |  |  |  |
 | AnatoliyBritko/distr-build | [link](https://github.com/AnatoliyBritko/distr-build) |  |  |  |
+| andreosh/UfaScript | [link](https://github.com/andreosh/UfaScript) |  |  |  |
 | AntonSm2006/testrepo | [link](https://github.com/AntonSm2006/testrepo) |  |  |  |
 | antowski/recoder | [link](https://github.com/antowski/recoder) |  |  |  |
 | antowski/v7src | [link](https://github.com/antowski/v7src) |  |  |  |
@@ -634,12 +640,10 @@
 | BorisKem/kurs_prom_standart | [link](https://github.com/BorisKem/kurs_prom_standart) |  |  |  |
 | bytemdfab/OneLauncher | [link](https://github.com/bytemdfab/OneLauncher) |  |  |  |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
-| cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
 | cybjavax/AOscripts | [link](https://github.com/cybjavax/AOscripts) |  |  |  |
 | demidych/oscript-library-demidych | [link](https://github.com/demidych/oscript-library-demidych) |  |  |  |
 | deputatov/homework3 | [link](https://github.com/deputatov/homework3) |  |  |  |
 | deputatov/homework4 | [link](https://github.com/deputatov/homework4) |  |  |  |
-| Diversus23/uni_script | [link](https://github.com/Diversus23/uni_script) |  |  |  |
 | dmpas/MonoDevelop-OneScript | [link](https://github.com/dmpas/MonoDevelop-OneScript) |  |  |  |
 | dmpas/odnoskobka | [link](https://github.com/dmpas/odnoskobka) |  |  |  |
 | dmpas/oscript-component-example | [link](https://github.com/dmpas/oscript-component-example) |  |  |  |
@@ -711,6 +715,7 @@
 | oscript-library/tool1cd | [link](https://github.com/oscript-library/tool1cd) |  |  |  |
 | oscript-library/v8runner | [link](https://github.com/oscript-library/v8runner) |  |  |  |
 | pallid/EnchantSrv | [link](https://github.com/pallid/EnchantSrv) |  |  |  |
+| pboykov69/hometask_4 | [link](https://github.com/pboykov69/hometask_4) |  |  |  |
 | Petr28/test-atom | [link](https://github.com/Petr28/test-atom) |  |  |  |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | poabor/VideoCourse | [link](https://github.com/poabor/VideoCourse) |  |  |  |
