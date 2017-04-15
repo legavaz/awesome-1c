@@ -42,6 +42,7 @@
 * [V8PasswordEjector](https://github.com/YPermitin/V8PasswordEjector) - Сброс учетных записей для 1С:Предприятия 8.x
 * [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
 * [Консоль запросов + БИТ:Финанс](https://github.com/CryptedSky/QueryConsolePBF) - работа с источниками данных БИТ:Финанс
+* [V8Formats](https://github.com/YPermitin/V8Formats) - Библиотеки на .NET для работы с форматами файлов платформы 1С:Предприятие 8.x
 
 
 ## DevOps
