@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 14.04.2017 5:15:27
+Актуальность: 15.04.2017 5:15:12
 
 ## Пользователи
 
-Общее количество пользователей: 241
-Всего репозиториев: 406
+Общее количество пользователей: 244
+Всего репозиториев: 407
 
 | Пользователь | Акаунт |
 ---|---|
@@ -116,6 +116,7 @@
 | iTaSeagull | [link](https://github.com/iTaSeagull) |
 | ivan-kovtun | [link](https://github.com/ivan-kovtun) |
 | jchibinin | [link](https://github.com/jchibinin) |
+| Jennifer1506 | [link](https://github.com/Jennifer1506) |
 | jifmarais | [link](https://github.com/jifmarais) |
 | karlusha70 | [link](https://github.com/karlusha70) |
 | Kashkarov | [link](https://github.com/Kashkarov) |
@@ -125,6 +126,7 @@
 | Khorevaa | [link](https://github.com/Khorevaa) |
 | k-kostenko | [link](https://github.com/k-kostenko) |
 | klimenko-1c | [link](https://github.com/klimenko-1c) |
+| KonstantinErmolenko | [link](https://github.com/KonstantinErmolenko) |
 | korolevpavel | [link](https://github.com/korolevpavel) |
 | korzhishe | [link](https://github.com/korzhishe) |
 | KotegBegemoteg | [link](https://github.com/KotegBegemoteg) |
@@ -171,6 +173,7 @@
 | Petr28 | [link](https://github.com/Petr28) |
 | pila86 | [link](https://github.com/pila86) |
 | Pinki1995 | [link](https://github.com/Pinki1995) |
+| pintov | [link](https://github.com/pintov) |
 | piromane | [link](https://github.com/piromane) |
 | PiskunovSS | [link](https://github.com/PiskunovSS) |
 | poabor | [link](https://github.com/poabor) |
@@ -255,7 +258,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 334
+Общее количество репозиториев: 333
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -269,7 +272,6 @@
 | 1cgh/emexunf | [link](https://github.com/1cgh/emexunf) | 0 | 0 | 0 |
 | 1C-Romania/bms | [link](https://github.com/1C-Romania/bms) | 0 | 0 | 0 |
 | 1cVitalik/HomeWork01 | [link](https://github.com/1cVitalik/HomeWork01) | 0 | 0 | 0 |
-| 1cwin/deploy | [link](https://github.com/1cwin/deploy) |  |  |  |
 | 1dimir/1console | [link](https://github.com/1dimir/1console) | 0 | 0 | 0 |
 | 9lobal/source-1s | [link](https://github.com/9lobal/source-1s) | 0 | 0 | 0 |
 | AAGavrilov/For1C | [link](https://github.com/AAGavrilov/For1C) | 0 | 0 | 0 |
@@ -337,7 +339,6 @@
 | codenull/ViewYmlFor1C | [link](https://github.com/codenull/ViewYmlFor1C) | 0 | 0 | 0 |
 | CryptedSky/QueryConsolePBF | [link](https://github.com/CryptedSky/QueryConsolePBF) | 2 | 2 | 2 |
 | ctuning/ck-crowdtuning-platforms | [link](https://github.com/ctuning/ck-crowdtuning-platforms) | 31 | 31 | 0 |
-| cupertino1/1c | [link](https://github.com/cupertino1/1c) | 0 | 0 | 0 |
 | cupertino1/uik | [link](https://github.com/cupertino1/uik) | 0 | 0 | 0 |
 | cybjavax/1cBuildPack | [link](https://github.com/cybjavax/1cBuildPack) |  |  |  |
 | cybjavax/1cdtrotation | [link](https://github.com/cybjavax/1cdtrotation) |  |  |  |
@@ -375,7 +376,6 @@
 | flex81/Final_HomeTask | [link](https://github.com/flex81/Final_HomeTask) |  |  |  |
 | flex81/PromRazrabKursTest | [link](https://github.com/flex81/PromRazrabKursTest) |  |  |  |
 | Fox-trot/Enigma | [link](https://github.com/Fox-trot/Enigma) | 0 | 0 | 0 |
-| Fox-trot/Gastronom | [link](https://github.com/Fox-trot/Gastronom) | 0 | 0 | 0 |
 | Fox-trot/scuola | [link](https://github.com/Fox-trot/scuola) | 0 | 0 | 0 |
 | Fox-trot/testing | [link](https://github.com/Fox-trot/testing) | 0 | 0 | 1 |
 | Freeman391/all1c | [link](https://github.com/Freeman391/all1c) |  |  |  |
@@ -397,6 +397,7 @@
 | iTaSeagull/1-ourse | [link](https://github.com/iTaSeagull/1-ourse) | 0 | 0 | 0 |
 | ivan-kovtun/indust_dev | [link](https://github.com/ivan-kovtun/indust_dev) |  |  |  |
 | jchibinin/all1c | [link](https://github.com/jchibinin/all1c) | 0 | 0 | 0 |
+| Jennifer1506/HomeWork1 | [link](https://github.com/Jennifer1506/HomeWork1) | 0 | 0 | 0 |
 | jifmarais/meicem | [link](https://github.com/jifmarais/meicem) | 1 | 1 | 0 |
 | karlusha70/karlusha70.github.io | [link](https://github.com/karlusha70/karlusha70.github.io) |  |  |  |
 | Kashkarov/testhw1 | [link](https://github.com/Kashkarov/testhw1) |  |  |  |
@@ -407,6 +408,7 @@
 | Khorevaa/git-mirror | [link](https://github.com/Khorevaa/git-mirror) |  |  |  |
 | k-kostenko/GitAnd1C | [link](https://github.com/k-kostenko/GitAnd1C) | 0 | 0 | 0 |
 | klimenko-1c/ext2int | [link](https://github.com/klimenko-1c/ext2int) | 0 | 0 | 0 |
+| KonstantinErmolenko/base-cource-hw2 | [link](https://github.com/KonstantinErmolenko/base-cource-hw2) | 0 | 0 | 0 |
 | korolevpavel/hometask1 | [link](https://github.com/korolevpavel/hometask1) | 0 | 0 | 0 |
 | korzhishe/akvaf | [link](https://github.com/korzhishe/akvaf) | 0 | 0 | 0 |
 | KotegBegemoteg/all1c | [link](https://github.com/KotegBegemoteg/all1c) | 0 | 0 | 0 |
@@ -437,8 +439,6 @@
 | Michael2399/OneScriptProdgect2 | [link](https://github.com/Michael2399/OneScriptProdgect2) | 0 | 0 | 0 |
 | mikhah/HomeWork1 | [link](https://github.com/mikhah/HomeWork1) | 0 | 0 | 0 |
 | mikhah/HomeWork2 | [link](https://github.com/mikhah/HomeWork2) | 0 | 0 | 0 |
-| mikhah/HomeWork3 | [link](https://github.com/mikhah/HomeWork3) |  |  |  |
-| mikhah/HomeWork4 | [link](https://github.com/mikhah/HomeWork4) | 0 | 0 | 0 |
 | MikhailMKZ/sb-course-1 | [link](https://github.com/MikhailMKZ/sb-course-1) |  |  |  |
 | MikhailSolncev/ProjectEditor | [link](https://github.com/MikhailSolncev/ProjectEditor) | 0 | 0 | 1 |
 | NaKaZD/MyFirstRepositorys | [link](https://github.com/NaKaZD/MyFirstRepositorys) | 0 | 0 | 0 |
@@ -496,6 +496,8 @@
 | pila86/OS | [link](https://github.com/pila86/OS) | 0 | 0 | 0 |
 | pila86/test111 | [link](https://github.com/pila86/test111) | 0 | 0 | 0 |
 | Pinki1995/Work | [link](https://github.com/Pinki1995/Work) | 0 | 0 | 0 |
+| pintov/1c-fints | [link](https://github.com/pintov/1c-fints) | 0 | 0 | 0 |
+| pintov/1c-jwt | [link](https://github.com/pintov/1c-jwt) | 0 | 0 | 0 |
 | piromane/ExtRepoPart1 | [link](https://github.com/piromane/ExtRepoPart1) | 0 | 0 | 0 |
 | PiskunovSS/1C-BDD-study | [link](https://github.com/PiskunovSS/1C-BDD-study) |  |  |  |
 | PiskunovSS/BDD-1C-final-task | [link](https://github.com/PiskunovSS/BDD-1C-final-task) | 1 | 1 | 1 |
@@ -528,14 +530,14 @@
 | rocvel/DeloiteJob | [link](https://github.com/rocvel/DeloiteJob) | 0 | 0 | 0 |
 | rocvel/ForDeloite | [link](https://github.com/rocvel/ForDeloite) | 0 | 0 | 0 |
 | RoxyRedFlame/HomeWork2 | [link](https://github.com/RoxyRedFlame/HomeWork2) | 0 | 0 | 0 |
-| RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
+| RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) | 0 | 0 | 0 |
 | rustamx/all1c | [link](https://github.com/rustamx/all1c) |  |  |  |
 | SBurdin/-2-BDD | [link](https://github.com/SBurdin/-2-BDD) | 0 | 0 | 0 |
 | Schtass/Edu | [link](https://github.com/Schtass/Edu) | 0 | 0 | 0 |
 | sdoronin/BDDLearnin | [link](https://github.com/sdoronin/BDDLearnin) | 0 | 0 | 0 |
 | SecondIdeal/ProjectManagement-CRM | [link](https://github.com/SecondIdeal/ProjectManagement-CRM) | 0 | 0 | 1 |
 | SergeFocus/External_reports_processing_printing_plates_for_1C | [link](https://github.com/SergeFocus/External_reports_processing_printing_plates_for_1C) |  |  |  |
-| SergeFocus/test | [link](https://github.com/SergeFocus/test) | 0 | 0 | 0 |
+| SergeFocus/ts | [link](https://github.com/SergeFocus/ts) | 0 | 0 | 0 |
 | sergejk74/my_ones | [link](https://github.com/sergejk74/my_ones) | 0 | 0 | 0 |
 | shpinderworka/pav_fin | [link](https://github.com/shpinderworka/pav_fin) | 0 | 0 | 0 |
 | shpinderworka/rep_pav_1C | [link](https://github.com/shpinderworka/rep_pav_1C) |  |  |  |
@@ -598,7 +600,7 @@
 
 ## В том числе или только с OScript (1Script)
 
-Общее количество репозиториев: 173
+Общее количество репозиториев: 172
 
 | Репозиторий | URL | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -734,7 +736,6 @@
 | ret-Phoenix/oscript-sql | [link](https://github.com/ret-Phoenix/oscript-sql) |  |  |  |
 | ret-Phoenix/parserV8i | [link](https://github.com/ret-Phoenix/parserV8i) |  |  |  |
 | ret-Phoenix/v8CfgAddsAhk | [link](https://github.com/ret-Phoenix/v8CfgAddsAhk) |  |  |  |
-| RoxyRedFlame/HomeWork3 | [link](https://github.com/RoxyRedFlame/HomeWork3) |  |  |  |
 | rustamx/all1c | [link](https://github.com/rustamx/all1c) |  |  |  |
 | SergeFocus/1C_ET | [link](https://github.com/SergeFocus/1C_ET) |  |  |  |
 | SergeFocus/bootstrap_for_erf_epf | [link](https://github.com/SergeFocus/bootstrap_for_erf_epf) |  |  |  |
