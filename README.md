@@ -24,6 +24,7 @@
 * [1C и WooCommerce](https://github.com/sgtpep/woocommerce-1c)
 * [1C и Redmine](https://github.com/SmokyAce/integration-1c-redmine)
 * [1C и PricePlan](https://github.com/linskiy/priceplan_1C/) 
+* [1C и HBCI](https://github.com/pintov/1c-fints)
 
 ## Контроль качества разработки
 
@@ -99,6 +100,7 @@
 * https://github.com/asdaru/postgres_1c
 * https://github.com/SergeFocus/1C-Functin-to-yEd
 * https://github.com/Zawullon/fpnativeapi
+* https://github.com/pintov/1c-jwt
 
 **Автоматический поиск**
 
