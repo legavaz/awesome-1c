@@ -1,11 +1,11 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 04.05.2017 5:15:58
+Актуальность: 05.05.2017 5:15:37
 
 ## Пользователи
 
-Общее количество пользователей: 268
-Всего репозиториев: 449
+Общее количество пользователей: 269
+Всего репозиториев: 450
 
 | Пользователь |
 ---|
@@ -240,6 +240,7 @@
 | [SvetlanaKrugovykh](https://github.com/SvetlanaKrugovykh) 
 | [swzhukov](https://github.com/swzhukov) 
 | [Tamail](https://github.com/Tamail) 
+| [Tavalik](https://github.com/Tavalik) 
 | [TechnoNIKOL](https://github.com/TechnoNIKOL) 
 | [test4web](https://github.com/test4web) 
 | [theevgenyk](https://github.com/theevgenyk) 
@@ -282,7 +283,7 @@
 
 ## Репозитории с 1С гарантировано
 
-Общее количество репозиториев: 376
+Общее количество репозиториев: 377
 
 | Репозиторий | Описание | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
@@ -301,7 +302,7 @@
 | [0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3](https://github.com/0xporky/vneshnie-obrabotki-i-pechatnye-formy-v-ut-3) | for blog |  0 | 0 | 1 |
 | [Neferto/all1c](https://github.com/Neferto/all1c) | Внешние файлы 1с |  0 | 0 | 0 |
 | [Farovsky/Homework1](https://github.com/Farovsky/Homework1) | Домашнее задание для курса промышленной разработки |  0 | 0 | 0 |
-| [KonstantinErmolenko/final-task](https://github.com/KonstantinErmolenko/final-task) |  |  0 | 0 | 0 |
+| [antowski/recoder](https://github.com/antowski/recoder) | Библиотека 1Script для изменения кодировки текстовых файлов |  0 | 0 | 0 |
 | [StupnikovVG/SBFinalTask](https://github.com/StupnikovVG/SBFinalTask) |  |  0 | 0 | 0 |
 | [AnanyevAl/agileteam](https://github.com/AnanyevAl/agileteam) |  |  0 | 0 | 0 |
 | [Amon-Ra-/DiscountReport](https://github.com/Amon-Ra-/DiscountReport) | Отчет по продажам по дисконтным картам |  0 | 0 | 0 |
@@ -357,17 +358,17 @@
 | [SpaceHead1C/hw4](https://github.com/SpaceHead1C/hw4) | Большое финальное задание |  0 | 0 | 0 |
 | [RfidCenter/GisMarkirovka1C](https://github.com/RfidCenter/GisMarkirovka1C) | Внешняя обработка для индивидуализации КИЗ из 1С через Шину RFID |  0 | 0 | 0 |
 | [shpinderworka/pav_fin](https://github.com/shpinderworka/pav_fin) |  |  0 | 0 | 0 |
-| [antowski/recoder](https://github.com/antowski/recoder) | Библиотека 1Script для изменения кодировки текстовых файлов |  0 | 0 | 0 |
 | [aKomper/aKomper_1](https://github.com/aKomper/aKomper_1) | Основы разработки по промышленным стандартам на платформе 1С:Предприятие. ДЗ1 |  0 | 0 | 0 |
+| [HalfDemigod/home_work_sb_module_1](https://github.com/HalfDemigod/home_work_sb_module_1) |  |  0 | 0 | 0 |
 | [Fox-trot/testing](https://github.com/Fox-trot/testing) | nct |  0 | 0 | 1 |
 | [progromaking/magic](https://github.com/progromaking/magic) |  |  0 | 0 | 1 |
 | [Aleksandr-rtu/all1c](https://github.com/Aleksandr-rtu/all1c) | Мои внешние файлы 1С |  0 | 0 | 0 |
-| [HalfDemigod/home_work_sb_module_1](https://github.com/HalfDemigod/home_work_sb_module_1) |  |  0 | 0 | 0 |
-| [edt27042017/1c_git](https://github.com/edt27042017/1c_git) | Тест GIT |  0 | 0 | 0 |
-| [DmitryIva/test](https://github.com/DmitryIva/test) |  |  0 | 0 | 0 |
-| [ghostpast/carshowroom-1C](https://github.com/ghostpast/carshowroom-1C) | Проект "Управление автоцентром" |  0 | 0 | 0 |
 | [PrutskihKA/PKA_1C](https://github.com/PrutskihKA/PKA_1C) |  |  0 | 0 | 0 |
+| [DmitryIva/test](https://github.com/DmitryIva/test) |  |  0 | 0 | 0 |
+| [KonstantinErmolenko/final-task](https://github.com/KonstantinErmolenko/final-task) |  |  0 | 0 | 0 |
+| [edt27042017/1c_git](https://github.com/edt27042017/1c_git) | Тест GIT |  0 | 0 | 0 |
 | [ponyatov/RemServis](https://github.com/ponyatov/RemServis) | Автоматизация сервиса по ремонту бытовой и офисной техники |  0 | 0 | 0 |
+| [ghostpast/carshowroom-1C](https://github.com/ghostpast/carshowroom-1C) | Проект "Управление автоцентром" |  0 | 0 | 0 |
 | [Fox-trot/Gastronom](https://github.com/Fox-trot/Gastronom) | Поиск слов |  0 | 0 | 0 |
 | [Storm610/FinalTaskRepo](https://github.com/Storm610/FinalTaskRepo) |  |  0 | 0 | 0 |
 | [CocoFox/3Dcoco](https://github.com/CocoFox/3Dcoco) |  |  0 | 0 | 1 |
@@ -405,16 +406,16 @@
 | [Tamail/1cBase](https://github.com/Tamail/1cBase) |  |  0 | 0 | 0 |
 | [dmnblg/contracts](https://github.com/dmnblg/contracts) | contracts |  0 | 0 | 0 |
 | [1cgh/emexunf](https://github.com/1cgh/emexunf) | Обработка для взаимодействия УНФ с веб-сервисами EMEX.RU |  0 | 0 | 0 |
-| [KonstantinErmolenko/base-cource-hw4](https://github.com/KonstantinErmolenko/base-cource-hw4) | Базовый курс. Домашнее задание 4 |  0 | 0 | 0 |
+| [SerhiiKryvoshei/ksv1C](https://github.com/SerhiiKryvoshei/ksv1C) |  |  0 | 0 | 0 |
 | [Samoletische/1C](https://github.com/Samoletische/1C) |  |  0 | 0 | 0 |
 | [TY-2017/pro-introduction](https://github.com/TY-2017/pro-introduction) |  |  0 | 0 | 0 |
 | [KonstantinErmolenko/scripts](https://github.com/KonstantinErmolenko/scripts) | Скрипты на OneScript |  0 | 0 | 0 |
-| [SerhiiKryvoshei/ksv1C](https://github.com/SerhiiKryvoshei/ksv1C) |  |  0 | 0 | 0 |
-| [gimalaj1/tss1](https://github.com/gimalaj1/tss1) |  |  0 | 0 | 0 |
-| [LeksRepo/Config1C](https://github.com/LeksRepo/Config1C) | 1C Configuration |  0 | 0 | 0 |
-| [SevenCharacter/Tykwa](https://github.com/SevenCharacter/Tykwa) |  |  0 | 0 | 0 |
-| [malknatal/Tools1C](https://github.com/malknatal/Tools1C) | Tools for develop 1C |  0 | 0 | 0 |
 | [pavmav/1C_MarkupParser](https://github.com/pavmav/1C_MarkupParser) |  |  0 | 0 | 0 |
+| [malknatal/Tools1C](https://github.com/malknatal/Tools1C) | Tools for develop 1C |  0 | 0 | 0 |
+| [LeksRepo/Config1C](https://github.com/LeksRepo/Config1C) | 1C Configuration |  0 | 0 | 0 |
+| [gimalaj1/tss1](https://github.com/gimalaj1/tss1) |  |  0 | 0 | 0 |
+| [KonstantinErmolenko/base-cource-hw4](https://github.com/KonstantinErmolenko/base-cource-hw4) | Базовый курс. Домашнее задание 4 |  0 | 0 | 0 |
+| [SevenCharacter/Tykwa](https://github.com/SevenCharacter/Tykwa) |  |  0 | 0 | 0 |
 | [raevsky66/all1c](https://github.com/raevsky66/all1c) | Мои epf и efd  |  0 | 0 | 0 |
 | [latestalexey/BDDLearning](https://github.com/latestalexey/BDDLearning) |  |  0 | 0 | 0 |
 | [kurpyaev/homework_module_1](https://github.com/kurpyaev/homework_module_1) | homework_module_1 |  0 | 0 | 0 |
@@ -474,6 +475,7 @@
 | [KazaxLooksAtYou/Zhadyra](https://github.com/KazaxLooksAtYou/Zhadyra) |  |  0 | 0 | 0 |
 | [SecondIdeal/ProjectManagement-CRM](https://github.com/SecondIdeal/ProjectManagement-CRM) |  |  0 | 0 | 1 |
 | [MikhailMKZ/sb-course-1-final](https://github.com/MikhailMKZ/sb-course-1-final) |  |  0 | 0 | 0 |
+| [raphaeldore/analyzr](https://github.com/raphaeldore/analyzr) | Advanced Network AnaLyzer Yielding Zinging Reports |  0 | 0 | 0 |
 | [rasswett/dbor](https://github.com/rasswett/dbor) | for course |  2 | 2 | 0 |
 | [CryptedSky/QueryConsolePBF](https://github.com/CryptedSky/QueryConsolePBF) | Query console for 1C (ordinary & managed application) |  2 | 2 | 2 |
 | [oscript-library/cmdline](https://github.com/oscript-library/cmdline) | Парсер аргументов командной строки |  3 | 3 | 1 |
@@ -523,9 +525,9 @@
 | [progromaking/templates](https://github.com/progromaking/templates) | мои шаблоны |  2 | 2 | 0 |
 | [ret-Phoenix/v8CfgAddsAhk](https://github.com/ret-Phoenix/v8CfgAddsAhk) | Расширяем конфигуратор без Снегопата и ТурбоКонфа |  16 | 16 | 6 |
 | [oscript-library/v8runner](https://github.com/oscript-library/v8runner) | Управление запуском 1С из командной строки |  16 | 16 | 7 |
-| [Stepa86/1C-activity](https://github.com/Stepa86/1C-activity) | Обработка пример для вывода активностей по некоторой таблице, аналогично активности контрибьюций в профиле |  16 | 16 | 2 |
-| [silverbulleters/vanessa-agiler](https://github.com/silverbulleters/vanessa-agiler) | EffectCup and SCRUM for 1C:Enterprise |  20 | 20 | 5 |
 | [artbear/1bdd](https://github.com/artbear/1bdd) |  |  17 | 17 | 8 |
+| [silverbulleters/vanessa-agiler](https://github.com/silverbulleters/vanessa-agiler) | EffectCup and SCRUM for 1C:Enterprise |  20 | 20 | 5 |
+| [Stepa86/1C-activity](https://github.com/Stepa86/1C-activity) | Обработка пример для вывода активностей по некоторой таблице, аналогично активности контрибьюций в профиле |  17 | 17 | 3 |
 | [silverbulleters/vanessa-behavior-new](https://github.com/silverbulleters/vanessa-behavior-new) | репозиторий для нового процесса разработки |  16 | 16 | 11 |
 | [nixel2007/gitrunner](https://github.com/nixel2007/gitrunner) |  |  12 | 12 | 7 |
 | [pbazeliuk/IHL](https://github.com/pbazeliuk/IHL) | Data composition result output processor extension |  11 | 11 | 3 |
@@ -534,11 +536,11 @@
 | [silverbulleters/vanessa-unpack](https://github.com/silverbulleters/vanessa-unpack) | DEPRECATED - use gitsync |  13 | 13 | 5 |
 | [a-sitnikov/erp2_xtests](https://github.com/a-sitnikov/erp2_xtests) | Набор тестов для конфигурации 1C:ERP 2 |  26 | 26 | 8 |
 | [1C-Company/dt-demo-configuration](https://github.com/1C-Company/dt-demo-configuration) |  |  64 | 64 | 37 |
-| [oscript-library/gitsync](https://github.com/oscript-library/gitsync) | Синхронизация хранилища 1С с репозиторием git |  46 | 46 | 22 |
+| [oscript-library/gitsync](https://github.com/oscript-library/gitsync) | Синхронизация хранилища 1С с репозиторием git |  47 | 47 | 22 |
 | [EvilBeaver/oscript-library](https://github.com/EvilBeaver/oscript-library) | Библиотека полезных скриптов для 1Script |  95 | 95 | 48 |
 | [silverbulleters/vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior) | BDD for 1C:Enterprise inspired by Cucumber |  261 | 261 | 65 |
 | [xDrivenDevelopment/xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) | Unit testing tools for 1C:Enterprise 8 platform (http://v8.1c.ru) |  194 | 194 | 76 |
-| [silverbulleters/vanessa-runner](https://github.com/silverbulleters/vanessa-runner) | утилита автоматизация базовых операций разработчика 1С |  39 | 39 | 20 |
+| [silverbulleters/vanessa-runner](https://github.com/silverbulleters/vanessa-runner) | утилита автоматизация базовых операций разработчика 1С |  40 | 40 | 20 |
 | [tormozit/1C-Runtime-Developer-Tools](https://github.com/tormozit/1C-Runtime-Developer-Tools) | Runtime Developer Tools for 1C platform 8.2+ |  30 | 30 | 6 |
 | [ret-Phoenix/oscript-sql](https://github.com/ret-Phoenix/oscript-sql) | Компонент для работы с базой sqlite из onescript |  28 | 28 | 4 |
 | [ctuning/ck-crowdtuning-platforms](https://github.com/ctuning/ck-crowdtuning-platforms) | Meta information about platforms participating in experiment crowdsourcing using Collective Knowledge Framework (OS,CPU,GPU,GPGPU,NN...): |  32 | 32 | 0 |
@@ -592,34 +594,34 @@
 | [Benony0/ExtForms1c](https://github.com/Benony0/ExtForms1c) | ExtForms1c |  0 | 0 | 1 |
 | [Aevarandi/all1c](https://github.com/Aevarandi/all1c) | Моин внешние обработки |  0 | 0 | 0 |
 | [Fox-trot/bpkr](https://github.com/Fox-trot/bpkr) | Бухгалтерия для Кыргызстана |  0 | 0 | 0 |
-| [hairman/test1c](https://github.com/hairman/test1c) |  |  0 | 0 | 0 |
-| [rustamx/all1c](https://github.com/rustamx/all1c) | Внешние файлы 1с |  0 | 0 | 0 |
 | [dimkas71/Simple-firm-management](https://github.com/dimkas71/Simple-firm-management) | 1C83 thin client: Simple firm management |  0 | 0 | 1 |
-| [axis516/UAT](https://github.com/axis516/UAT) |  |  0 | 0 | 0 |
+| [hairman/test1c](https://github.com/hairman/test1c) |  |  0 | 0 | 0 |
 | [Belomor77/trade83](https://github.com/Belomor77/trade83) | Перевод конфигурации Торговля+Склад 7.70.988 с v7.7 на v8.3 |  0 | 0 | 0 |
-| [OffChar1C/123](https://github.com/OffChar1C/123) |  |  0 | 0 | 0 |
-| [iTaSeagull/1_ourse](https://github.com/iTaSeagull/1_ourse) | Исследование новых принципов в разработке. |  0 | 0 | 0 |
-| [raphaeldore/analyzr](https://github.com/raphaeldore/analyzr) | Advanced Network AnaLyzer Yielding Zinging Reports |  0 | 0 | 0 |
+| [ramzesvvsu/test_trade](https://github.com/ramzesvvsu/test_trade) |  |  0 | 0 | 0 |
+| [axis516/UAT](https://github.com/axis516/UAT) |  |  0 | 0 | 0 |
+| [rustamx/all1c](https://github.com/rustamx/all1c) | Внешние файлы 1с |  0 | 0 | 0 |
 | [vpozdnyakov/YandexDiskExchangeXML](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 1С SDK для Яндекс.Диск REST API |  0 | 0 | 0 |
-| [Sinick123/storageWithXML](https://github.com/Sinick123/storageWithXML) |  |  0 | 0 | 0 |
+| [iTaSeagull/1_ourse](https://github.com/iTaSeagull/1_ourse) | Исследование новых принципов в разработке. |  0 | 0 | 0 |
 | [rocvel/ForDeloite](https://github.com/rocvel/ForDeloite) |  |  0 | 0 | 0 |
-| [krugersu/ext_work](https://github.com/krugersu/ext_work) | External work |  0 | 0 | 0 |
+| [OffChar1C/123](https://github.com/OffChar1C/123) |  |  0 | 0 | 0 |
+| [Sinick123/storageWithXML](https://github.com/Sinick123/storageWithXML) |  |  0 | 0 | 0 |
+| [KrapivinAndrey/sb2](https://github.com/KrapivinAndrey/sb2) |  |  0 | 0 | 0 |
 | [Oxotka/VerificationOfRegulatoryReports](https://github.com/Oxotka/VerificationOfRegulatoryReports) |  |  0 | 0 | 0 |
 | [Xi4u7/EttercapForAndroid](https://github.com/Xi4u7/EttercapForAndroid) | Ettercap Di Android |  0 | 0 | 0 |
 | [KonstantinErmolenko/base-cource-hw2](https://github.com/KonstantinErmolenko/base-cource-hw2) | Базовый курс. Домашнее задание 2 |  0 | 0 | 0 |
 | [ital7/-](https://github.com/ital7/-) |  |  0 | 0 | 0 |
 | [Jennifer1506/HomeWork1](https://github.com/Jennifer1506/HomeWork1) | my homework #1 |  0 | 0 | 0 |
 | [ag1c/for1c2](https://github.com/ag1c/for1c2) | for1c2 |  0 | 0 | 0 |
-| [KrapivinAndrey/sb2](https://github.com/KrapivinAndrey/sb2) |  |  0 | 0 | 0 |
+| [Tavalik/OS_TScripts](https://github.com/Tavalik/OS_TScripts) | Библиотеки и скрипты для OneScript |  0 | 0 | 0 |
+| [krugersu/ext_work](https://github.com/krugersu/ext_work) | External work |  0 | 0 | 0 |
 | [ASGoncharov/ExternalEPF_1C](https://github.com/ASGoncharov/ExternalEPF_1C) | Внешние обработки 1С |  0 | 0 | 0 |
-| [ramzesvvsu/test_trade](https://github.com/ramzesvvsu/test_trade) |  |  0 | 0 | 0 |
 | [SvetlanaKrugovykh/testEPF](https://github.com/SvetlanaKrugovykh/testEPF) |  |  0 | 0 | 0 |
 | [binexekb/api_is_os](https://github.com/binexekb/api_is_os) | Работа с IS через API |  0 | 0 | 0 |
 | [SmileDDD/-1-](https://github.com/SmileDDD/-1-) | Внешние файлы 1с |  0 | 0 | 0 |
 | [a-kunilov/my1c](https://github.com/a-kunilov/my1c) |  |  0 | 0 | 0 |
 | [AlmazNasibullin/testDT](https://github.com/AlmazNasibullin/testDT) |  |  0 | 0 | 0 |
-| [andreosh/UfaScript](https://github.com/andreosh/UfaScript) | Библиотека консольного интерфейса и ООП для OneScript |  1 | 1 | 1 |
 | [Oxotka/NomenclatureEnchancedTrade](https://github.com/Oxotka/NomenclatureEnchancedTrade) | Номенклатура расширенный для УТ11 |  1 | 1 | 1 |
+| [andreosh/UfaScript](https://github.com/andreosh/UfaScript) | Библиотека консольного интерфейса и ООП для OneScript |  1 | 1 | 1 |
 | [oleynikova/learning-industry_standards](https://github.com/oleynikova/learning-industry_standards) | Выполненные домашние задания с курса "Основы разработки по промышленным стандартам на платформе 1С:Предприятие" |  0 | 0 | 0 |
 | [KrapivinAndrey/Pivo_Reports](https://github.com/KrapivinAndrey/Pivo_Reports) |  |  0 | 0 | 1 |
 | [Michael2399/OneScriptExample](https://github.com/Michael2399/OneScriptExample) |  |  0 | 0 | 0 |
@@ -671,59 +673,59 @@
 
 | Репозиторий | Описание | ВЖН | ППЛ | ЗВЛ |
 |---|---|---|---|---|
+| [ret-Phoenix/OneScript-Collections](https://github.com/ret-Phoenix/OneScript-Collections) |  |   |  |  |
 | [BorisKem/kurs_prom_standart](https://github.com/BorisKem/kurs_prom_standart) |  |   |  |  |
 | [1C-Romania/SmB15_Smoke](https://github.com/1C-Romania/SmB15_Smoke) |  |   |  |  |
-| [arkuznetsov/NewRepo](https://github.com/arkuznetsov/NewRepo) |  |   |  |  |
+| [deputatov/homework4](https://github.com/deputatov/homework4) |  |   |  |  |
 | [kuntashov/oscript-yadisk-uploader](https://github.com/kuntashov/oscript-yadisk-uploader) | Скрипт для загрузки и публикации файла на Яндекс.Диск из командной строки |   |  |  |
 | [silverbulleters/vanessa-agiler](https://github.com/silverbulleters/vanessa-agiler) | EffectCup and SCRUM for 1C:Enterprise |   |  |  |
-| [ret-Phoenix/OneScript-Collections](https://github.com/ret-Phoenix/OneScript-Collections) |  |   |  |  |
+| [pboykov69/hometask_4](https://github.com/pboykov69/hometask_4) | Домашнее задание #4 базового курса разработки по промышленным стандартам |   |  |  |
 | [bia-tech/os-confluence](https://github.com/bia-tech/os-confluence) | Библиотека на языке oscript предоставляющая функционал для взаимодействия с confluence |   |  |  |
 | [KonstantinErmolenko/scripts](https://github.com/KonstantinErmolenko/scripts) | Скрипты на OneScript |   |  |  |
-| [AnatoliyBritko/distr-build](https://github.com/AnatoliyBritko/distr-build) |  |   |  |  |
 | [KrapivinAndrey/Pivo_ExtForms](https://github.com/KrapivinAndrey/Pivo_ExtForms) |  |   |  |  |
+| [arkuznetsov/NewRepo](https://github.com/arkuznetsov/NewRepo) |  |   |  |  |
 | [artbear/1commands](https://github.com/artbear/1commands) | Библиотека для упрощения работы c запуском различных приложений и командных файлов (cmd, bat, bash) из oscript. |   |  |  |
-| [pboykov69/hometask_4](https://github.com/pboykov69/hometask_4) | Домашнее задание #4 базового курса разработки по промышленным стандартам |   |  |  |
+| [Stepa86/1C-Gitter](https://github.com/Stepa86/1C-Gitter) | Конфигурация 1С для выгрузки коммитов из хранилища в GIT |   |  |  |
 | [zulus100/Final](https://github.com/zulus100/Final) |  |   |  |  |
 | [maxstarkov/DevPro](https://github.com/maxstarkov/DevPro) | Репозиторий для курса по основам промышленной разработки в 1С |   |  |  |
-| [popiksergey/work3](https://github.com/popiksergey/work3) |  |   |  |  |
 | [timofeys/first-test](https://github.com/timofeys/first-test) |  |   |  |  |
+| [allustin/note-checker](https://github.com/allustin/note-checker) |  |   |  |  |
 | [slaxxals/all1c](https://github.com/slaxxals/all1c) | external objects (epf, erf) |   |  |  |
-| [Stepa86/1C-Gitter](https://github.com/Stepa86/1C-Gitter) | Конфигурация 1С для выгрузки коммитов из хранилища в GIT |   |  |  |
-| [mikhah/HomeWork4](https://github.com/mikhah/HomeWork4) |  |   |  |  |
-| [deputatov/homework4](https://github.com/deputatov/homework4) |  |   |  |  |
-| [vsuh/1S_EpfErf](https://github.com/vsuh/1S_EpfErf) | Изменение модулей объектов обработок ИБ 1С |   |  |  |
-| [StupnikovVG/SBStudy](https://github.com/StupnikovVG/SBStudy) |  |   |  |  |
 | [oscript-library/json](https://github.com/oscript-library/json) | Библиотека работы с JSON |   |  |  |
 | [ivan-kovtun/indust_dev](https://github.com/ivan-kovtun/indust_dev) | Базовый курс разработки по промышленным стандартам на 1С |   |  |  |
-| [dmpas/XmlMetaCreator](https://github.com/dmpas/XmlMetaCreator) |  |   |  |  |
-| [pumbaEO/vanessa-behavior-tets](https://github.com/pumbaEO/vanessa-behavior-tets) |  |   |  |  |
-| [BlackDrak0n/oscript-AutoUpdateIB](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) | Автоматическое обновление информационных баз |   |  |  |
-| [alexandro32/Restruct](https://github.com/alexandro32/Restruct) |  |   |  |  |
+| [mikhah/HomeWork4](https://github.com/mikhah/HomeWork4) |  |   |  |  |
+| [popiksergey/work3](https://github.com/popiksergey/work3) |  |   |  |  |
+| [EvilBeaver/oscript-app-template](https://github.com/EvilBeaver/oscript-app-template) | Шаблон-заготовка для консольного приложения на OneScript |   |  |  |
+| [StupnikovVG/SBStudy](https://github.com/StupnikovVG/SBStudy) |  |   |  |  |
 | [vsuh/ini_parse](https://github.com/vsuh/ini_parse) |  |   |  |  |
-| [oleynikova/learning-industry_standards](https://github.com/oleynikova/learning-industry_standards) | Выполненные домашние задания с курса "Основы разработки по промышленным стандартам на платформе 1С:Предприятие" |   |  |  |
+| [dmpas/XmlMetaCreator](https://github.com/dmpas/XmlMetaCreator) |  |   |  |  |
+| [BlackDrak0n/oscript-AutoUpdateIB](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) | Автоматическое обновление информационных баз |   |  |  |
+| [nixel2007/1c-flow](https://github.com/nixel2007/1c-flow) |  |   |  |  |
+| [alexandro32/Restruct](https://github.com/alexandro32/Restruct) |  |   |  |  |
+| [Tavalik/OS_TScripts](https://github.com/Tavalik/OS_TScripts) | Библиотеки и скрипты для OneScript |   |  |  |
+| [git22ura/dz4](https://github.com/git22ura/dz4) |  |   |  |  |
 | [SmokyAce/integration-1c-redmine](https://github.com/SmokyAce/integration-1c-redmine) | Внешняя обработка для 1С:Предприятия 8 - "клиент" для работы с системой управления проектами "Redmine" |   |  |  |
 | [pumbaEO/xUnitfor1Csrc](https://github.com/pumbaEO/xUnitfor1Csrc) |  |   |  |  |
-| [kuntashov/oscript-yadisk](https://github.com/kuntashov/oscript-yadisk) | Реализация API Яндекс.Диска для 1Script |   |  |  |
-| [o-homyak/finaltask](https://github.com/o-homyak/finaltask) | Решение финального задания. |   |  |  |
+| [pumbaEO/vanessa-behavior-tets](https://github.com/pumbaEO/vanessa-behavior-tets) |  |   |  |  |
 | [EvilBeaver/oscript-library](https://github.com/EvilBeaver/oscript-library) | Библиотека полезных скриптов для 1Script |   |  |  |
-| [git22ura/dz4](https://github.com/git22ura/dz4) |  |   |  |  |
+| [o-homyak/finaltask](https://github.com/o-homyak/finaltask) | Решение финального задания. |   |  |  |
+| [AleksandrAkhunov/Work3](https://github.com/AleksandrAkhunov/Work3) | Work3 |   |  |  |
 | [1cto/Test_8.3.7](https://github.com/1cto/Test_8.3.7) |  |   |  |  |
 | [BlizD/Tasks](https://github.com/BlizD/Tasks) | Конфигурация "Управление задачами" с использованием библиотеки стандартных подсистем. Канбан доска. Загрузка изменений из хранилища 1с. |   |  |  |
-| [ret-Phoenix/oscript-sql](https://github.com/ret-Phoenix/oscript-sql) | Компонент для работы с базой sqlite из onescript |   |  |  |
+| [AnatoliyBritko/distr-build](https://github.com/AnatoliyBritko/distr-build) |  |   |  |  |
 | [deputatov/homework3](https://github.com/deputatov/homework3) |  |   |  |  |
 | [AleksandrAkhunov/work4](https://github.com/AleksandrAkhunov/work4) | work4 |   |  |  |
-| [AleksandrAkhunov/Work3](https://github.com/AleksandrAkhunov/Work3) | Work3 |   |  |  |
+| [pallid/EnchantSrv](https://github.com/pallid/EnchantSrv) | Обвертка для использования библиотеки PyEnchant как http-сервис |   |  |  |
 | [oscript-library/cmdline](https://github.com/oscript-library/cmdline) | Парсер аргументов командной строки |   |  |  |
 | [Aletar/EduTest1](https://github.com/Aletar/EduTest1) |  |   |  |  |
-| [nixel2007/1c-flow](https://github.com/nixel2007/1c-flow) |  |   |  |  |
+| [ret-Phoenix/oscript-sql](https://github.com/ret-Phoenix/oscript-sql) | Компонент для работы с базой sqlite из onescript |   |  |  |
 | [oscript-library/strings](https://github.com/oscript-library/strings) | Библиотека работы со строками |   |  |  |
 | [poabor/VideoCourse](https://github.com/poabor/VideoCourse) |  |   |  |  |
-| [pallid/EnchantSrv](https://github.com/pallid/EnchantSrv) | Обвертка для использования библиотеки PyEnchant как http-сервис |   |  |  |
 | [KonstantinErmolenko/base-cource-hw2](https://github.com/KonstantinErmolenko/base-cource-hw2) | Базовый курс. Домашнее задание 2 |   |  |  |
 | [AlexGrishanov/ForTrainings](https://github.com/AlexGrishanov/ForTrainings) |  |   |  |  |
 | [ret-Phoenix/OneScript-Services](https://github.com/ret-Phoenix/OneScript-Services) |  |   |  |  |
-| [iTaSeagull/1_ourse](https://github.com/iTaSeagull/1_ourse) | Исследование новых принципов в разработке. |   |  |  |
 | [kseniyaloza/note-cheker](https://github.com/kseniyaloza/note-cheker) |  |   |  |  |
+| [iTaSeagull/1_ourse](https://github.com/iTaSeagull/1_ourse) | Исследование новых принципов в разработке. |   |  |  |
 | [asheichenko/note-checker](https://github.com/asheichenko/note-checker) |  |   |  |  |
 | [dmpas/MonoDevelop-OneScript](https://github.com/dmpas/MonoDevelop-OneScript) |  |   |  |  |
 | [mikhah/HomeWork3](https://github.com/mikhah/HomeWork3) |  |   |  |  |
@@ -743,42 +745,42 @@
 | [shpinderworka/rep_pav_1C](https://github.com/shpinderworka/rep_pav_1C) |  |   |  |  |
 | [MikhailMKZ/sb-course-1](https://github.com/MikhailMKZ/sb-course-1) |  |   |  |  |
 | [nocamad/work-ext](https://github.com/nocamad/work-ext) |  |   |  |  |
+| [Kashkarov/testhw1](https://github.com/Kashkarov/testhw1) | home work lesson 1 |   |  |  |
 | [jchappypig/auto_language_detection](https://github.com/jchappypig/auto_language_detection) | API to detect language automatically using linguist |   |  |  |
 | [locta66/PL_recognizer](https://github.com/locta66/PL_recognizer) |  |   |  |  |
-| [github/linguist](https://github.com/github/linguist) | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! |   |  |  |
+| [Freeman391/all1c](https://github.com/Freeman391/all1c) | Мои внешние файлы 1С |   |  |  |
 | [ikhlapov/all1c](https://github.com/ikhlapov/all1c) | Внешние файлы 1С |   |  |  |
 | [binexekb/skd77](https://github.com/binexekb/skd77) | СКД для 1C 7.7 |   |  |  |
-| [Kashkarov/testhw1](https://github.com/Kashkarov/testhw1) | home work lesson 1 |   |  |  |
+| [lightvdv/education](https://github.com/lightvdv/education) |  |   |  |  |
 | [Laddy2016/DevStudy1C](https://github.com/Laddy2016/DevStudy1C) |  |   |  |  |
 | [Theycallmedrworm/blair](https://github.com/Theycallmedrworm/blair) |  |   |  |  |
-| [allustin/note-checker](https://github.com/allustin/note-checker) |  |   |  |  |
+| [github/linguist](https://github.com/github/linguist) | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! |   |  |  |
 | [tixis/stydy](https://github.com/tixis/stydy) |  |   |  |  |
 | [rai-project/linguist](https://github.com/rai-project/linguist) |  |   |  |  |
-| [lightvdv/education](https://github.com/lightvdv/education) |  |   |  |  |
 | [Petr28/test-atom](https://github.com/Petr28/test-atom) |  |   |  |  |
 | [binexekb/ExchangePlan77](https://github.com/binexekb/ExchangePlan77) |  |   |  |  |
-| [Storm610/HomeTask1Repo](https://github.com/Storm610/HomeTask1Repo) | Repository for  *.epf,  *.erf,  *.q1c,  *.st  files |   |  |  |
+| [vsuh/1S_EpfErf](https://github.com/vsuh/1S_EpfErf) | Изменение модулей объектов обработок ИБ 1С |   |  |  |
 | [git22ura/dz3](https://github.com/git22ura/dz3) |  |   |  |  |
 | [VanessaDockers/pgsteroids](https://github.com/VanessaDockers/pgsteroids) | для любознательных 1С-ников |   |  |  |
 | [pumbaEO/onec-syntaxparser](https://github.com/pumbaEO/onec-syntaxparser) | Парсер синтаксиса 1с, на простых регулярках.  |   |  |  |
+| [kasperiks/training1C](https://github.com/kasperiks/training1C) | Проект по обучению использования обработок 1с на github |   |  |  |
 | [verter4sb/all1c](https://github.com/verter4sb/all1c) | Мои внешние файлы 1С |   |  |  |
 | [test4web/all1c](https://github.com/test4web/all1c) |  |   |  |  |
-| [Freeman391/all1c](https://github.com/Freeman391/all1c) | Мои внешние файлы 1С |   |  |  |
+| [Storm610/HomeTask1Repo](https://github.com/Storm610/HomeTask1Repo) | Repository for  *.epf,  *.erf,  *.q1c,  *.st  files |   |  |  |
 | [rustamx/all1c](https://github.com/rustamx/all1c) | Внешние файлы 1с |   |  |  |
 | [nixel2007/notify](https://github.com/nixel2007/notify) | ОписаниеОповещения - создание, обработка |   |  |  |
-| [kasperiks/training1C](https://github.com/kasperiks/training1C) | Проект по обучению использования обработок 1с на github |   |  |  |
+| [antowski/recoder](https://github.com/antowski/recoder) | Библиотека 1Script для изменения кодировки текстовых файлов |   |  |  |
 | [KrapivinAndrey/1c_AutoStartACC](https://github.com/KrapivinAndrey/1c_AutoStartACC) | Репозиторий для скриптов автоматической проверки обработок через Автоматическая проверка конфигураций |   |  |  |
 | [oscript-library/asserts](https://github.com/oscript-library/asserts) | Библиотека утверждений (assertions) для 1Script |   |  |  |
-| [Stepa86/1C-Deploy-and-CopyDB](https://github.com/Stepa86/1C-Deploy-and-CopyDB) | Набор скриптов для деплоя базы 1С через хранилище и копирование через sql-бекап одной базы в другую |   |  |  |
-| [oscript-library/packman](https://github.com/oscript-library/packman) | Сборка тиражируемых дистрибутивов 1С |   |  |  |
+| [oscript-library/deployka](https://github.com/oscript-library/deployka) | Continuous Delivery for 1C:Enterprise |   |  |  |
 | [ret-Phoenix/drafts](https://github.com/ret-Phoenix/drafts) | Различные скрипты, универсальные и не только |   |  |  |
 | [silverbulleters/vanessa-behavior-new](https://github.com/silverbulleters/vanessa-behavior-new) | репозиторий для нового процесса разработки |   |  |  |
-| [oscript-library/opm](https://github.com/oscript-library/opm) | Пакетный менеджер OneScript |   |  |  |
 | [binexekb/api_is_os](https://github.com/binexekb/api_is_os) | Работа с IS через API |   |  |  |
+| [oscript-library/opm](https://github.com/oscript-library/opm) | Пакетный менеджер OneScript |   |  |  |
 | [vsuh/suhOne](https://github.com/vsuh/suhOne) | Скрипты на OneScript |   |  |  |
+| [Stepa86/1C-Deploy-and-CopyDB](https://github.com/Stepa86/1C-Deploy-and-CopyDB) | Набор скриптов для деплоя базы 1С через хранилище и копирование через sql-бекап одной базы в другую |   |  |  |
 | [dmpas/oscript-ftp](https://github.com/dmpas/oscript-ftp) | FTP-клиент для ОдноСкрипта |   |  |  |
 | [oscript-library/gitsync](https://github.com/oscript-library/gitsync) | Синхронизация хранилища 1С с репозиторием git |   |  |  |
-| [EvilBeaver/oscript-app-template](https://github.com/EvilBeaver/oscript-app-template) | Шаблон-заготовка для консольного приложения на OneScript |   |  |  |
 | [ret-Phoenix/v8CfgAddsAhk](https://github.com/ret-Phoenix/v8CfgAddsAhk) | Расширяем конфигуратор без Снегопата и ТурбоКонфа |   |  |  |
 | [allustin/json-onescript-lib](https://github.com/allustin/json-onescript-lib) | port from A.V.Pereverzev http://infostart.ru/public/119601/ to 1SCript (https://bitbucket.org/EvilBeaver/1script) |   |  |  |
 | [oscript-library/library-support](https://github.com/oscript-library/library-support) | Служебный репо для сопровождения библиотеки oscript-library |   |  |  |
@@ -787,81 +789,81 @@
 | [purtcer/OneScriptsMain](https://github.com/purtcer/OneScriptsMain) | Репозиторий для всех моих скриптов |   |  |  |
 | [artbear/1testrunner](https://github.com/artbear/1testrunner) |  |   |  |  |
 | [oscript-library/tempfiles](https://github.com/oscript-library/tempfiles) | Работа с временными файлами |   |  |  |
-| [oscript-library/deployka](https://github.com/oscript-library/deployka) | Continuous Delivery for 1C:Enterprise |   |  |  |
+| [oscript-library/packman](https://github.com/oscript-library/packman) | Сборка тиражируемых дистрибутивов 1С |   |  |  |
 | [nixel2007/oscript-config](https://github.com/nixel2007/oscript-config) | Работа с настройками oscript.cfg |   |  |  |
 | [artbear/1adminka](https://github.com/artbear/1adminka) | Поддержка автоматической сборки и развертывания конфигураций 1с. Иными словами, Continuous Integration(CI) и Continuous Delivery (CD) для 1С |   |  |  |
 | [dmpas/oscript-soap](https://github.com/dmpas/oscript-soap) | SOAP-компонента для Односкрипта |   |  |  |
 | [dmpas/oscript-component-example](https://github.com/dmpas/oscript-component-example) | Пример внешней компоненты для Односкрипта |   |  |  |
 | [Khorevaa/git-mirror](https://github.com/Khorevaa/git-mirror) |  |   |  |  |
 | [cybjavax/AOscripts](https://github.com/cybjavax/AOscripts) | Скрипты для автоматизации обновлений 1С с помощью конфигурации ИжТиСи АО |   |  |  |
-| [SergeFocus/bootstrap_for_erf_epf](https://github.com/SergeFocus/bootstrap_for_erf_epf) | Шаблон правильной разработки на 1С + precommit1c |   |  |  |
 | [Stepa86/oScript-Examples](https://github.com/Stepa86/oScript-Examples) | Различные примеры скриптов на oscript для автоматизации работы программиста 1С |   |  |  |
+| [SergeFocus/bootstrap_for_erf_epf](https://github.com/SergeFocus/bootstrap_for_erf_epf) | Шаблон правильной разработки на 1С + precommit1c |   |  |  |
 | [bytemdfab/OneLauncher](https://github.com/bytemdfab/OneLauncher) | Набор скриптов для запуска 1С:Предприятие 8.x в пакетном режиме |   |  |  |
+| [1cwin/deploy](https://github.com/1cwin/deploy) |  |   |  |  |
 | [ramzesvvsu/test_trade](https://github.com/ramzesvvsu/test_trade) |  |   |  |  |
-| [KrapivinAndrey/sb2](https://github.com/KrapivinAndrey/sb2) |  |   |  |  |
 | [allustin/awesome-1c](https://github.com/allustin/awesome-1c) | Awesome list for 1C Enterprise |   |  |  |
 | [SergeFocus/ts](https://github.com/SergeFocus/ts) |  |   |  |  |
 | [kuntashov/oscript-bsl-github-stats](https://github.com/kuntashov/oscript-bsl-github-stats) | Поиск репозитариев исходных кодов проектов на 1С:Предприятии 8 и 1Script (oscript.io) |   |  |  |
-| [1cwin/deploy](https://github.com/1cwin/deploy) |  |   |  |  |
-| [ret-Phoenix/parserV8i](https://github.com/ret-Phoenix/parserV8i) | Парсер файла списка баз 1С v8i |   |  |  |
+| [KrapivinAndrey/sb2](https://github.com/KrapivinAndrey/sb2) |  |   |  |  |
+| [isa-1/OneScript](https://github.com/isa-1/OneScript) | Официальное зеркало проекта с https://bitbucket.org/EvilBeaver/1script |   |  |  |
 | [SergeFocus/External_reports_processing_printing_plates_for_1C](https://github.com/SergeFocus/External_reports_processing_printing_plates_for_1C) | Внешние отчетные формы и обработки для 1С Бухгалтерия для Украины |   |  |  |
 | [EvilBeaver/OneScript](https://github.com/EvilBeaver/OneScript) | Исполняющая среда скриптов на языке 1С |   |  |  |
 | [EugeneParadise/BackupCopy](https://github.com/EugeneParadise/BackupCopy) | Скрипт 1С OneScript для копирования свежих бэкапов в выбранную папку. Вызывается через командную строку. Ведет логирование. В состав включен юнит-тест.  |   |  |  |
 | [antowski/v7src](https://github.com/antowski/v7src) | Управление исходниками проекта на 1С 7.7 |   |  |  |
-| [isa-1/OneScript](https://github.com/isa-1/OneScript) | Официальное зеркало проекта с https://bitbucket.org/EvilBeaver/1script |   |  |  |
+| [ret-Phoenix/parserV8i](https://github.com/ret-Phoenix/parserV8i) | Парсер файла списка баз 1С v8i |   |  |  |
 | [xDrivenDevelopment/AutoAdmin1C](https://github.com/xDrivenDevelopment/AutoAdmin1C) | Автоматическое развертывание конфигураций платформы 1С |   |  |  |
 | [silverbulleters/deployka](https://github.com/silverbulleters/deployka) | Continuous Delivery for 1C:Enterprise |   |  |  |
 | [oscript-library/logos](https://github.com/oscript-library/logos) | Библиотека логирования в стиле log4j |   |  |  |
 | [VanDerKeen/homework](https://github.com/VanDerKeen/homework) | For homework of course |   |  |  |
 | [Stepa86/ReadParams](https://github.com/Stepa86/ReadParams) | Чтение параметров из json файла |   |  |  |
 | [oscript-library/v8runner](https://github.com/oscript-library/v8runner) | Управление запуском 1С из командной строки |   |  |  |
+| [nixel2007/1c-syntax](https://github.com/nixel2007/1c-syntax) | Syntax definition rules for 1C:Enterpise 8 in TextMate format |   |  |  |
 | [flex81/Final_HomeTask](https://github.com/flex81/Final_HomeTask) |  |   |  |  |
 | [SergeFocus/1C_ET](https://github.com/SergeFocus/1C_ET) | ЭЛЕМЕНТАРНАЯ торговля |   |  |  |
-| [nixel2007/gitrunner](https://github.com/nixel2007/gitrunner) |  |   |  |  |
+| [yabrus/BP_Backup](https://github.com/yabrus/BP_Backup) | Бекапер баз данных с сохранением на ЯндексДиске |   |  |  |
 | [PiskunovSS/1C-BDD-study](https://github.com/PiskunovSS/1C-BDD-study) | Репозиторий для выполнения практической части курса |   |  |  |
 | [latestalexey/BDD_EDU_1c](https://github.com/latestalexey/BDD_EDU_1c) | Репозитарий для выполнения заданий |   |  |  |
-| [nixel2007/1c-syntax](https://github.com/nixel2007/1c-syntax) | Syntax definition rules for 1C:Enterpise 8 in TextMate format |   |  |  |
+| [xDrivenDevelopment/1c-syntax](https://github.com/xDrivenDevelopment/1c-syntax) | Syntax definition rules for 1C:Enterprise 8 in TextMate format |   |  |  |
 | [nixel2007/gitlab-ci-for-1c](https://github.com/nixel2007/gitlab-ci-for-1c) |  |   |  |  |
 | [PrutskihKA/PKA_1C](https://github.com/PrutskihKA/PKA_1C) |  |   |  |  |
-| [silverbulleters/sonar-l10n-ru](https://github.com/silverbulleters/sonar-l10n-ru) | Russian Language Pack for SonarQube |   |  |  |
+| [nixel2007/gitrunner](https://github.com/nixel2007/gitrunner) |  |   |  |  |
 | [dmpas/odnoskobka](https://github.com/dmpas/odnoskobka) | Односкобочник для ОдноСкрипта |   |  |  |
-| [xDrivenDevelopment/1c-syntax](https://github.com/xDrivenDevelopment/1c-syntax) | Syntax definition rules for 1C:Enterprise 8 in TextMate format |   |  |  |
 | [ret-Phoenix/1CAutotestGenerator](https://github.com/ret-Phoenix/1CAutotestGenerator) | Создание тестов для модулей 1С |   |  |  |
+| [silverbulleters/oscript-epf-merge](https://github.com/silverbulleters/oscript-epf-merge) | помощник разрешения конфликтов в epf файлах |   |  |  |
 | [Bazil1c/hometask_block3](https://github.com/Bazil1c/hometask_block3) |  |   |  |  |
 | [dmpas/oscript-mail](https://github.com/dmpas/oscript-mail) | Компонента работы с почтой |   |  |  |
-| [KazaxLooksAtYou/Zhadyra](https://github.com/KazaxLooksAtYou/Zhadyra) |  |   |  |  |
+| [kuntashov/oscript-yadisk](https://github.com/kuntashov/oscript-yadisk) | Реализация API Яндекс.Диска для 1Script |   |  |  |
 | [cybjavax/1cdtrotation](https://github.com/cybjavax/1cdtrotation) |  |   |  |  |
 | [Diversus23/uni_script](https://github.com/Diversus23/uni_script) |  |   |  |  |
-| [silverbulleters/oscript-epf-merge](https://github.com/silverbulleters/oscript-epf-merge) | помощник разрешения конфликтов в epf файлах |   |  |  |
+| [silverbulleters/vanessa-runner](https://github.com/silverbulleters/vanessa-runner) | утилита автоматизация базовых операций разработчика 1С |   |  |  |
 | [oscript-library/tool1cd](https://github.com/oscript-library/tool1cd) | Программная скриптовая обертка для популярной утилиты чтения файловых баз данных tool1cd от @awa15 |   |  |  |
 | [KonstantinErmolenko/base-cource-hw4](https://github.com/KonstantinErmolenko/base-cource-hw4) | Базовый курс. Домашнее задание 4 |   |  |  |
-| [yabrus/BP_Backup](https://github.com/yabrus/BP_Backup) | Бекапер баз данных с сохранением на ЯндексДиске |   |  |  |
+| [KazaxLooksAtYou/Zhadyra](https://github.com/KazaxLooksAtYou/Zhadyra) |  |   |  |  |
 | [cybjavax/1cBuildPack](https://github.com/cybjavax/1cBuildPack) |  |   |  |  |
 | [ret-Phoenix/autoupdatecfg](https://github.com/ret-Phoenix/autoupdatecfg) | Автообновление конфигураций 1С |   |  |  |
-| [silverbulleters/vanessa-runner](https://github.com/silverbulleters/vanessa-runner) | утилита автоматизация базовых операций разработчика 1С |   |  |  |
+| [oleynikova/learning-industry_standards](https://github.com/oleynikova/learning-industry_standards) | Выполненные домашние задания с курса "Основы разработки по промышленным стандартам на платформе 1С:Предприятие" |   |  |  |
 | [vsuh/1S_unloads](https://github.com/vsuh/1S_unloads) | Выгрузка информационных баз |   |  |  |
 | [vsuh/parallelFZ](https://github.com/vsuh/parallelFZ) | Параллельное выполнение нескольких копий скрипта |   |  |  |
-| [antowski/recoder](https://github.com/antowski/recoder) | Библиотека 1Script для изменения кодировки текстовых файлов |   |  |  |
-| [theshadowco/progbar](https://github.com/theshadowco/progbar) | Консольный прогресс бар для скриптов на OneScript |   |  |  |
 | [xDrivenDevelopment/precommit1c](https://github.com/xDrivenDevelopment/precommit1c) | precommit1c |   |  |  |
-| [pumbaEO/precommit1c](https://github.com/pumbaEO/precommit1c) | precommit1c |   |  |  |
+| [chvassilissa/firstrepo](https://github.com/chvassilissa/firstrepo) |  |   |  |  |
+| [oscript-library/files-common](https://github.com/oscript-library/files-common) | Часто используемые операции по работе с файловой системой |   |  |  |
 | [ret-Phoenix/oscript-simple-gui](https://github.com/ret-Phoenix/oscript-simple-gui) | Внешняя компонента позволяет создавать формы на языке 1script. API работы с формами максимально приближен к синтаксису 1С. |   |  |  |
 | [silverbulleters/vanessa-unpack](https://github.com/silverbulleters/vanessa-unpack) | DEPRECATED - use gitsync |   |  |  |
 | [oscript-library/1testrunner](https://github.com/oscript-library/1testrunner) |  |   |  |  |
 | [demidych/oscript-library-demidych](https://github.com/demidych/oscript-library-demidych) |  |   |  |  |
-| [artbear/1bdd](https://github.com/artbear/1bdd) |  |   |  |  |
 | [o-homyak/learnGitFor1C](https://github.com/o-homyak/learnGitFor1C) | Домашние задания при прохождении обучения: "программирование по промышленным стандартам" |   |  |  |
+| [artbear/1bdd](https://github.com/artbear/1bdd) |  |   |  |  |
+| [flex81/PromRazrabKursTest](https://github.com/flex81/PromRazrabKursTest) |  |   |  |  |
+| [KazaxLooksAtYou/Akzhol](https://github.com/KazaxLooksAtYou/Akzhol) |  |   |  |  |
 | [dmpas/oscript-v8unpack](https://github.com/dmpas/oscript-v8unpack) | Компонента распаковки восьмофайлов для Односкрипта |   |  |  |
-| [ret-Phoenix/OneScript-Interfaces](https://github.com/ret-Phoenix/OneScript-Interfaces) | Реализация работы с интерфейсами в OneScript |   |  |  |
-| [xDrivenDevelopment/v83unpack](https://github.com/xDrivenDevelopment/v83unpack) | v83unpack |   |  |  |
+| [silverbulleters/sonar-l10n-ru](https://github.com/silverbulleters/sonar-l10n-ru) | Russian Language Pack for SonarQube |   |  |  |
 | [oscript-library/messenger](https://github.com/oscript-library/messenger) | Класс, позволяющий отправлять уведомления по SMS и в SLACK |   |  |  |
 | [andreosh/UfaScript](https://github.com/andreosh/UfaScript) | Библиотека консольного интерфейса и ООП для OneScript |   |  |  |
-| [flex81/PromRazrabKursTest](https://github.com/flex81/PromRazrabKursTest) |  |   |  |  |
-| [silverbulleters/vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior) | BDD for 1C:Enterprise inspired by Cucumber |   |  |  |
-| [chvassilissa/firstrepo](https://github.com/chvassilissa/firstrepo) |  |   |  |  |
-| [oscript-library/files-common](https://github.com/oscript-library/files-common) | Часто используемые операции по работе с файловой системой |   |  |  |
-| [KazaxLooksAtYou/Akzhol](https://github.com/KazaxLooksAtYou/Akzhol) |  |   |  |  |
 | [artbear/v8diff](https://github.com/artbear/v8diff) | Удобное сравнение внешних обработок и отчетов 1С, конфигураций 1С, макетов и других бинарных файлов 1С |   |  |  |
 | [dmpas/oscript-network](https://github.com/dmpas/oscript-network) | Сетевые функции для ОдноСкрипта |   |  |  |
+| [silverbulleters/vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior) | BDD for 1C:Enterprise inspired by Cucumber |   |  |  |
+| [pumbaEO/precommit1c](https://github.com/pumbaEO/precommit1c) | precommit1c |   |  |  |
+| [ret-Phoenix/OneScript-Interfaces](https://github.com/ret-Phoenix/OneScript-Interfaces) | Реализация работы с интерфейсами в OneScript |   |  |  |
+| [xDrivenDevelopment/v83unpack](https://github.com/xDrivenDevelopment/v83unpack) | v83unpack |   |  |  |
 
 
