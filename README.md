@@ -30,6 +30,7 @@
 
 * [Vanessa Behavior](https://github.com/silverbulleters/vanessa-behavior) - ADD для 1C
 * [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - TDD для 1С
+* [Tester](https://github.com/grumagargler/CommonTests) - Почти SpecLog для 1С
 
 ## Библиотеки и утилиты для работы
 
