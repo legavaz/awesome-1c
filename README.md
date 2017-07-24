@@ -52,6 +52,7 @@
 * [1C GitLab CI](https://github.com/nixel2007/gitlab-ci-for-1c) - скрипты для работы с GitLab CI и 1С
 * [OScript](https://github.com/EvilBeaver/OneScript) - интерепретатор 1С языка для написания скриптов
 * [OneWS](https://github.com/crsde/one-ws) - docker контейнер для Web адаптеров (в связи с выходом 8.4 актуальность падает)
+* [OneWSAP](https://github.com/crsde/one-wsap) - docker контейнер для Web адаптеров под Apache 2.4, поддерживает масштабирование + HAProxy
 * [PostgreSQL для 1С (сборка под Windows)](https://github.com/postgrespro/pgwininstall) - репозиторий для автоматизированной сборки PostgreSQL для 1С из исходников
 * [PostgreSQL для 1С (сборка под Vagrant+Docker)](https://github.com/VanessaDockers/pgsteroids) - виртуальная машина для использования на разработческих контурах в связке с мини-сервером 1С
 * [LogStash для 1С Sqlite](https://github.com/silverbulleters-research/logstash-vanessa-sqlitelogs) - плагин для LogStash для инкрементальной выгрузки журналов регистрации 1С в ElasticSearch
