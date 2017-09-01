@@ -50,6 +50,7 @@
 ## DevOps
 
 * [1C GitLab CI](https://github.com/nixel2007/gitlab-ci-for-1c) - скрипты для работы с GitLab CI и 1С
+* [OneC Docker](https://github.com/VanessaDockers/onecdocker) - Vagrant машина разработчика 1С
 * [OScript](https://github.com/EvilBeaver/OneScript) - интерепретатор 1С языка для написания скриптов
 * [OneWS](https://github.com/crsde/one-ws) - docker контейнер для Web адаптеров (в связи с выходом 8.4 актуальность падает)
 * [OneWSAP](https://github.com/crsde/one-wsap) - docker контейнер для Web адаптеров под Apache 2.4, поддерживает масштабирование + HAProxy
