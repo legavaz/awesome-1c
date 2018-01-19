@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 19.01.2018 2:17:18
+Актуальность: 20.01.2018 2:17:29
 
 ## Пользователи
 
@@ -798,9 +798,9 @@
 | [ripreal/1C_UI](https://github.com/ripreal/1C_UI) | Конфигурация 1С - Учет инвестиций. Версия платформы 8.3.7.  Список библиотек: БСП 2.3.2 |  3 | 3 | 2 |
 | [KrapivinAndrey/VerbalExpressions1C](https://github.com/KrapivinAndrey/VerbalExpressions1C) | Вербальные выражения(обертка над регулярными) для 1с |  3 | 3 | 0 |
 | [EDV-Lotsen/1C-AccountingSuite](https://github.com/EDV-Lotsen/1C-AccountingSuite) | Original Source Code from 1c-dn.com |  3 | 3 | 1 |
-| [artbear/v8diff](https://github.com/artbear/v8diff) | Удобное сравнение внешних обработок и отчетов 1С, конфигураций 1С, макетов и других бинарных файлов 1С |  3 | 3 | 4 |
 | [silverbulleters/add](https://github.com/silverbulleters/add) | Разработка с управляемым качеством на 1С |  4 | 4 | 4 |
-| [dmpas/oscript-component-example](https://github.com/dmpas/oscript-component-example) | Пример внешней компоненты для Односкрипта |  3 | 3 | 3 |
+| [AnatoliyBritko/distr-build](https://github.com/AnatoliyBritko/distr-build) |  |  4 | 4 | 2 |
+| [artbear/v8diff](https://github.com/artbear/v8diff) | Удобное сравнение внешних обработок и отчетов 1С, конфигураций 1С, макетов и других бинарных файлов 1С |  3 | 3 | 4 |
 | [oscript-library/library-support](https://github.com/oscript-library/library-support) | Служебный репо для сопровождения библиотеки oscript-library |  3 | 3 | 4 |
 | [Tavalik/OS_TScripts](https://github.com/Tavalik/OS_TScripts) | Библиотеки и скрипты для OneScript |  3 | 3 | 2 |
 | [dmpas/wtool1cd](https://github.com/dmpas/wtool1cd) | OS-CGI-обёртка над tool1cd |  3 | 3 | 0 |
@@ -815,7 +815,7 @@
 | [PiskunovSS/1C-BDD-study](https://github.com/PiskunovSS/1C-BDD-study) | Репозиторий для выполнения практической части курса |  3 | 3 | 0 |
 | [AlexandrShepelev/All-1C](https://github.com/AlexandrShepelev/All-1C) |  |  1 | 1 | 0 |
 | [smykalovaa/rcuo-testing-first](https://github.com/smykalovaa/rcuo-testing-first) |  |  1 | 1 | 0 |
-| [Lead-Bullets/QL-Parser](https://github.com/Lead-Bullets/QL-Parser) | Парсер языка запросов платформы 1С:Предприятие 8 |  1 | 1 | 0 |
+| [Lead-Bullets/BQL-Parser](https://github.com/Lead-Bullets/BQL-Parser) | Парсер языка запросов платформы 1С:Предприятие 8 |  1 | 1 | 0 |
 | [ivan-kovtun/indust_dev](https://github.com/ivan-kovtun/indust_dev) | Базовый курс разработки по промышленным стандартам на 1С |  1 | 1 | 0 |
 | [9lobal/source-1s](https://github.com/9lobal/source-1s) |  |  1 | 1 | 0 |
 | [nocamad/work-ext](https://github.com/nocamad/work-ext) |  |  1 | 1 | 0 |
@@ -856,14 +856,14 @@
 | [Gaukas/OralStandard](https://github.com/Gaukas/OralStandard) | The oral standard of IT workers.(ISO 2333) |  1 | 1 | 0 |
 | [needigeo/bddstudy](https://github.com/needigeo/bddstudy) | Домашнее задание  по курсу БДД в 1с |  1 | 1 | 1 |
 | [oscript-library/messenger](https://github.com/oscript-library/messenger) | Класс, позволяющий отправлять уведомления по SMS и в SLACK |  16 | 16 | 5 |
-| [arkuznetsov/cpdb](https://github.com/arkuznetsov/cpdb) | Приложение oscript для копирования баз данных 1C / MS SQL и развертывания на целевой системе. |  17 | 17 | 10 |
+| [BlizD/BPS](https://github.com/BlizD/BPS) | Согласование (подсистема). Для любого справочника и документа в 1С. Встраивается в любые конфигурации |  17 | 17 | 5 |
 | [FoxyLinkIO/FoxyLink](https://github.com/FoxyLinkIO/FoxyLink) | An easy way to handle integration tasks in a reliable way and run them on 1C:Enterprise server |  15 | 15 | 6 |
 | [nixel2007/gitrunner](https://github.com/nixel2007/gitrunner) |  |  15 | 15 | 10 |
 | [grumagargler/ERP2](https://github.com/grumagargler/ERP2) | Тесты для ERP2 |  15 | 15 | 4 |
 | [silverbulleters/vanessa-behavior2](https://github.com/silverbulleters/vanessa-behavior2) | репозиторий для нового процесса разработки |  20 | 20 | 16 |
-| [Stepa86/1C-Deploy-and-CopyDB](https://github.com/Stepa86/1C-Deploy-and-CopyDB) | Набор скриптов для деплоя базы 1С через хранилище и копирование через sql-бекап одной базы в другую |  21 | 21 | 10 |
+| [Stepa86/1C-Deploy-and-CopyDB](https://github.com/Stepa86/1C-Deploy-and-CopyDB) | Набор скриптов для деплоя базы 1С через хранилище и копирование через sql-бекап одной базы в другую |  22 | 22 | 10 |
 | [BlackDrak0n/oscript-AutoUpdateIB](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) | Автоматическое обновление информационных баз |  19 | 19 | 9 |
-| [BlizD/BPS](https://github.com/BlizD/BPS) | Согласование (подсистема). Для любого справочника и документа в 1С. Встраивается в любые конфигурации |  17 | 17 | 5 |
+| [arkuznetsov/cpdb](https://github.com/arkuznetsov/cpdb) | Приложение oscript для копирования баз данных 1C / MS SQL и развертывания на целевой системе. |  18 | 18 | 10 |
 | [Stepa86/1C-activity](https://github.com/Stepa86/1C-activity) | Обработка пример для вывода активностей по некоторой таблице, аналогично активности контрибьюций в профиле |  19 | 19 | 3 |
 | [psyriccio/regex1c](https://github.com/psyriccio/regex1c) | Регулярные выражения в 1С (XDTO) |  11 | 11 | 1 |
 | [pintov/1c-jwt](https://github.com/pintov/1c-jwt) | HMAC & JSON Web Token implementation in 1C:Enterprise |  11 | 11 | 1 |
@@ -887,36 +887,36 @@
 | [1C-Company/dt-demo-configuration](https://github.com/1C-Company/dt-demo-configuration) |  |  67 | 67 | 43 |
 | [oscript-library/gitsync](https://github.com/oscript-library/gitsync) | Синхронизация хранилища 1С с репозиторием git |  78 | 78 | 29 |
 | [oscript-library/v8runner](https://github.com/oscript-library/v8runner) | Управление запуском 1С из командной строки |  26 | 26 | 18 |
-| [silverbulleters/deployka](https://github.com/silverbulleters/deployka) | Continuous Delivery for 1C:Enterprise |  28 | 28 | 19 |
+| [ret-Phoenix/oscript-simple-gui](https://github.com/ret-Phoenix/oscript-simple-gui) | Внешняя компонента позволяет создавать формы на языке 1script. API работы с формами максимально приближен к синтаксису 1С. |  28 | 28 | 4 |
 | [silverbulleters/vanessa-agiler](https://github.com/silverbulleters/vanessa-agiler) | EffectCup and SCRUM for 1C:Enterprise |  25 | 25 | 7 |
 | [oscript-library/opm](https://github.com/oscript-library/opm) | Пакетный менеджер OneScript |  24 | 24 | 12 |
 | [Stepa86/1C-Gitter](https://github.com/Stepa86/1C-Gitter) | Конфигурация 1С для выгрузки коммитов из хранилища в GIT |  25 | 25 | 4 |
 | [ctuning/ck-crowdtuning-platforms](https://github.com/ctuning/ck-crowdtuning-platforms) | Meta information about platforms participating in experiment crowdsourcing using Collective Knowledge Framework (OS,CPU,GPU,GPGPU,NN...): |  35 | 35 | 0 |
 | [1C-Company/GitConverter](https://github.com/1C-Company/GitConverter) |  |  41 | 41 | 12 |
 | [ret-Phoenix/oscript-sql](https://github.com/ret-Phoenix/oscript-sql) | Компонент для работы с базой sqlite из onescript |  35 | 35 | 8 |
-| [ret-Phoenix/oscript-simple-gui](https://github.com/ret-Phoenix/oscript-simple-gui) | Внешняя компонента позволяет создавать формы на языке 1script. API работы с формами максимально приближен к синтаксису 1С. |  28 | 28 | 4 |
+| [silverbulleters/deployka](https://github.com/silverbulleters/deployka) | Continuous Delivery for 1C:Enterprise |  29 | 29 | 19 |
 | [a-sitnikov/erp2_xtests](https://github.com/a-sitnikov/erp2_xtests) | Набор тестов для конфигурации 1C:ERP 2 |  33 | 33 | 8 |
 | [silverbulleters/logos-1c](https://github.com/silverbulleters/logos-1c) | Подсистема логирования в стиле log4j |  9 | 9 | 2 |
-| [BlizD/MyEPF](https://github.com/BlizD/MyEPF) |  |  5 | 5 | 3 |
 | [oscript-library/fs](https://github.com/oscript-library/fs) | Часто используемые операции по работе с файловой системой |  5 | 5 | 3 |
-| [vbondarevsky/FormattedString](https://github.com/vbondarevsky/FormattedString) | Функция формирования объекта ФорматированнаяСтрока в стиле html+inline style |  5 | 5 | 0 |
-| [bia-tech/precommit4onec](https://github.com/bia-tech/precommit4onec) | Утилита для автоматической обработки исходных файлов конфигурации, внешних отчетов и обработок для платформы 1С:Предприятие при помещении в репозиторий git |  5 | 5 | 4 |
-| [khorevaa/semver](https://github.com/khorevaa/semver) | Библиотека для работы с версиями |  5 | 5 | 1 |
-| [ret-Phoenix/ClassGenerator1CtoCSharp](https://github.com/ret-Phoenix/ClassGenerator1CtoCSharp) | Генератор классов C# на основании СинтаксисПомощника 1С |  5 | 5 | 1 |
-| [oscript-library/logos](https://github.com/oscript-library/logos) | Библиотека логирования в стиле log4j |  6 | 6 | 4 |
-| [EvilBeaver/oscript-infrastructure](https://github.com/EvilBeaver/oscript-infrastructure) | Скрипты поддержки инфраструктуры oscript.io |  5 | 5 | 4 |
 | [alexkmbk/1CI](https://github.com/alexkmbk/1CI) | Repository manager for 1C: Enterprise platform. The main idea of the project - continuous integration. |  5 | 5 | 1 |
+| [BlizD/MyEPF](https://github.com/BlizD/MyEPF) |  |  5 | 5 | 3 |
+| [khorevaa/semver](https://github.com/khorevaa/semver) | Библиотека для работы с версиями |  5 | 5 | 1 |
+| [vbondarevsky/FormattedString](https://github.com/vbondarevsky/FormattedString) | Функция формирования объекта ФорматированнаяСтрока в стиле html+inline style |  5 | 5 | 0 |
+| [dmpas/oscript-component-example](https://github.com/dmpas/oscript-component-example) | Пример внешней компоненты для Односкрипта |  5 | 5 | 3 |
+| [oscript-library/logos](https://github.com/oscript-library/logos) | Библиотека логирования в стиле log4j |  6 | 6 | 4 |
+| [ret-Phoenix/ClassGenerator1CtoCSharp](https://github.com/ret-Phoenix/ClassGenerator1CtoCSharp) | Генератор классов C# на основании СинтаксисПомощника 1С |  5 | 5 | 1 |
 | [cybjavax/1cBuildPack](https://github.com/cybjavax/1cBuildPack) |  |  5 | 5 | 2 |
-| [nixel2007/oscript-config](https://github.com/nixel2007/oscript-config) | Работа с настройками oscript.cfg |  4 | 4 | 2 |
+| [EvilBeaver/oscript-infrastructure](https://github.com/EvilBeaver/oscript-infrastructure) | Скрипты поддержки инфраструктуры oscript.io |  5 | 5 | 4 |
 | [oscript-library/strings](https://github.com/oscript-library/strings) | Библиотека работы со строками |  4 | 4 | 1 |
-| [bia-tech/os-confluence](https://github.com/bia-tech/os-confluence) | Библиотека на языке oscript предоставляющая функционал для взаимодействия с confluence |  4 | 4 | 7 |
-| [AnatoliyBritko/distr-build](https://github.com/AnatoliyBritko/distr-build) |  |  4 | 4 | 2 |
-| [nixel2007/oscript-fluent](https://github.com/nixel2007/oscript-fluent) |  |  4 | 4 | 4 |
-| [CryptedSky/QueryConsolePBF](https://github.com/CryptedSky/QueryConsolePBF) | Query console for 1C (ordinary & managed application) |  4 | 4 | 2 |
-| [nixel2007/asserts_cf](https://github.com/nixel2007/asserts_cf) |  |  4 | 4 | 1 |
-| [RBSC/MultiController](https://github.com/RBSC/MultiController) | FDD+IDE MultiController for MSX |  4 | 4 | 3 |
 | [tedivm/puppet-psad](https://github.com/tedivm/puppet-psad) | Configure and Control PSAD with Puppet |  4 | 4 | 5 |
+| [nixel2007/oscript-config](https://github.com/nixel2007/oscript-config) | Работа с настройками oscript.cfg |  4 | 4 | 2 |
+| [nixel2007/oscript-fluent](https://github.com/nixel2007/oscript-fluent) |  |  4 | 4 | 4 |
+| [bia-tech/os-confluence](https://github.com/bia-tech/os-confluence) | Библиотека на языке oscript предоставляющая функционал для взаимодействия с confluence |  4 | 4 | 7 |
+| [nixel2007/asserts_cf](https://github.com/nixel2007/asserts_cf) |  |  4 | 4 | 1 |
+| [bia-tech/precommit4onec](https://github.com/bia-tech/precommit4onec) | Утилита для автоматической обработки исходных файлов конфигурации, внешних отчетов и обработок для платформы 1С:Предприятие при помещении в репозиторий git |  5 | 5 | 4 |
+| [CryptedSky/QueryConsolePBF](https://github.com/CryptedSky/QueryConsolePBF) | Query console for 1C (ordinary & managed application) |  4 | 4 | 2 |
 | [artbear/1testrunner](https://github.com/artbear/1testrunner) |  |  4 | 4 | 9 |
+| [RBSC/MultiController](https://github.com/RBSC/MultiController) | FDD+IDE MultiController for MSX |  4 | 4 | 3 |
 | [a-sitnikov/ExtForms-grdok](https://github.com/a-sitnikov/ExtForms-grdok) |  |  6 | 6 | 3 |
 | [Stepa86/ReadParams](https://github.com/Stepa86/ReadParams) | Чтение параметров из json файла |  8 | 8 | 5 |
 | [khorevaa/v8storage](https://github.com/khorevaa/v8storage) | Библиотека для работы с хранилищем 1С |  8 | 8 | 1 |
@@ -926,13 +926,13 @@
 | [Lead-Bullets/BSL-Parser](https://github.com/Lead-Bullets/BSL-Parser) | Парсер встроенного языка платформы 1С:Предприятие 8 |  9 | 9 | 4 |
 | [YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | Отчет для просмотра и анализа журнала регистрации |  9 | 9 | 0 |
 | [Eurospider/OpenBSD-firewall](https://github.com/Eurospider/OpenBSD-firewall) | script to build a firewall appliance based on OpenBSD |  9 | 9 | 3 |
-| [silverbulleters/oscript-rabbitmq](https://github.com/silverbulleters/oscript-rabbitmq) |  |  8 | 8 | 2 |
+| [silverbulleters/oscript-rabbitmq](https://github.com/silverbulleters/oscript-rabbitmq) | OneScript RabbitMQ support |  8 | 8 | 3 |
 | [ret-Phoenix/parserV8i](https://github.com/ret-Phoenix/parserV8i) | Парсер файла списка баз 1С v8i |  8 | 8 | 5 |
 | [oscript-library/tool1cd](https://github.com/oscript-library/tool1cd) | Программная скриптовая обертка для популярной утилиты чтения файловых баз данных tool1cd от @awa15 |  6 | 6 | 4 |
 | [vpozdnyakov/YandexDiskExchangeXML](https://github.com/vpozdnyakov/YandexDiskExchangeXML) | 1С SDK Яндекс.Диск REST API |  7 | 7 | 0 |
 | [dkodnik/1cxmpp](https://github.com/dkodnik/1cxmpp) | Реализация протокола XMPP на 1С |  6 | 6 | 0 |
 | [theshadowco/progbar](https://github.com/theshadowco/progbar) | Консольный прогресс бар для скриптов на OneScript |  6 | 6 | 3 |
-| [Lead-Bullets/OneShell](https://github.com/Lead-Bullets/OneShell) | Translator: extended 1C:BSL → PowerShell |  6 | 6 | 4 |
+| [Lead-Bullets/Lead-Shell](https://github.com/Lead-Bullets/Lead-Shell) | Translator: extended 1C:BSL → PowerShell |  6 | 6 | 4 |
 | [oscript-library/restler](https://github.com/oscript-library/restler) | Помощник работы с различными RestAPI |  7 | 7 | 1 |
 | [progromaking/data_generator_for_1C](https://github.com/progromaking/data_generator_for_1C) | Генератор данных из табличного макета для тестирования (1С 8) |  7 | 7 | 2 |
 | [grumagargler/CommonTests](https://github.com/grumagargler/CommonTests) | Универсальные тесты |  7 | 7 | 6 |
@@ -1142,8 +1142,8 @@
 | [SmokyAce/integration-1c-redmine](https://github.com/SmokyAce/integration-1c-redmine) | Внешняя обработка для 1С:Предприятия 8 - "клиент" для работы с системой управления проектами "Redmine" |   |  |  |
 | [arkuznetsov/yadt](https://github.com/arkuznetsov/yadt) | Приложение oscript для развертывания конфигураций 1С на базах подключенных к хранилищу. |   |  |  |
 | [demidych/oscript-library-demidych](https://github.com/demidych/oscript-library-demidych) |  |   |  |  |
-| [ret-Phoenix/autoupdatecfg](https://github.com/ret-Phoenix/autoupdatecfg) | Автообновление конфигураций 1С |   |  |  |
 | [flex81/Final_HomeTask](https://github.com/flex81/Final_HomeTask) |  |   |  |  |
+| [ret-Phoenix/autoupdatecfg](https://github.com/ret-Phoenix/autoupdatecfg) | Автообновление конфигураций 1С |   |  |  |
 | [silverbulleters/oscript-epf-merge](https://github.com/silverbulleters/oscript-epf-merge) | помощник разрешения конфликтов в epf файлах |   |  |  |
 | [bf0rce/ExchangeRules1C](https://github.com/bf0rce/ExchangeRules1C) | Набор скриптов для разбора xml-файла Правил обмена 1С на мелкие фрагменты |   |  |  |
 | [oscript-library/tool1cd](https://github.com/oscript-library/tool1cd) | Программная скриптовая обертка для популярной утилиты чтения файловых баз данных tool1cd от @awa15 |   |  |  |
@@ -1242,7 +1242,7 @@
 | [cybjavax/AOscripts](https://github.com/cybjavax/AOscripts) | Скрипты для автоматизации обновлений 1С с помощью конфигурации ИжТиСи АО |   |  |  |
 | [oscript-library/gitsync](https://github.com/oscript-library/gitsync) | Синхронизация хранилища 1С с репозиторием git |   |  |  |
 | [Stepa86/oScript-Examples](https://github.com/Stepa86/oScript-Examples) | Различные примеры скриптов на oscript для автоматизации работы программиста 1С |   |  |  |
-| [silverbulleters/oscript-rabbitmq](https://github.com/silverbulleters/oscript-rabbitmq) |  |   |  |  |
+| [silverbulleters/oscript-rabbitmq](https://github.com/silverbulleters/oscript-rabbitmq) | OneScript RabbitMQ support |   |  |  |
 | [dmpas/oscript-component-example](https://github.com/dmpas/oscript-component-example) | Пример внешней компоненты для Односкрипта |   |  |  |
 | [1cwin/deploy](https://github.com/1cwin/deploy) |  |   |  |  |
 | [KrapivinAndrey/studing](https://github.com/KrapivinAndrey/studing) |  |   |  |  |
@@ -1266,16 +1266,16 @@
 | [KazaxLooksAtYou/Akzhol](https://github.com/KazaxLooksAtYou/Akzhol) |  |   |  |  |
 | [nixel2007/gitlab-ci-for-1c](https://github.com/nixel2007/gitlab-ci-for-1c) |  |   |  |  |
 | [artbear/v8diff](https://github.com/artbear/v8diff) | Удобное сравнение внешних обработок и отчетов 1С, конфигураций 1С, макетов и других бинарных файлов 1С |   |  |  |
-| [ifkerri/SortingPhoto](https://github.com/ifkerri/SortingPhoto) | Написан на движке Oscript, предназначен для сортировки фотографий и видео. |   |  |  |
+| [latestalexey/BDD_EDU_1c](https://github.com/latestalexey/BDD_EDU_1c) | Репозитарий для выполнения заданий |   |  |  |
 | [o-homyak/learnGitFor1C](https://github.com/o-homyak/learnGitFor1C) | Домашние задания при прохождении обучения: "программирование по промышленным стандартам" |   |  |  |
 | [pumbaEO/xUnitFor1Csrc](https://github.com/pumbaEO/xUnitFor1Csrc) |  |   |  |  |
 | [artbear/1adminka](https://github.com/artbear/1adminka) | Поддержка автоматической сборки и развертывания конфигураций 1с. Иными словами, Continuous Integration(CI) и Continuous Delivery (CD) для 1С |   |  |  |
-| [silverbulleters/ovm](https://github.com/silverbulleters/ovm) | OneScript Version Manager |   |  |  |
 | [dmpas/odnoskobka](https://github.com/dmpas/odnoskobka) | Односкобочник для ОдноСкрипта |   |  |  |
+| [ret-Phoenix/onescript-extensions](https://github.com/ret-Phoenix/onescript-extensions) | Доп. возможности для OneScript, которые по каким-либо причинам не вошли в движок. |   |  |  |
 | [petypen/AutoRefactor](https://github.com/petypen/AutoRefactor) | Подготовка текстов модулей обработки к релизу. Автоматический рефакторинг. |   |  |  |
 | [KrapivinAndrey/GenEpfWithLib](https://github.com/KrapivinAndrey/GenEpfWithLib) |  |   |  |  |
 | [artbear/1testrunner](https://github.com/artbear/1testrunner) |  |   |  |  |
-| [latestalexey/BDD_EDU_1c](https://github.com/latestalexey/BDD_EDU_1c) | Репозитарий для выполнения заданий |   |  |  |
+| [ifkerri/SortingPhoto](https://github.com/ifkerri/SortingPhoto) | Написан на движке Oscript, предназначен для сортировки фотографий и видео. |   |  |  |
 | [dmpas/oscript-mail](https://github.com/dmpas/oscript-mail) | Компонента работы с почтой |   |  |  |
 | [EvilBeaver/OneScript](https://github.com/EvilBeaver/OneScript) | Исполняющая среда скриптов на языке 1С |   |  |  |
 | [oleynikova/learning-industry_standards](https://github.com/oleynikova/learning-industry_standards) | Выполненные домашние задания с курса "Основы разработки по промышленным стандартам на платформе 1С:Предприятие" |   |  |  |
@@ -1304,9 +1304,9 @@
 | [silverbulleters/sonar-l10n-ru](https://github.com/silverbulleters/sonar-l10n-ru) | Russian Language Pack for SonarQube |   |  |  |
 | [silverbulleters/vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior) | BDD for 1C:Enterprise inspired by Cucumber |   |  |  |
 | [flex81/PromRazrabKursTest](https://github.com/flex81/PromRazrabKursTest) |  |   |  |  |
-| [ret-Phoenix/onescript-extensions](https://github.com/ret-Phoenix/onescript-extensions) | Доп. возможности для OneScript, которые по каким-либо причинам не вошли в движок. |   |  |  |
 | [pereverzevda/1c-developer](https://github.com/pereverzevda/1c-developer) |  |   |  |  |
 | [PrutskihKA/PKA_1C](https://github.com/PrutskihKA/PKA_1C) | Тестируем раcпаковку внешних обработок |   |  |  |
+| [silverbulleters/ovm](https://github.com/silverbulleters/ovm) | OneScript Version Manager |   |  |  |
 | [oscript-library/v8runner](https://github.com/oscript-library/v8runner) | Управление запуском 1С из командной строки |   |  |  |
 | [artbear/1bdd](https://github.com/artbear/1bdd) | 1BDD для OneScript - консольный фреймворк, реализующий BDD для проекта OneScript. Для Windows и Linux. |   |  |  |
 | [andreosh/UfaScript](https://github.com/andreosh/UfaScript) | Библиотека консольного интерфейса и ООП для OneScript |   |  |  |
