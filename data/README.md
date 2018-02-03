@@ -1,6 +1,6 @@
 ﻿# BSL и OScript репозиторий и их пользователи
 
-Актуальность: 03.02.2018 2:17:36
+Актуальность: 04.02.2018 2:17:30
 
 ## Пользователи
 
@@ -933,15 +933,15 @@
 | [nixel2007/asserts_cf](https://github.com/nixel2007/asserts_cf) |  |  4 | 4 | 1 |
 | [CryptedSky/QueryConsolePBF](https://github.com/CryptedSky/QueryConsolePBF) | Query console for 1C (ordinary & managed application) |  4 | 4 | 2 |
 | [fokusov/MyMoney](https://github.com/fokusov/MyMoney) | "Мои деньги" - конфигурация на платформе 1С 8.3 |  4 | 4 | 0 |
-| [khorevaa/configor](https://github.com/khorevaa/configor) | Библиотека для работы с конфигурационными файлами в формате json, yaml |  6 | 6 | 1 |
 | [a-sitnikov/ExtForms-grdok](https://github.com/a-sitnikov/ExtForms-grdok) |  |  6 | 6 | 3 |
 | [theshadowco/progbar](https://github.com/theshadowco/progbar) | Консольный прогресс бар для скриптов на OneScript |  6 | 6 | 3 |
 | [Lead-Bullets/Lead-Shell](https://github.com/Lead-Bullets/Lead-Shell) | Translator: extended 1C:BSL → PowerShell |  6 | 6 | 4 |
+| [dkodnik/1cxmpp](https://github.com/dkodnik/1cxmpp) | Реализация протокола XMPP на 1С |  6 | 6 | 0 |
+| [infosoft-v/GA_SAMPLE](https://github.com/infosoft-v/GA_SAMPLE) | Google Analytics + 1C:Enterprise sample | Пример обработки взаимодействия 1С:Пердприятия и Google Analytics |  9 | 9 | 1 |
 | [YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x](https://github.com/YPermitin/EventLogAnalyzer-for-1C-Enterprise-8.x) | Отчет для просмотра и анализа журнала регистрации |  9 | 9 | 0 |
 | [khorevaa/v8storage](https://github.com/khorevaa/v8storage) | Библиотека для работы с хранилищем 1С |  9 | 9 | 1 |
 | [Lead-Bullets/BSL-Parser](https://github.com/Lead-Bullets/BSL-Parser) | Парсер встроенного языка платформы 1С:Предприятие 8 |  9 | 9 | 4 |
 | [Eurospider/OpenBSD-firewall](https://github.com/Eurospider/OpenBSD-firewall) | script to build a firewall appliance based on OpenBSD |  9 | 9 | 4 |
-| [infosoft-v/GA_SAMPLE](https://github.com/infosoft-v/GA_SAMPLE) | Google Analytics + 1C:Enterprise sample | Пример обработки взаимодействия 1С:Пердприятия и Google Analytics |  8 | 8 | 1 |
 | [ret-Phoenix/parserV8i](https://github.com/ret-Phoenix/parserV8i) | Парсер файла списка баз 1С v8i |  8 | 8 | 5 |
 | [silverbulleters/oscript-rabbitmq](https://github.com/silverbulleters/oscript-rabbitmq) | OneScript RabbitMQ support |  8 | 8 | 4 |
 | [Stepa86/ReadParams](https://github.com/Stepa86/ReadParams) | Чтение параметров из json файла |  8 | 8 | 5 |
@@ -952,9 +952,9 @@
 | [oscript-library/restler](https://github.com/oscript-library/restler) | Помощник работы с различными RestAPI |  7 | 7 | 1 |
 | [grumagargler/CommonTests](https://github.com/grumagargler/CommonTests) | Универсальные тесты |  7 | 7 | 6 |
 | [silverbulleters/ovm](https://github.com/silverbulleters/ovm) | OneScript Version Manager |  7 | 7 | 1 |
+| [khorevaa/configor](https://github.com/khorevaa/configor) | Библиотека для работы с конфигурационными файлами в формате json, yaml |  7 | 7 | 1 |
 | [Stepa86/oScript-Examples](https://github.com/Stepa86/oScript-Examples) | Различные примеры скриптов на oscript для автоматизации работы программиста 1С |  7 | 7 | 1 |
 | [oscript-library/tool1cd](https://github.com/oscript-library/tool1cd) | Программная скриптовая обертка для популярной утилиты чтения файловых баз данных tool1cd от @awa15 |  6 | 6 | 4 |
-| [dkodnik/1cxmpp](https://github.com/dkodnik/1cxmpp) | Реализация протокола XMPP на 1С |  6 | 6 | 0 |
 | [SmokyAce/integration-1c-redmine](https://github.com/SmokyAce/integration-1c-redmine) | Внешняя обработка для 1С:Предприятия 8 - "клиент" для работы с системой управления проектами "Redmine" |  7 | 7 | 6 |
 | [PiskunovSS/all1c](https://github.com/PiskunovSS/all1c) | Тестовый репозиторий для изучения механизма |  0 | 0 | 0 |
 | [Oxotka/MoveDocumentsTrade](https://github.com/Oxotka/MoveDocumentsTrade) | Перенос документов с УТ 10 на УТ 11 |  1 | 1 | 1 |
@@ -1157,9 +1157,9 @@
 | [AleksandrAkhunov/work4](https://github.com/AleksandrAkhunov/work4) | work4 |   |  |  |
 | [EvilBeaver/OneScript.Web](https://github.com/EvilBeaver/OneScript.Web) | MVC-движок сайтов на 1Script |   |  |  |
 | [KonstantinErmolenko/scripts](https://github.com/KonstantinErmolenko/scripts) | Скрипты на OneScript |   |  |  |
-| [BlackDrak0n/oscript-AutoUpdateIB](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) | Автоматическое обновление информационных баз |   |  |  |
-| [allustin/json-onescript-lib](https://github.com/allustin/json-onescript-lib) | port from A.V.Pereverzev http://infostart.ru/public/119601/ to 1SCript (https://bitbucket.org/EvilBeaver/1script) |   |  |  |
 | [xDrivenDevelopment/1c-syntax](https://github.com/xDrivenDevelopment/1c-syntax) | Syntax definition rules for 1C:Enterprise 8 in TextMate format |   |  |  |
+| [allustin/json-onescript-lib](https://github.com/allustin/json-onescript-lib) | port from A.V.Pereverzev http://infostart.ru/public/119601/ to 1SCript (https://bitbucket.org/EvilBeaver/1script) |   |  |  |
+| [BlackDrak0n/oscript-AutoUpdateIB](https://github.com/BlackDrak0n/oscript-AutoUpdateIB) | Автоматическое обновление информационных баз |   |  |  |
 | [alexandro32/Restruct](https://github.com/alexandro32/Restruct) |  |   |  |  |
 | [oscript-library/tempfiles](https://github.com/oscript-library/tempfiles) | Работа с временными файлами |   |  |  |
 | [bf0rce/ExchangeRules1C](https://github.com/bf0rce/ExchangeRules1C) | Набор скриптов для разбора xml-файла Правил обмена 1С на мелкие фрагменты |   |  |  |
@@ -1261,7 +1261,7 @@
 | [silverbulleters/deployka](https://github.com/silverbulleters/deployka) | Continuous Delivery for 1C:Enterprise |   |  |  |
 | [oscript-library/1testrunner](https://github.com/oscript-library/1testrunner) |  |   |  |  |
 | [dmpas/oscript-ftp](https://github.com/dmpas/oscript-ftp) | FTP-клиент для ОдноСкрипта |   |  |  |
-| [EugeneParadise/BackupCopy](https://github.com/EugeneParadise/BackupCopy) | Скрипт 1С OneScript для копирования свежих бэкапов в выбранную папку. Вызывается через командную строку. Ведет логирование. В состав включен юнит-тест.  |   |  |  |
+| [realMaxA/FilesMonitor](https://github.com/realMaxA/FilesMonitor) | Проверяет наличие изменений в указанном файле |   |  |  |
 | [KrapivinAndrey/studing](https://github.com/KrapivinAndrey/studing) |  |   |  |  |
 | [1cwin/deploy](https://github.com/1cwin/deploy) |  |   |  |  |
 | [KrapivinAndrey/sb2](https://github.com/KrapivinAndrey/sb2) |  |   |  |  |
@@ -1283,11 +1283,10 @@
 | [binexekb/api_is_os](https://github.com/binexekb/api_is_os) | Работа с IS через API |   |  |  |
 | [dmpas/oscript-soap](https://github.com/dmpas/oscript-soap) | SOAP-компонента для Односкрипта |   |  |  |
 | [vsuh/suhOne](https://github.com/vsuh/suhOne) | Скрипты на OneScript |   |  |  |
-| [realMaxA/FilesMonitor](https://github.com/realMaxA/FilesMonitor) | Проверяет наличие изменений в указанном файле |   |  |  |
+| [EugeneParadise/BackupCopy](https://github.com/EugeneParadise/BackupCopy) | Скрипт 1С OneScript для копирования свежих бэкапов в выбранную папку. Вызывается через командную строку. Ведет логирование. В состав включен юнит-тест.  |   |  |  |
 | [silverbulleters/vanessa-unpack](https://github.com/silverbulleters/vanessa-unpack) | DEPRECATED - use gitsync |   |  |  |
 | [artbear/1commands](https://github.com/artbear/1commands) | Библиотека для упрощения работы c запуском различных приложений и командных файлов (cmd, bat, bash) из oscript. |   |  |  |
 | [isa-1/OneScript](https://github.com/isa-1/OneScript) | Официальное зеркало проекта с https://bitbucket.org/EvilBeaver/1script |   |  |  |
-| [ret-Phoenix/onescript-extensions](https://github.com/ret-Phoenix/onescript-extensions) | Доп. возможности для OneScript, которые по каким-либо причинам не вошли в движок. |   |  |  |
 | [artbear/1adminka](https://github.com/artbear/1adminka) | Поддержка автоматической сборки и развертывания конфигураций 1с. Иными словами, Continuous Integration(CI) и Continuous Delivery (CD) для 1С |   |  |  |
 | [artbear/1testrunner](https://github.com/artbear/1testrunner) |  |   |  |  |
 | [KrapivinAndrey/GenEpfWithLib](https://github.com/KrapivinAndrey/GenEpfWithLib) |  |   |  |  |
@@ -1301,6 +1300,7 @@
 | [ifkerri/SortingPhoto](https://github.com/ifkerri/SortingPhoto) | Написан на движке Oscript, предназначен для сортировки фотографий и видео. |   |  |  |
 | [dmpas/oscript-v8unpack](https://github.com/dmpas/oscript-v8unpack) | Компонента распаковки восьмофайлов для Односкрипта |   |  |  |
 | [ret-Phoenix/drafts](https://github.com/ret-Phoenix/drafts) | Различные скрипты, универсальные и не только |   |  |  |
+| [vasvl123/OneScriptDB](https://github.com/vasvl123/OneScriptDB) | Объектно-ориентированная система управления базами данных в среде OneScript |   |  |  |
 | [KonstantinErmolenko/base-cource-hw4](https://github.com/KonstantinErmolenko/base-cource-hw4) | Базовый курс. Домашнее задание 4 |   |  |  |
 | [SergeFocus/bootstrap_for_erf_epf](https://github.com/SergeFocus/bootstrap_for_erf_epf) | Шаблон правильной разработки на 1С + precommit1c |   |  |  |
 | [ret-Phoenix/1CAutotestGenerator](https://github.com/ret-Phoenix/1CAutotestGenerator) | Создание тестов для модулей 1С |   |  |  |
@@ -1308,10 +1308,10 @@
 | [oleynikova/learning-industry_standards](https://github.com/oleynikova/learning-industry_standards) | Выполненные домашние задания с курса "Основы разработки по промышленным стандартам на платформе 1С:Предприятие" |   |  |  |
 | [EvilBeaver/OneScript](https://github.com/EvilBeaver/OneScript) | Исполняющая среда скриптов на языке 1С |   |  |  |
 | [dmpas/oscript-mail](https://github.com/dmpas/oscript-mail) | Компонента работы с почтой |   |  |  |
+| [ret-Phoenix/onescript-extensions](https://github.com/ret-Phoenix/onescript-extensions) | Доп. возможности для OneScript, которые по каким-либо причинам не вошли в движок. |   |  |  |
 | [dmpas/odnoskobka](https://github.com/dmpas/odnoskobka) | Односкобочник для ОдноСкрипта |   |  |  |
 | [pereverzevda/1c-developer](https://github.com/pereverzevda/1c-developer) |  |   |  |  |
 | [PrutskihKA/PKA_1C](https://github.com/PrutskihKA/PKA_1C) | Тестируем раcпаковку внешних обработок |   |  |  |
-| [silverbulleters/vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior) | BDD for 1C:Enterprise inspired by Cucumber |   |  |  |
 | [gridgentoo/OneScriptTrading](https://github.com/gridgentoo/OneScriptTrading) | Исполняющая среда скриптов на языке 1С  |   |  |  |
 | [khorevaa/configor](https://github.com/khorevaa/configor) | Библиотека для работы с конфигурационными файлами в формате json, yaml |   |  |  |
 | [ret-Phoenix/oscript-simple-gui](https://github.com/ret-Phoenix/oscript-simple-gui) | Внешняя компонента позволяет создавать формы на языке 1script. API работы с формами максимально приближен к синтаксису 1С. |   |  |  |
@@ -1324,16 +1324,16 @@
 | [khorevaa/bindata](https://github.com/khorevaa/bindata) | Библиотека для запаковки файлов в файл .os |   |  |  |
 | [kasperiks/training1C](https://github.com/kasperiks/training1C) | Проект по обучению использования обработок 1с на github |   |  |  |
 | [silverbulleters/vanessa-behavior2](https://github.com/silverbulleters/vanessa-behavior2) | репозиторий для нового процесса разработки |   |  |  |
-| [vasvl123/OneScriptDB](https://github.com/vasvl123/OneScriptDB) | Объектно-ориентированная система управления базами данных в среде OneScript |   |  |  |
 | [andreosh/UfaScript](https://github.com/andreosh/UfaScript) | Библиотека консольного интерфейса и ООП для OneScript |   |  |  |
 | [artbear/1bdd](https://github.com/artbear/1bdd) | 1BDD для OneScript - консольный фреймворк, реализующий BDD для проекта OneScript. Для Windows и Linux. |   |  |  |
 | [oscript-library/v8runner](https://github.com/oscript-library/v8runner) | Управление запуском 1С из командной строки |   |  |  |
-| [antowski/recoder](https://github.com/antowski/recoder) | Библиотека 1Script для изменения кодировки текстовых файлов |   |  |  |
 | [silverbulleters/ovm](https://github.com/silverbulleters/ovm) | OneScript Version Manager |   |  |  |
+| [antowski/recoder](https://github.com/antowski/recoder) | Библиотека 1Script для изменения кодировки текстовых файлов |   |  |  |
 | [flex81/PromRazrabKursTest](https://github.com/flex81/PromRazrabKursTest) |  |   |  |  |
 | [xDrivenDevelopment/precommit1c](https://github.com/xDrivenDevelopment/precommit1c) | Набор утилит для автоматической разборки/сборки внешних обработок и отчетов, при помещении (commit) в git |   |  |  |
 | [EvilBeaver/oscript-infrastructure](https://github.com/EvilBeaver/oscript-infrastructure) | Скрипты поддержки инфраструктуры oscript.io |   |  |  |
 | [silverbulleters/sonar-l10n-ru](https://github.com/silverbulleters/sonar-l10n-ru) | Russian Language Pack for SonarQube |   |  |  |
+| [silverbulleters/vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior) | BDD for 1C:Enterprise inspired by Cucumber |   |  |  |
 | [pumbaEO/precommit1c](https://github.com/pumbaEO/precommit1c) | precommit1c |   |  |  |
 | [oscript-library/notify](https://github.com/oscript-library/notify) |  |   |  |  |
 
