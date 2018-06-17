@@ -513,8 +513,8 @@
     ВыполнитьПоиск("language:""1C+Enterprise"""
         , Репозитории1CПолноценые, "repositories");
 
-    ВыполнитьПоиск("КонецПроцедуры+OR+КонецФункции+OR+КонецЦикла+OR+КонецЕсли+OR+EndProcedure+OR+EndFunction+in:file+extension:os"
-        , РепозиторииOS);
+    //ВыполнитьПоиск("КонецПроцедуры+OR+КонецФункции+OR+КонецЦикла+OR+КонецЕсли+OR+EndProcedure+OR+EndFunction+in:file+extension:os"
+    //    , РепозиторииOS);
     //ВыполнитьПоиск("КонецПроцедуры+OR+КонецФункции+OR+КонецЦикла+OR+КонецЕсли+OR+EndProcedure+OR+EndFunction+in:file+extension:bsl"
     //, РепозиторииBSL);
         
