@@ -25,6 +25,7 @@
 * [1C и Redmine](https://github.com/SmokyAce/integration-1c-redmine)
 * [1C и PricePlan](https://github.com/linskiy/priceplan_1C/) 
 * [1C и HBCI](https://github.com/pintov/1c-fints)
+* [1C и Google Analytics](https://github.com/infosoft-v/GA_SAMPLE)
 
 ## Контроль качества разработки
 
