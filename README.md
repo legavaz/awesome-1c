@@ -14,6 +14,7 @@
 * [DirectBank (прямой обмен с банком) – технология системы "1С:Предприятие 8"](https://github.com/1C-Company/DirectBank) - 
 * [Пример конфигурации для EDT](https://github.com/1C-Company/dt-demo-configuration)
 * [Пример плагина для EDT](https://github.com/1C-Company/dt-example-plugins)
+* [1С:ГитКонвертер - односторонняя синхронизация хранилища конфигураций 1С в репозиторий Git](https://github.com/1C-Company/GitConverter)
 
 
 ## Примеры интеграций 1C и <что-то>
