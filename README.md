@@ -106,6 +106,7 @@
 * https://github.com/asdaru/postgres_1c
 * https://github.com/SergeFocus/1C-Functin-to-yEd
 * https://github.com/pintov/1c-jwt
+* https://github.com/goshulina/auto_act_1c
 
 **Автоматический поиск**
 
