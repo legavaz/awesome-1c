@@ -1,5 +1,6 @@
 ﻿# Список классных программ для 1С [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+*просто текст
 `proposal of the list to for the 1C Enterprise platform (1c-dn.com), will be in Russian right now`
 
 > todo - сделать оглавление автоматизировано
